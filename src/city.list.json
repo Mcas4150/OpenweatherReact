@@ -1,0 +1,9775 @@
+[{
+  "id": 3480812,
+  "name": "Puntas de Valdez",
+  "country": "UY",
+  "coord": {
+    "lon": -56.69944,
+    "lat": -34.583889
+  }
+},
+{
+  "id": 3480820,
+  "name": "Colonia Nicolich",
+  "country": "UY",
+  "coord": {
+    "lon": -56.04472,
+    "lat": -34.813061
+  }
+},
+{
+  "id": 3480822,
+  "name": "Barra de Carrasco",
+  "country": "UY",
+  "coord": {
+    "lon": -56.02972,
+    "lat": -34.87722
+  }
+},
+{
+  "id": 3480825,
+  "name": "Pajas Blancas",
+  "country": "UY",
+  "coord": {
+    "lon": -56.334171,
+    "lat": -34.80167
+  }
+},
+{
+  "id": 601299,
+  "name": "Muynoq",
+  "country": "UZ",
+  "coord": {
+    "lon": 59.021389,
+    "lat": 43.76833
+  }
+},
+{
+  "id": 601306,
+  "name": "Qanlikol",
+  "country": "UZ",
+  "coord": {
+    "lon": 59.000931,
+    "lat": 42.8395
+  }
+},
+{
+  "id": 601349,
+  "name": "Kegeyli Shahar",
+  "country": "UZ",
+  "coord": {
+    "lon": 59.60778,
+    "lat": 42.776669
+  }
+},
+{
+  "id": 601351,
+  "name": "Qozonketkan",
+  "country": "UZ",
+  "coord": {
+    "lon": 59.36425,
+    "lat": 43.01907
+  }
+},
+{
+  "id": 601423,
+  "name": "Oqmangit",
+  "country": "UZ",
+  "coord": {
+    "lon": 59.534439,
+    "lat": 42.598888
+  }
+},
+{
+  "id": 829955,
+  "name": "Qongirot Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 58.845959,
+    "lat": 43.052071
+  }
+},
+{
+  "id": 829959,
+  "name": "Xojayli Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 59.445438,
+    "lat": 42.40881
+  }
+},
+{
+  "id": 829960,
+  "name": "Chimboy Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 59.78199,
+    "lat": 42.92952
+  }
+},
+{
+  "id": 829962,
+  "name": "Moynoq Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 59.030392,
+    "lat": 43.77877
+  }
+},
+{
+  "id": 829964,
+  "name": "Shumanay Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 58.930599,
+    "lat": 42.634331
+  }
+},
+{
+  "id": 1215736,
+  "name": "Nishon Tumani",
+  "country": "UZ",
+  "coord": {
+    "lon": 65.675117,
+    "lat": 38.693951
+  }
+},
+{
+  "id": 1215856,
+  "name": "Muglon Shahar",
+  "country": "UZ",
+  "coord": {
+    "lon": 65.41217,
+    "lat": 38.918781
+  }
+},
+{
+  "id": 1216189,
+  "name": "Shohimardon",
+  "country": "UZ",
+  "coord": {
+    "lon": 71.80278,
+    "lat": 39.983891
+  }
+},
+{
+  "id": 1216290,
+  "name": "Romiton",
+  "country": "UZ",
+  "coord": {
+    "lon": 64.37944,
+    "lat": 39.92944
+  }
+},
+{
+  "id": 1216490,
+  "name": "Yangi Mirishkor",
+  "country": "UZ",
+  "coord": {
+    "lon": 65.277893,
+    "lat": 38.851429
+  }
+},
+{
+  "id": 1217035,
+  "name": "Qorovulbozor",
+  "country": "UZ",
+  "coord": {
+    "lon": 64.79361,
+    "lat": 39.500561
+  }
+},
+{
+  "id": 1217215,
+  "name": "Ishtixon",
+  "country": "UZ",
+  "coord": {
+    "lon": 66.486107,
+    "lat": 39.966389
+  }
+},
+{
+  "id": 1217414,
+  "name": "Jomboy",
+  "country": "UZ",
+  "coord": {
+    "lon": 67.09333,
+    "lat": 39.698891
+  }
+},
+{
+  "id": 1217512,
+  "name": "Daxbet",
+  "country": "UZ",
+  "coord": {
+    "lon": 66.912498,
+    "lat": 39.763889
+  }
+},
+{
+  "id": 1217595,
+  "name": "Charxin",
+  "country": "UZ",
+  "coord": {
+    "lon": 66.768608,
+    "lat": 39.696671
+  }
+},
+{
+  "id": 1217907,
+  "name": "Olot",
+  "country": "UZ",
+  "coord": {
+    "lon": 63.803329,
+    "lat": 39.415001
+  }
+},
+{
+  "id": 1346442,
+  "name": "Qorovulbozor Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 64.811417,
+    "lat": 39.503078
+  }
+},
+{
+  "id": 1346480,
+  "name": "Qorashina",
+  "country": "UZ",
+  "coord": {
+    "lon": 66.563423,
+    "lat": 38.34185
+  }
+},
+{
+  "id": 1346482,
+  "name": "Shahrisabz Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 66.820831,
+    "lat": 39.052059
+  }
+},
+{
+  "id": 1346483,
+  "name": "Koson Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 65.59082,
+    "lat": 39.04472
+  }
+},
+{
+  "id": 1346486,
+  "name": "Muborak Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 65.156738,
+    "lat": 39.257778
+  }
+},
+{
+  "id": 1346487,
+  "name": "Beshkent Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 65.642464,
+    "lat": 38.811069
+  }
+},
+{
+  "id": 1346488,
+  "name": "Guzor Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 66.245148,
+    "lat": 38.625961
+  }
+},
+{
+  "id": 1346489,
+  "name": "Qamashi Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 66.464409,
+    "lat": 38.819981
+  }
+},
+{
+  "id": 1346491,
+  "name": "Chiroqchi Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 66.580841,
+    "lat": 39.027271
+  }
+},
+{
+  "id": 1346492,
+  "name": "Yakkabog Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 66.688667,
+    "lat": 38.976639
+  }
+},
+{
+  "id": 1346493,
+  "name": "Yangi-Nishon Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 65.689522,
+    "lat": 38.645012
+  }
+},
+{
+  "id": 1512464,
+  "name": "Urtaowul",
+  "country": "UZ",
+  "coord": {
+    "lon": 69.145279,
+    "lat": 41.186668
+  }
+},
+{
+  "id": 1512675,
+  "name": "Tomdibuloq",
+  "country": "UZ",
+  "coord": {
+    "lon": 64.617111,
+    "lat": 41.750801
+  }
+},
+{
+  "id": 1512699,
+  "name": "Taxtakopir",
+  "country": "UZ",
+  "coord": {
+    "lon": 60.301109,
+    "lat": 43.011711
+  }
+},
+{
+  "id": 1513242,
+  "name": "Marhamat",
+  "country": "UZ",
+  "coord": {
+    "lon": 72.313881,
+    "lat": 40.48048
+  }
+},
+{
+  "id": 1513288,
+  "name": "Qiziltepa",
+  "country": "UZ",
+  "coord": {
+    "lon": 64.849998,
+    "lat": 40.033058
+  }
+},
+{
+  "id": 1513491,
+  "name": "Komsomolskiy",
+  "country": "UZ",
+  "coord": {
+    "lon": 71.718887,
+    "lat": 40.427219
+  }
+},
+{
+  "id": 1513650,
+  "name": "Hamza",
+  "country": "UZ",
+  "coord": {
+    "lon": 71.49556,
+    "lat": 40.426392
+  }
+},
+{
+  "id": 1513733,
+  "name": "Qoraozak",
+  "country": "UZ",
+  "coord": {
+    "lon": 60.01701,
+    "lat": 43.022072
+  }
+},
+{
+  "id": 1513831,
+  "name": "Konimex",
+  "country": "UZ",
+  "coord": {
+    "lon": 65.145111,
+    "lat": 40.275928
+  }
+},
+{
+  "id": 1513990,
+  "name": "Gazli",
+  "country": "UZ",
+  "coord": {
+    "lon": 63.450001,
+    "lat": 40.133331
+  }
+},
+{
+  "id": 1514027,
+  "name": "Amir Timur",
+  "country": "UZ",
+  "coord": {
+    "lon": 68.940826,
+    "lat": 41.01944
+  }
+},
+{
+  "id": 1514225,
+  "name": "Kyzyldzhar",
+  "country": "UZ",
+  "coord": {
+    "lon": 70.01667,
+    "lat": 41.566669
+  }
+},
+{
+  "id": 1514369,
+  "name": "Beshrabot",
+  "country": "UZ",
+  "coord": {
+    "lon": 65.335281,
+    "lat": 40.197609
+  }
+},
+{
+  "id": 1538221,
+  "name": "Beruniy Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 60.755009,
+    "lat": 41.699039
+  }
+},
+{
+  "id": 1538222,
+  "name": "Tortkol Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 61.001801,
+    "lat": 41.560551
+  }
+},
+{
+  "id": 1538223,
+  "name": "Boston Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 60.947441,
+    "lat": 41.846069
+  }
+},
+{
+  "id": 1538224,
+  "name": "Mangit Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 60.062759,
+    "lat": 42.12215
+  }
+},
+{
+  "id": 1538229,
+  "name": "Navoiy Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 65.371201,
+    "lat": 40.092941
+  }
+},
+{
+  "id": 1538231,
+  "name": "Uchquduq Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 63.552212,
+    "lat": 42.150009
+  }
+},
+{
+  "id": 1538233,
+  "name": "Qiziltepa Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 64.82885,
+    "lat": 40.025398
+  }
+},
+{
+  "id": 1538234,
+  "name": "Nurota Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 65.679466,
+    "lat": 40.567619
+  }
+},
+{
+  "id": 1538273,
+  "name": "Namangan Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 71.660919,
+    "lat": 40.994259
+  }
+},
+{
+  "id": 1538274,
+  "name": "Kosonsoy Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 71.542389,
+    "lat": 41.263271
+  }
+},
+{
+  "id": 1538276,
+  "name": "Chortoq Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 71.817719,
+    "lat": 41.07703
+  }
+},
+{
+  "id": 1538278,
+  "name": "Haqqulobod Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 72.120583,
+    "lat": 40.91634
+  }
+},
+{
+  "id": 1538279,
+  "name": "Pop Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 71.102203,
+    "lat": 40.876419
+  }
+},
+{
+  "id": 1538280,
+  "name": "Turagurghon Shahri",
+  "country": "UZ",
+  "coord": {
+    "lon": 71.510559,
+    "lat": 41.003342
+  }
+},
+{
+  "id": 3577844,
+  "name": "Port Elizabeth",
+  "country": "VC",
+  "coord": {
+    "lon": -61.23333,
+    "lat": 13.01667
+  }
+},
+{
+  "id": 3577900,
+  "name": "Georgetown",
+  "country": "VC",
+  "coord": {
+    "lon": -61.130199,
+    "lat": 13.2879
+  }
+},
+{
+  "id": 3577944,
+  "name": "Byera Village",
+  "country": "VC",
+  "coord": {
+    "lon": -61.116669,
+    "lat": 13.25
+  }
+},
+{
+  "id": 3577955,
+  "name": "Biabou",
+  "country": "VC",
+  "coord": {
+    "lon": -61.133331,
+    "lat": 13.2
+  }
+},
+{
+  "id": 3577962,
+  "name": "Barrouallie",
+  "country": "VC",
+  "coord": {
+    "lon": -61.26667,
+    "lat": 13.23333
+  }
+},
+{
+  "id": 3481456,
+  "name": "Tocuyito",
+  "country": "VE",
+  "coord": {
+    "lon": -68.0793,
+    "lat": 10.10861
+  }
+},
+{
+  "id": 3485791,
+  "name": "El Chaparro",
+  "country": "VE",
+  "coord": {
+    "lon": -65.016876,
+    "lat": 9.15177
+  }
+},
+{
+  "id": 3486577,
+  "name": "Santa Cruz de Guacas",
+  "country": "VE",
+  "coord": {
+    "lon": -71.301399,
+    "lat": 7.44329
+  }
+},
+{
+  "id": 3486692,
+  "name": "El Real",
+  "country": "VE",
+  "coord": {
+    "lon": -69.99633,
+    "lat": 8.43525
+  }
+},
+{
+  "id": 3486718,
+  "name": "Puerto Vivas",
+  "country": "VE",
+  "coord": {
+    "lon": -71.84446,
+    "lat": 7.50005
+  }
+},
+{
+  "id": 3486930,
+  "name": "La Mula",
+  "country": "VE",
+  "coord": {
+    "lon": -70.375237,
+    "lat": 8.57084
+  }
+},
+{
+  "id": 3487261,
+  "name": "Los Guasimitos",
+  "country": "VE",
+  "coord": {
+    "lon": -70.232162,
+    "lat": 8.66435
+  }
+},
+{
+  "id": 3625051,
+  "name": "Zea",
+  "country": "VE",
+  "coord": {
+    "lon": -71.781853,
+    "lat": 8.37628
+  }
+},
+{
+  "id": 3625155,
+  "name": "Yumare",
+  "country": "VE",
+  "coord": {
+    "lon": -68.672447,
+    "lat": 10.59732
+  }
+},
+{
+  "id": 3625214,
+  "name": "Yaracal",
+  "country": "VE",
+  "coord": {
+    "lon": -68.54435,
+    "lat": 10.97099
+  }
+},
+{
+  "id": 3625239,
+  "name": "Yaguaraparo",
+  "country": "VE",
+  "coord": {
+    "lon": -62.826931,
+    "lat": 10.56916
+  }
+},
+{
+  "id": 3625469,
+  "name": "Las Casitas del Vegon de Nutrias",
+  "country": "VE",
+  "coord": {
+    "lon": -69.418297,
+    "lat": 8.23704
+  }
+},
+{
+  "id": 3625519,
+  "name": "Valle de Guanape",
+  "country": "VE",
+  "coord": {
+    "lon": -65.674049,
+    "lat": 9.90999
+  }
+},
+{
+  "id": 3625613,
+  "name": "Urumaco",
+  "country": "VE",
+  "coord": {
+    "lon": -70.25499,
+    "lat": 11.19913
+  }
+},
+{
+  "id": 3625696,
+  "name": "Urachiche",
+  "country": "VE",
+  "coord": {
+    "lon": -69.011108,
+    "lat": 10.15917
+  }
+},
+{
+  "id": 3625732,
+  "name": "Umuquena",
+  "country": "VE",
+  "coord": {
+    "lon": -72.063713,
+    "lat": 8.26588
+  }
+},
+{
+  "id": 3625944,
+  "name": "Tucupido",
+  "country": "VE",
+  "coord": {
+    "lon": -65.77153,
+    "lat": 9.27496
+  }
+},
+{
+  "id": 3625963,
+  "name": "Tucani",
+  "country": "VE",
+  "coord": {
+    "lon": -71.272774,
+    "lat": 8.97003
+  }
+},
+{
+  "id": 3626047,
+  "name": "Tovar",
+  "country": "VE",
+  "coord": {
+    "lon": -71.751183,
+    "lat": 8.33204
+  }
+},
+{
+  "id": 3626074,
+  "name": "Torunos",
+  "country": "VE",
+  "coord": {
+    "lon": -70.080559,
+    "lat": 8.50016
+  }
+},
+{
+  "id": 3626094,
+  "name": "Torondoy",
+  "country": "VE",
+  "coord": {
+    "lon": -71.014061,
+    "lat": 9.03115
+  }
+},
+{
+  "id": 3626168,
+  "name": "Tocopero",
+  "country": "VE",
+  "coord": {
+    "lon": -69.258919,
+    "lat": 11.49897
+  }
+},
+{
+  "id": 3626237,
+  "name": "Timotes",
+  "country": "VE",
+  "coord": {
+    "lon": -70.739258,
+    "lat": 8.98224
+  }
+},
+{
+  "id": 3626302,
+  "name": "Tia Juana",
+  "country": "VE",
+  "coord": {
+    "lon": -71.368652,
+    "lat": 10.25838
+  }
+},
+{
+  "id": 3626595,
+  "name": "Tabay",
+  "country": "VE",
+  "coord": {
+    "lon": -71.07843,
+    "lat": 8.6311
+  }
+},
+{
+  "id": 3626741,
+  "name": "Soledad",
+  "country": "VE",
+  "coord": {
+    "lon": -63.565842,
+    "lat": 8.16281
+  }
+},
+{
+  "id": 3626764,
+  "name": "Socopo",
+  "country": "VE",
+  "coord": {
+    "lon": -70.821983,
+    "lat": 8.23062
+  }
+},
+{
+  "id": 3626785,
+  "name": "Siquisique",
+  "country": "VE",
+  "coord": {
+    "lon": -69.703018,
+    "lat": 10.57027
+  }
+},
+{
+  "id": 3626809,
+  "name": "Sinamaica",
+  "country": "VE",
+  "coord": {
+    "lon": -71.853638,
+    "lat": 11.08515
+  }
+},
+{
+  "id": 3626921,
+  "name": "Seboruco",
+  "country": "VE",
+  "coord": {
+    "lon": -72.073318,
+    "lat": 8.14514
+  }
+},
+{
+  "id": 3626960,
+  "name": "Sarare",
+  "country": "VE",
+  "coord": {
+    "lon": -69.1633,
+    "lat": 9.78128
+  }
+},
+{
+  "id": 3627021,
+  "name": "Santo Domingo",
+  "country": "VE",
+  "coord": {
+    "lon": -70.694801,
+    "lat": 8.86052
+  }
+},
+{
+  "id": 3627034,
+  "name": "San Timoteo",
+  "country": "VE",
+  "coord": {
+    "lon": -71.066673,
+    "lat": 9.8
+  }
+},
+{
+  "id": 3627148,
+  "name": "Santa Rosa",
+  "country": "VE",
+  "coord": {
+    "lon": -69.70105,
+    "lat": 8.44033
+  }
+},
+{
+  "id": 3627237,
+  "name": "Santa Maria de Ipire",
+  "country": "VE",
+  "coord": {
+    "lon": -65.322502,
+    "lat": 8.81556
+  }
+},
+{
+  "id": 3627240,
+  "name": "Santa Maria de Caparo",
+  "country": "VE",
+  "coord": {
+    "lon": -71.464661,
+    "lat": 7.71412
+  }
+},
+{
+  "id": 3627304,
+  "name": "Santa Lucia",
+  "country": "VE",
+  "coord": {
+    "lon": -69.777519,
+    "lat": 8.10155
+  }
+},
+{
+  "id": 3627334,
+  "name": "Santa Isabel",
+  "country": "VE",
+  "coord": {
+    "lon": -70.807587,
+    "lat": 9.63217
+  }
+},
+{
+  "id": 3627360,
+  "name": "Santa Ines",
+  "country": "VE",
+  "coord": {
+    "lon": -69.897949,
+    "lat": 8.26241
+  }
+},
+{
+  "id": 3627382,
+  "name": "Santa Elena de Uairen",
+  "country": "VE",
+  "coord": {
+    "lon": -61.133331,
+    "lat": 4.61667
+  }
+},
+{
+  "id": 3627384,
+  "name": "Santa Elena de Arenales",
+  "country": "VE",
+  "coord": {
+    "lon": -71.465637,
+    "lat": 8.81924
+  }
+},
+{
+  "id": 3627418,
+  "name": "Santa Cruz",
+  "country": "VE",
+  "coord": {
+    "lon": -71.641258,
+    "lat": 8.39823
+  }
+},
+{
+  "id": 3627423,
+  "name": "Santa Cruz de Bucaral",
+  "country": "VE",
+  "coord": {
+    "lon": -69.277763,
+    "lat": 10.81953
+  }
+},
+{
+  "id": 3627510,
+  "name": "Santa Catalina",
+  "country": "VE",
+  "coord": {
+    "lon": -68.91745,
+    "lat": 7.92408
+  }
+},
+{
+  "id": 3627549,
+  "name": "Santa Barbara",
+  "country": "VE",
+  "coord": {
+    "lon": -63.610031,
+    "lat": 9.60886
+  }
+},
+{
+  "id": 3627561,
+  "name": "Santa Barbara",
+  "country": "VE",
+  "coord": {
+    "lon": -71.177879,
+    "lat": 7.81348
+  }
+},
+{
+  "id": 3627576,
+  "name": "Santa Apolonia",
+  "country": "VE",
+  "coord": {
+    "lon": -71.014191,
+    "lat": 9.47139
+  }
+},
+{
+  "id": 3627593,
+  "name": "Santa Ana",
+  "country": "VE",
+  "coord": {
+    "lon": -63.924198,
+    "lat": 11.06908
+  }
+},
+{
+  "id": 3627609,
+  "name": "Santa Ana",
+  "country": "VE",
+  "coord": {
+    "lon": -64.654778,
+    "lat": 9.3056
+  }
+},
+{
+  "id": 3627611,
+  "name": "Santa Ana",
+  "country": "VE",
+  "coord": {
+    "lon": -72.021744,
+    "lat": 8.11697
+  }
+},
+{
+  "id": 3627633,
+  "name": "San Simon",
+  "country": "VE",
+  "coord": {
+    "lon": -71.850281,
+    "lat": 8.35078
+  }
+},
+{
+  "id": 3627635,
+  "name": "San Silvestre",
+  "country": "VE",
+  "coord": {
+    "lon": -70.110268,
+    "lat": 8.27585
+  }
+},
+{
+  "id": 3627680,
+  "name": "San Rafael de Onoto",
+  "country": "VE",
+  "coord": {
+    "lon": -68.973442,
+    "lat": 9.67742
+  }
+},
+{
+  "id": 3627683,
+  "name": "San Rafael de Carvajal",
+  "country": "VE",
+  "coord": {
+    "lon": -70.58532,
+    "lat": 9.30339
+  }
+},
+{
+  "id": 3627685,
+  "name": "San Rafael de Canagua",
+  "country": "VE",
+  "coord": {
+    "lon": -70.008614,
+    "lat": 8.02667
+  }
+},
+{
+  "id": 3627874,
+  "name": "San Pablo",
+  "country": "VE",
+  "coord": {
+    "lon": -68.844513,
+    "lat": 10.24828
+  }
+},
+{
+  "id": 3627969,
+  "name": "San Mateo",
+  "country": "VE",
+  "coord": {
+    "lon": -64.549599,
+    "lat": 9.7392
+  }
+},
+{
+  "id": 3627997,
+  "name": "San Luis",
+  "country": "VE",
+  "coord": {
+    "lon": -69.683968,
+    "lat": 11.12034
+  }
+},
+{
+  "id": 3628052,
+  "name": "San Juan de Manapiare",
+  "country": "VE",
+  "coord": {
+    "lon": -66.048622,
+    "lat": 5.31718
+  }
+},
+{
+  "id": 3628066,
+  "name": "San Juan Bautista",
+  "country": "VE",
+  "coord": {
+    "lon": -63.944061,
+    "lat": 11.01116
+  }
+},
+{
+  "id": 3628129,
+  "name": "San Jose de Barlovento",
+  "country": "VE",
+  "coord": {
+    "lon": -65.990517,
+    "lat": 10.30125
+  }
+},
+{
+  "id": 3628148,
+  "name": "San Jose de Aerocuar",
+  "country": "VE",
+  "coord": {
+    "lon": -63.328522,
+    "lat": 10.59973
+  }
+},
+{
+  "id": 3628374,
+  "name": "San Francisco",
+  "country": "VE",
+  "coord": {
+    "lon": -71.703644,
+    "lat": 10.55363
+  }
+},
+{
+  "id": 3628394,
+  "name": "San Fernando de Atabapo",
+  "country": "VE",
+  "coord": {
+    "lon": -67.700317,
+    "lat": 4.04956
+  }
+},
+{
+  "id": 3628487,
+  "name": "San Casimiro",
+  "country": "VE",
+  "coord": {
+    "lon": -67.014641,
+    "lat": 10.00169
+  }
+},
+{
+  "id": 3628488,
+  "name": "San Carlos de Rio Negro",
+  "country": "VE",
+  "coord": {
+    "lon": -67.066673,
+    "lat": 1.91667
+  }
+},
+{
+  "id": 3628552,
+  "name": "San Antonio del Golfo",
+  "country": "VE",
+  "coord": {
+    "lon": -63.789612,
+    "lat": 10.44155
+  }
+},
+{
+  "id": 3628657,
+  "name": "San Antonio",
+  "country": "VE",
+  "coord": {
+    "lon": -68.433838,
+    "lat": 7.96378
+  }
+},
+{
+  "id": 3628853,
+  "name": "Sabaneta",
+  "country": "VE",
+  "coord": {
+    "lon": -69.935158,
+    "lat": 8.75326
+  }
+},
+{
+  "id": 3628904,
+  "name": "Sabana Grande",
+  "country": "VE",
+  "coord": {
+    "lon": -70.797623,
+    "lat": 9.4028
+  }
+},
+{
+  "id": 3628918,
+  "name": "Sabana de Parra",
+  "country": "VE",
+  "coord": {
+    "lon": -69.036392,
+    "lat": 10.12111
+  }
+},
+{
+  "id": 3628921,
+  "name": "Sabana de Mendoza",
+  "country": "VE",
+  "coord": {
+    "lon": -70.776123,
+    "lat": 9.43513
+  }
+},
+{
+  "id": 3629102,
+  "name": "Rio Chico",
+  "country": "VE",
+  "coord": {
+    "lon": -65.977821,
+    "lat": 10.32043
+  }
+},
+{
+  "id": 3629107,
+  "name": "Rio Caribe",
+  "country": "VE",
+  "coord": {
+    "lon": -63.109638,
+    "lat": 10.6971
+  }
+},
+{
+  "id": 3629385,
+  "name": "Quiriquire",
+  "country": "VE",
+  "coord": {
+    "lon": -63.21991,
+    "lat": 9.9795
+  }
+},
+{
+  "id": 3629459,
+  "name": "Queniquea",
+  "country": "VE",
+  "coord": {
+    "lon": -72.015572,
+    "lat": 7.91717
+  }
+},
+{
+  "id": 3629490,
+  "name": "Quebrada Seca",
+  "country": "VE",
+  "coord": {
+    "lon": -70.319412,
+    "lat": 8.70015
+  }
+},
+{
+  "id": 3629604,
+  "name": "Punta de Piedra",
+  "country": "VE",
+  "coord": {
+    "lon": -71.491638,
+    "lat": 7.61759
+  }
+},
+{
+  "id": 3629653,
+  "name": "Puerto Piritu",
+  "country": "VE",
+  "coord": {
+    "lon": -65.042068,
+    "lat": 10.0613
+  }
+},
+{
+  "id": 3629693,
+  "name": "Puerto de Nutrias",
+  "country": "VE",
+  "coord": {
+    "lon": -69.30246,
+    "lat": 8.0728
+  }
+},
+{
+  "id": 3629696,
+  "name": "Puerto Cumarebo",
+  "country": "VE",
+  "coord": {
+    "lon": -69.352219,
+    "lat": 11.48783
+  }
+},
+{
+  "id": 3629790,
+  "name": "Pueblo Nuevo",
+  "country": "VE",
+  "coord": {
+    "lon": -71.608879,
+    "lat": 8.96454
+  }
+},
+{
+  "id": 3630086,
+  "name": "Piritu",
+  "country": "VE",
+  "coord": {
+    "lon": -69.137222,
+    "lat": 11.37389
+  }
+},
+{
+  "id": 3630087,
+  "name": "Piritu",
+  "country": "VE",
+  "coord": {
+    "lon": -65.029747,
+    "lat": 10.03891
+  }
+},
+{
+  "id": 3630089,
+  "name": "Piritu",
+  "country": "VE",
+  "coord": {
+    "lon": -69.210281,
+    "lat": 9.37083
+  }
+},
+{
+  "id": 3630473,
+  "name": "Pedregal",
+  "country": "VE",
+  "coord": {
+    "lon": -70.120583,
+    "lat": 11.02037
+  }
+},
+{
+  "id": 3630480,
+  "name": "Pedraza La Vieja",
+  "country": "VE",
+  "coord": {
+    "lon": -71.059341,
+    "lat": 7.9168
+  }
+},
+{
+  "id": 3630490,
+  "name": "Pedernales",
+  "country": "VE",
+  "coord": {
+    "lon": -62.251511,
+    "lat": 9.97152
+  }
+},
+{
+  "id": 3630778,
+  "name": "La Plaza Paraguachi",
+  "country": "VE",
+  "coord": {
+    "lon": -63.85537,
+    "lat": 11.10783
+  }
+},
+{
+  "id": 3630826,
+  "name": "Papelon",
+  "country": "VE",
+  "coord": {
+    "lon": -69.460197,
+    "lat": 8.94109
+  }
+},
+{
+  "id": 3630893,
+  "name": "Pampatar",
+  "country": "VE",
+  "coord": {
+    "lon": -63.79343,
+    "lat": 11.00125
+  }
+},
+{
+  "id": 3630894,
+  "name": "Pampanito",
+  "country": "VE",
+  "coord": {
+    "lon": -70.50116,
+    "lat": 9.41037
+  }
+},
+{
+  "id": 3630982,
+  "name": "Palmira",
+  "country": "VE",
+  "coord": {
+    "lon": -72.227577,
+    "lat": 7.83607
+  }
+},
+{
+  "id": 3630999,
+  "name": "Palmasola",
+  "country": "VE",
+  "coord": {
+    "lon": -66.716667,
+    "lat": 9.23333
+  }
+},
+{
+  "id": 3631247,
+  "name": "Ortiz",
+  "country": "VE",
+  "coord": {
+    "lon": -67.290466,
+    "lat": 9.62168
+  }
+},
+{
+  "id": 3631333,
+  "name": "Onoto",
+  "country": "VE",
+  "coord": {
+    "lon": -65.193497,
+    "lat": 9.59714
+  }
+},
+{
+  "id": 3631413,
+  "name": "Ocumare de la Costa",
+  "country": "VE",
+  "coord": {
+    "lon": -67.768723,
+    "lat": 10.46127
+  }
+},
+{
+  "id": 3631431,
+  "name": "Obispos",
+  "country": "VE",
+  "coord": {
+    "lon": -70.104889,
+    "lat": 8.60701
+  }
+},
+{
+  "id": 3631465,
+  "name": "Nueva Bolivia",
+  "country": "VE",
+  "coord": {
+    "lon": -71.091202,
+    "lat": 9.14176
+  }
+},
+{
+  "id": 3631752,
+  "name": "Mucuchies",
+  "country": "VE",
+  "coord": {
+    "lon": -70.914177,
+    "lat": 8.74899
+  }
+},
+{
+  "id": 3631791,
+  "name": "Motatan",
+  "country": "VE",
+  "coord": {
+    "lon": -70.591187,
+    "lat": 9.39002
+  }
+},
+{
+  "id": 3632051,
+  "name": "Monte Carmelo",
+  "country": "VE",
+  "coord": {
+    "lon": -70.815613,
+    "lat": 9.18583
+  }
+},
+{
+  "id": 3632072,
+  "name": "Montalban",
+  "country": "VE",
+  "coord": {
+    "lon": -68.326736,
+    "lat": 10.21298
+  }
+},
+{
+  "id": 3632186,
+  "name": "Mirimire",
+  "country": "VE",
+  "coord": {
+    "lon": -68.726044,
+    "lat": 11.1602
+  }
+},
+{
+  "id": 3632198,
+  "name": "Miranda",
+  "country": "VE",
+  "coord": {
+    "lon": -68.39418,
+    "lat": 10.14987
+  }
+},
+{
+  "id": 3632836,
+  "name": "Masparrito",
+  "country": "VE",
+  "coord": {
+    "lon": -70.301392,
+    "lat": 9.00194
+  }
+},
+{
+  "id": 3632867,
+  "name": "Maroa",
+  "country": "VE",
+  "coord": {
+    "lon": -67.559921,
+    "lat": 2.71861
+  }
+},
+{
+  "id": 3632890,
+  "name": "Maripa",
+  "country": "VE",
+  "coord": {
+    "lon": -65.189613,
+    "lat": 7.41537
+  }
+},
+{
+  "id": 3632910,
+  "name": "Mariguitar",
+  "country": "VE",
+  "coord": {
+    "lon": -63.904491,
+    "lat": 10.44716
+  }
+},
+{
+  "id": 3633063,
+  "name": "Maporal",
+  "country": "VE",
+  "coord": {
+    "lon": -70.419853,
+    "lat": 7.645
+  }
+},
+{
+  "id": 3633248,
+  "name": "Mamporal",
+  "country": "VE",
+  "coord": {
+    "lon": -66.13044,
+    "lat": 10.36461
+  }
+},
+{
+  "id": 3634116,
+  "name": "Los Guayos",
+  "country": "VE",
+  "coord": {
+    "lon": -67.937698,
+    "lat": 10.18026
+  }
+},
+{
+  "id": 3634696,
+  "name": "Lobatera",
+  "country": "VE",
+  "coord": {
+    "lon": -72.246834,
+    "lat": 7.9293
+  }
+},
+{
+  "id": 3634760,
+  "name": "Libertad",
+  "country": "VE",
+  "coord": {
+    "lon": -68.691772,
+    "lat": 9.35562
+  }
+},
+{
+  "id": 3634761,
+  "name": "Libertad",
+  "country": "VE",
+  "coord": {
+    "lon": -69.629768,
+    "lat": 8.32651
+  }
+},
+{
+  "id": 3634763,
+  "name": "Capacho Viejo",
+  "country": "VE",
+  "coord": {
+    "lon": -72.319069,
+    "lat": 7.82853
+  }
+},
+{
+  "id": 3634816,
+  "name": "La Yuca",
+  "country": "VE",
+  "coord": {
+    "lon": -70.180717,
+    "lat": 8.73109
+  }
+},
+{
+  "id": 3634973,
+  "name": "Veguitas",
+  "country": "VE",
+  "coord": {
+    "lon": -69.995811,
+    "lat": 8.82391
+  }
+},
+{
+  "id": 3635064,
+  "name": "La Union",
+  "country": "VE",
+  "coord": {
+    "lon": -67.766533,
+    "lat": 8.21573
+  }
+},
+{
+  "id": 3635260,
+  "name": "Las Vegas",
+  "country": "VE",
+  "coord": {
+    "lon": -68.629601,
+    "lat": 9.53727
+  }
+},
+{
+  "id": 3635714,
+  "name": "Las Mercedes",
+  "country": "VE",
+  "coord": {
+    "lon": -66.397179,
+    "lat": 9.11018
+  }
+},
+{
+  "id": 3636565,
+  "name": "La Quebrada",
+  "country": "VE",
+  "coord": {
+    "lon": -70.576042,
+    "lat": 9.15462
+  }
+},
+{
+  "id": 3637311,
+  "name": "La Luz",
+  "country": "VE",
+  "coord": {
+    "lon": -69.823578,
+    "lat": 8.39419
+  }
+},
+{
+  "id": 3637624,
+  "name": "Lagunillas",
+  "country": "VE",
+  "coord": {
+    "lon": -71.387894,
+    "lat": 8.51286
+  }
+},
+{
+  "id": 3638075,
+  "name": "La Esmeralda",
+  "country": "VE",
+  "coord": {
+    "lon": -65.550003,
+    "lat": 3.16667
+  }
+},
+{
+  "id": 3638264,
+  "name": "La Cruz de Taratara",
+  "country": "VE",
+  "coord": {
+    "lon": -69.713097,
+    "lat": 11.06396
+  }
+},
+{
+  "id": 3638371,
+  "name": "La Concepcion",
+  "country": "VE",
+  "coord": {
+    "lon": -71.838142,
+    "lat": 10.61919
+  }
+},
+{
+  "id": 3638497,
+  "name": "Chameta",
+  "country": "VE",
+  "coord": {
+    "lon": -70.906708,
+    "lat": 8.10024
+  }
+},
+{
+  "id": 3638655,
+  "name": "Caramuca",
+  "country": "VE",
+  "coord": {
+    "lon": -70.320557,
+    "lat": 8.59708
+  }
+},
+{
+  "id": 3638904,
+  "name": "La Azulita",
+  "country": "VE",
+  "coord": {
+    "lon": -71.444168,
+    "lat": 8.71314
+  }
+},
+{
+  "id": 3639282,
+  "name": "Jacura",
+  "country": "VE",
+  "coord": {
+    "lon": -68.856041,
+    "lat": 11.07417
+  }
+},
+{
+  "id": 3639350,
+  "name": "Irapa",
+  "country": "VE",
+  "coord": {
+    "lon": -62.58102,
+    "lat": 10.56968
+  }
+},
+{
+  "id": 3639880,
+  "name": "Guayabal",
+  "country": "VE",
+  "coord": {
+    "lon": -67.397324,
+    "lat": 8.00077
+  }
+},
+{
+  "id": 3640100,
+  "name": "Guaraque",
+  "country": "VE",
+  "coord": {
+    "lon": -71.735626,
+    "lat": 8.15347
+  }
+},
+{
+  "id": 3640179,
+  "name": "Guanta",
+  "country": "VE",
+  "coord": {
+    "lon": -64.59552,
+    "lat": 10.23448
+  }
+},
+{
+  "id": 3640215,
+  "name": "Guanarito",
+  "country": "VE",
+  "coord": {
+    "lon": -69.208321,
+    "lat": 8.69625
+  }
+},
+{
+  "id": 3640407,
+  "name": "Guadarrama",
+  "country": "VE",
+  "coord": {
+    "lon": -68.049232,
+    "lat": 8.53508
+  }
+},
+{
+  "id": 3640853,
+  "name": "Farriar",
+  "country": "VE",
+  "coord": {
+    "lon": -68.558571,
+    "lat": 10.46967
+  }
+},
+{
+  "id": 3641008,
+  "name": "Encontrados",
+  "country": "VE",
+  "coord": {
+    "lon": -72.234131,
+    "lat": 9.06085
+  }
+},
+{
+  "id": 3641154,
+  "name": "El Valle del Espiritu Santo",
+  "country": "VE",
+  "coord": {
+    "lon": -63.883099,
+    "lat": 10.98283
+  }
+},
+{
+  "id": 3641251,
+  "name": "El Toro",
+  "country": "VE",
+  "coord": {
+    "lon": -71.64843,
+    "lat": 10.95423
+  }
+},
+{
+  "id": 3641440,
+  "name": "El Sombrero",
+  "country": "VE",
+  "coord": {
+    "lon": -67.058182,
+    "lat": 9.3863
+  }
+},
+{
+  "id": 3641460,
+  "name": "El Socorro",
+  "country": "VE",
+  "coord": {
+    "lon": -65.74247,
+    "lat": 8.99352
+  }
+},
+{
+  "id": 3641775,
+  "name": "El Regalo",
+  "country": "VE",
+  "coord": {
+    "lon": -69.176697,
+    "lat": 8.43455
+  }
+},
+{
+  "id": 3642031,
+  "name": "San Rafael del Pinal",
+  "country": "VE",
+  "coord": {
+    "lon": -71.959221,
+    "lat": 7.52986
+  }
+},
+{
+  "id": 3642042,
+  "name": "El Pilar",
+  "country": "VE",
+  "coord": {
+    "lon": -63.150002,
+    "lat": 10.53333
+  }
+},
+{
+  "id": 3642243,
+  "name": "El Paradero",
+  "country": "VE",
+  "coord": {
+    "lon": -70.61544,
+    "lat": 9.77233
+  }
+},
+{
+  "id": 3642260,
+  "name": "El Pao",
+  "country": "VE",
+  "coord": {
+    "lon": -68.128838,
+    "lat": 9.63752
+  }
+},
+{
+  "id": 3642292,
+  "name": "El Palmer",
+  "country": "VE",
+  "coord": {
+    "lon": -61.883331,
+    "lat": 8.03333
+  }
+},
+{
+  "id": 3642390,
+  "name": "Elorza",
+  "country": "VE",
+  "coord": {
+    "lon": -69.49765,
+    "lat": 7.06088
+  }
+},
+{
+  "id": 3643361,
+  "name": "El Dividive",
+  "country": "VE",
+  "coord": {
+    "lon": -70.733849,
+    "lat": 9.47447
+  }
+},
+{
+  "id": 3643531,
+  "name": "El Corozo",
+  "country": "VE",
+  "coord": {
+    "lon": -70.35778,
+    "lat": 8.5675
+  }
+},
+{
+  "id": 3643568,
+  "name": "El Consejo",
+  "country": "VE",
+  "coord": {
+    "lon": -67.2714,
+    "lat": 10.23717
+  }
+},
+{
+  "id": 3643620,
+  "name": "El Cobre",
+  "country": "VE",
+  "coord": {
+    "lon": -72.055511,
+    "lat": 8.03566
+  }
+},
+{
+  "id": 3643962,
+  "name": "El Canton",
+  "country": "VE",
+  "coord": {
+    "lon": -71.295601,
+    "lat": 7.47729
+  }
+},
+{
+  "id": 3644163,
+  "name": "El Baul",
+  "country": "VE",
+  "coord": {
+    "lon": -68.29554,
+    "lat": 8.96216
+  }
+},
+{
+  "id": 3644478,
+  "name": "Dolores",
+  "country": "VE",
+  "coord": {
+    "lon": -69.56633,
+    "lat": 8.28623
+  }
+},
+{
+  "id": 3644571,
+  "name": "Dabajuro",
+  "country": "VE",
+  "coord": {
+    "lon": -70.677689,
+    "lat": 11.02273
+  }
+},
+{
+  "id": 3644646,
+  "name": "Curiapo",
+  "country": "VE",
+  "coord": {
+    "lon": -60.997551,
+    "lat": 8.58094
+  }
+},
+{
+  "id": 3644656,
+  "name": "Curbati",
+  "country": "VE",
+  "coord": {
+    "lon": -70.554413,
+    "lat": 8.45443
+  }
+},
+{
+  "id": 3644701,
+  "name": "Cupira",
+  "country": "VE",
+  "coord": {
+    "lon": -65.700127,
+    "lat": 10.16128
+  }
+},
+{
+  "id": 3644767,
+  "name": "Cumanacoa",
+  "country": "VE",
+  "coord": {
+    "lon": -63.919182,
+    "lat": 10.25013
+  }
+},
+{
+  "id": 3645304,
+  "name": "Concepcion",
+  "country": "VE",
+  "coord": {
+    "lon": -71.76667,
+    "lat": 10.8
+  }
+},
+{
+  "id": 3645360,
+  "name": "Coloncito",
+  "country": "VE",
+  "coord": {
+    "lon": -72.089508,
+    "lat": 8.32563
+  }
+},
+{
+  "id": 3645387,
+  "name": "Cojedes",
+  "country": "VE",
+  "coord": {
+    "lon": -68.918053,
+    "lat": 9.62232
+  }
+},
+{
+  "id": 3645469,
+  "name": "Cocorote",
+  "country": "VE",
+  "coord": {
+    "lon": -68.783859,
+    "lat": 10.31978
+  }
+},
+{
+  "id": 3645522,
+  "name": "Clarines",
+  "country": "VE",
+  "coord": {
+    "lon": -65.165169,
+    "lat": 9.93991
+  }
+},
+{
+  "id": 3645529,
+  "name": "Ciudad De Nutrias",
+  "country": "VE",
+  "coord": {
+    "lon": -69.307983,
+    "lat": 8.09536
+  }
+},
+{
+  "id": 3645531,
+  "name": "Ciudad Bolivia",
+  "country": "VE",
+  "coord": {
+    "lon": -70.571213,
+    "lat": 8.35304
+  }
+},
+{
+  "id": 3645586,
+  "name": "Churuguara",
+  "country": "VE",
+  "coord": {
+    "lon": -69.537819,
+    "lat": 10.8137
+  }
+},
+{
+  "id": 3645806,
+  "name": "Chichiriviche",
+  "country": "VE",
+  "coord": {
+    "lon": -68.277161,
+    "lat": 10.9333
+  }
+},
+{
+  "id": 3645827,
+  "name": "Chejende",
+  "country": "VE",
+  "coord": {
+    "lon": -70.356956,
+    "lat": 9.61892
+  }
+},
+{
+  "id": 3645944,
+  "name": "Chaguaramas",
+  "country": "VE",
+  "coord": {
+    "lon": -66.252548,
+    "lat": 9.33855
+  }
+},
+{
+  "id": 3646296,
+  "name": "Casigua El Cubo",
+  "country": "VE",
+  "coord": {
+    "lon": -72.519669,
+    "lat": 8.74493
+  }
+},
+{
+  "id": 3646316,
+  "name": "Casanay",
+  "country": "VE",
+  "coord": {
+    "lon": -63.415531,
+    "lat": 10.50368
+  }
+},
+{
+  "id": 3646581,
+  "name": "Cariaco",
+  "country": "VE",
+  "coord": {
+    "lon": -63.553989,
+    "lat": 10.49573
+  }
+},
+{
+  "id": 3646731,
+  "name": "Carache",
+  "country": "VE",
+  "coord": {
+    "lon": -70.228554,
+    "lat": 9.62872
+  }
+},
+{
+  "id": 3646796,
+  "name": "Capitanejo",
+  "country": "VE",
+  "coord": {
+    "lon": -71.004578,
+    "lat": 8.01171
+  }
+},
+{
+  "id": 3646829,
+  "name": "Capatarida",
+  "country": "VE",
+  "coord": {
+    "lon": -70.61898,
+    "lat": 11.1748
+  }
+},
+{
+  "id": 3647197,
+  "name": "Campo Elias",
+  "country": "VE",
+  "coord": {
+    "lon": -70.060349,
+    "lat": 9.39347
+  }
+},
+{
+  "id": 3647400,
+  "name": "Camaguan",
+  "country": "VE",
+  "coord": {
+    "lon": -67.607239,
+    "lat": 8.10655
+  }
+},
+{
+  "id": 3647435,
+  "name": "Calderas",
+  "country": "VE",
+  "coord": {
+    "lon": -70.447449,
+    "lat": 8.91426
+  }
+},
+{
+  "id": 3647535,
+  "name": "Caicara",
+  "country": "VE",
+  "coord": {
+    "lon": -63.613312,
+    "lat": 9.81754
+  }
+},
+{
+  "id": 3647636,
+  "name": "Cabure",
+  "country": "VE",
+  "coord": {
+    "lon": -69.608887,
+    "lat": 11.15
+  }
+},
+{
+  "id": 3647637,
+  "name": "Cabudare",
+  "country": "VE",
+  "coord": {
+    "lon": -69.089439,
+    "lat": 10.02889
+  }
+},
+{
+  "id": 3647729,
+  "name": "Bum Bum",
+  "country": "VE",
+  "coord": {
+    "lon": -70.76664,
+    "lat": 8.27664
+  }
+},
+{
+  "id": 3648042,
+  "name": "Boraure",
+  "country": "VE",
+  "coord": {
+    "lon": -68.769501,
+    "lat": 10.24933
+  }
+},
+{
+  "id": 3648127,
+  "name": "Boconoito",
+  "country": "VE",
+  "coord": {
+    "lon": -69.980324,
+    "lat": 8.84659
+  }
+},
+{
+  "id": 3648163,
+  "name": "Boca de Uchire",
+  "country": "VE",
+  "coord": {
+    "lon": -65.42115,
+    "lat": 10.13152
+  }
+},
+{
+  "id": 3648187,
+  "name": "Boca del Rio",
+  "country": "VE",
+  "coord": {
+    "lon": -64.180496,
+    "lat": 10.96757
+  }
+},
+{
+  "id": 3648279,
+  "name": "Biruaca",
+  "country": "VE",
+  "coord": {
+    "lon": -67.516792,
+    "lat": 7.84483
+  }
+},
+{
+  "id": 3648506,
+  "name": "Barrancas",
+  "country": "VE",
+  "coord": {
+    "lon": -70.112198,
+    "lat": 8.76868
+  }
+},
+{
+  "id": 3648698,
+  "name": "Bachaquero",
+  "country": "VE",
+  "coord": {
+    "lon": -71.149437,
+    "lat": 9.96944
+  }
+},
+{
+  "id": 3648873,
+  "name": "Aroa",
+  "country": "VE",
+  "coord": {
+    "lon": -68.894173,
+    "lat": 10.43861
+  }
+},
+{
+  "id": 3648885,
+  "name": "Arismendi",
+  "country": "VE",
+  "coord": {
+    "lon": -68.369957,
+    "lat": 8.47974
+  }
+},
+{
+  "id": 3648916,
+  "name": "Aricagua",
+  "country": "VE",
+  "coord": {
+    "lon": -71.137047,
+    "lat": 8.22343
+  }
+},
+{
+  "id": 3649005,
+  "name": "Araya",
+  "country": "VE",
+  "coord": {
+    "lon": -64.258263,
+    "lat": 10.57973
+  }
+},
+{
+  "id": 3649018,
+  "name": "Arauquita",
+  "country": "VE",
+  "coord": {
+    "lon": -69.657219,
+    "lat": 8.70833
+  }
+},
+{
+  "id": 3649403,
+  "name": "Altamira",
+  "country": "VE",
+  "coord": {
+    "lon": -70.502441,
+    "lat": 8.82359
+  }
+},
+{
+  "id": 3649576,
+  "name": "Aguasay",
+  "country": "VE",
+  "coord": {
+    "lon": -63.73077,
+    "lat": 9.42489
+  }
+},
+{
+  "id": 3649859,
+  "name": "Abejales",
+  "country": "VE",
+  "coord": {
+    "lon": -71.51017,
+    "lat": 7.62241
+  }
+},
+{
+  "id": 3738787,
+  "name": "Las Mesas",
+  "country": "VE",
+  "coord": {
+    "lon": -72.165558,
+    "lat": 8.16454
+  }
+},
+{
+  "id": 3753107,
+  "name": "Santa Rita",
+  "country": "VE",
+  "coord": {
+    "lon": -67.538841,
+    "lat": 10.20696
+  }
+},
+{
+  "id": 3758764,
+  "name": "San Josecito",
+  "country": "VE",
+  "coord": {
+    "lon": -72.219582,
+    "lat": 7.65997
+  }
+},
+{
+  "id": 3759212,
+  "name": "Cordero",
+  "country": "VE",
+  "coord": {
+    "lon": -72.180748,
+    "lat": 7.85591
+  }
+},
+{
+  "id": 3762895,
+  "name": "Sierra Imataca",
+  "country": "VE",
+  "coord": {
+    "lon": -62.428909,
+    "lat": 8.4555
+  }
+},
+{
+  "id": 3778348,
+  "name": "Temblador",
+  "country": "VE",
+  "coord": {
+    "lon": -62.642159,
+    "lat": 9.00716
+  }
+},
+{
+  "id": 3784154,
+  "name": "Palmasola",
+  "country": "VE",
+  "coord": {
+    "lon": -68.54422,
+    "lat": 10.59363
+  }
+},
+{
+  "id": 3795119,
+  "name": "Delicias",
+  "country": "VE",
+  "coord": {
+    "lon": -72.44754,
+    "lat": 7.56505
+  }
+},
+{
+  "id": 3795218,
+  "name": "Capacho Nuevo",
+  "country": "VE",
+  "coord": {
+    "lon": -72.308998,
+    "lat": 7.82409
+  }
+},
+{
+  "id": 3795620,
+  "name": "La Tendida",
+  "country": "VE",
+  "coord": {
+    "lon": -71.831657,
+    "lat": 8.50757
+  }
+},
+{
+  "id": 3797773,
+  "name": "Agua Blanca",
+  "country": "VE",
+  "coord": {
+    "lon": -69.107521,
+    "lat": 9.66146
+  }
+},
+{
+  "id": 3798450,
+  "name": "El Playon",
+  "country": "VE",
+  "coord": {
+    "lon": -69.049141,
+    "lat": 9.09857
+  }
+},
+{
+  "id": 3798818,
+  "name": "Arapuey",
+  "country": "VE",
+  "coord": {
+    "lon": -70.952477,
+    "lat": 9.25934
+  }
+},
+{
+  "id": 3799319,
+  "name": "Macapo",
+  "country": "VE",
+  "coord": {
+    "lon": -68.438988,
+    "lat": 9.82602
+  }
+},
+{
+  "id": 3805700,
+  "name": "San Juan de Payara",
+  "country": "VE",
+  "coord": {
+    "lon": -67.606743,
+    "lat": 7.6456
+  }
+},
+{
+  "id": 3806799,
+  "name": "San Sebastian",
+  "country": "VE",
+  "coord": {
+    "lon": -67.176811,
+    "lat": 9.94543
+  }
+},
+{
+  "id": 7289569,
+  "name": "Lecherias",
+  "country": "VE",
+  "coord": {
+    "lon": -64.694069,
+    "lat": 10.19769
+  }
+},
+{
+  "id": 7909705,
+  "name": "Santa Cruz de los Taques",
+  "country": "VE",
+  "coord": {
+    "lon": -70.256371,
+    "lat": 11.8235
+  }
+},
+{
+  "id": 8131509,
+  "name": "Independencia",
+  "country": "VE",
+  "coord": {
+    "lon": -68.755119,
+    "lat": 10.33432
+  }
+},
+{
+  "id": 4795577,
+  "name": "Cruz Bay",
+  "country": "VI",
+  "coord": {
+    "lon": -64.793747,
+    "lat": 18.331341
+  }
+},
+{
+  "id": 1566053,
+  "name": "Huyen Thanh Son",
+  "country": "VN",
+  "coord": {
+    "lon": 105.186142,
+    "lat": 21.219879
+  }
+},
+{
+  "id": 1567649,
+  "name": "Huyen Son Duong",
+  "country": "VN",
+  "coord": {
+    "lon": 105.404121,
+    "lat": 21.70363
+  }
+},
+{
+  "id": 1569901,
+  "name": "Thi xa Phu Tho",
+  "country": "VN",
+  "coord": {
+    "lon": 105.22702,
+    "lat": 21.39883
+  }
+},
+{
+  "id": 1569973,
+  "name": "Duong GJong",
+  "country": "VN",
+  "coord": {
+    "lon": 103.966667,
+    "lat": 10.21667
+  }
+},
+{
+  "id": 1570815,
+  "name": "Phong Tho",
+  "country": "VN",
+  "coord": {
+    "lon": 103.349998,
+    "lat": 22.533331
+  }
+},
+{
+  "id": 1583240,
+  "name": "Huyen Doan Hung",
+  "country": "VN",
+  "coord": {
+    "lon": 105.185883,
+    "lat": 21.6241
+  }
+},
+{
+  "id": 1584807,
+  "name": "Con Son",
+  "country": "VN",
+  "coord": {
+    "lon": 106.616669,
+    "lat": 8.68333
+  }
+},
+{
+  "id": 7910088,
+  "name": "Uyen Hung",
+  "country": "VN",
+  "coord": {
+    "lon": 106.788338,
+    "lat": 11.08416
+  }
+},
+{
+  "id": 8200099,
+  "name": "Huyen Yen Lap",
+  "country": "VN",
+  "coord": {
+    "lon": 105.060143,
+    "lat": 21.350019
+  }
+},
+{
+  "id": 8200205,
+  "name": "Huyen Thanh Hoa",
+  "country": "VN",
+  "coord": {
+    "lon": 105.145348,
+    "lat": 21.495831
+  }
+},
+{
+  "id": 8200212,
+  "name": "Huyen Song Thao",
+  "country": "VN",
+  "coord": {
+    "lon": 105.139473,
+    "lat": 21.420799
+  }
+},
+{
+  "id": 8200783,
+  "name": "Huyen Tam Thanh",
+  "country": "VN",
+  "coord": {
+    "lon": 105.297752,
+    "lat": 21.25564
+  }
+},
+{
+  "id": 8200836,
+  "name": "Huyen Phong Chau",
+  "country": "VN",
+  "coord": {
+    "lon": 105.293137,
+    "lat": 21.43498
+  }
+},
+{
+  "id": 8201616,
+  "name": "Huyen Ba Vi",
+  "country": "VN",
+  "coord": {
+    "lon": 105.430183,
+    "lat": 21.1999
+  }
+},
+{
+  "id": 2135175,
+  "name": "Port-Olry",
+  "country": "VU",
+  "coord": {
+    "lon": 167.050003,
+    "lat": -15.05
+  }
+},
+{
+  "id": 2135517,
+  "name": "Norsup",
+  "country": "VU",
+  "coord": {
+    "lon": 167.383331,
+    "lat": -16.066669
+  }
+},
+{
+  "id": 2136150,
+  "name": "Luganville",
+  "country": "VU",
+  "coord": {
+    "lon": 167.166672,
+    "lat": -15.53333
+  }
+},
+{
+  "id": 2136697,
+  "name": "Lakatoro",
+  "country": "VU",
+  "coord": {
+    "lon": 167.416367,
+    "lat": -16.09992
+  }
+},
+{
+  "id": 2136825,
+  "name": "Isangel",
+  "country": "VU",
+  "coord": {
+    "lon": 169.266663,
+    "lat": -19.549999
+  }
+},
+{
+  "id": 4034903,
+  "name": "Vaiusu",
+  "country": "WS",
+  "coord": {
+    "lon": -171.79332,
+    "lat": -13.82678
+  }
+},
+{
+  "id": 4034908,
+  "name": "Vaitele",
+  "country": "WS",
+  "coord": {
+    "lon": -171.802536,
+    "lat": -13.81964
+  }
+},
+{
+  "id": 4035013,
+  "name": "Solosolo",
+  "country": "WS",
+  "coord": {
+    "lon": -171.641815,
+    "lat": -13.87504
+  }
+},
+{
+  "id": 4035019,
+  "name": "Siusega",
+  "country": "WS",
+  "coord": {
+    "lon": -171.813965,
+    "lat": -13.84432
+  }
+},
+{
+  "id": 4035059,
+  "name": "Satapuala",
+  "country": "WS",
+  "coord": {
+    "lon": -171.97963,
+    "lat": -13.83535
+  }
+},
+{
+  "id": 4035118,
+  "name": "Safotu",
+  "country": "WS",
+  "coord": {
+    "lon": -172.401764,
+    "lat": -13.45132
+  }
+},
+{
+  "id": 4035174,
+  "name": "Nofoalii",
+  "country": "WS",
+  "coord": {
+    "lon": -171.958725,
+    "lat": -13.8217
+  }
+},
+{
+  "id": 4035209,
+  "name": "Matavai",
+  "country": "WS",
+  "coord": {
+    "lon": -171.647675,
+    "lat": -14.03208
+  }
+},
+{
+  "id": 4035236,
+  "name": "Malie",
+  "country": "WS",
+  "coord": {
+    "lon": -171.846893,
+    "lat": -13.80044
+  }
+},
+{
+  "id": 4035249,
+  "name": "Lufilufi",
+  "country": "WS",
+  "coord": {
+    "lon": -171.598572,
+    "lat": -13.87449
+  }
+},
+{
+  "id": 4035252,
+  "name": "Lotofaga",
+  "country": "WS",
+  "coord": {
+    "lon": -171.857803,
+    "lat": -13.97643
+  }
+},
+{
+  "id": 4035260,
+  "name": "Leulumoega",
+  "country": "WS",
+  "coord": {
+    "lon": -171.961273,
+    "lat": -13.82298
+  }
+},
+{
+  "id": 4035310,
+  "name": "Gataivai",
+  "country": "WS",
+  "coord": {
+    "lon": -172.388016,
+    "lat": -13.7736
+  }
+},
+{
+  "id": 4035335,
+  "name": "Fasitoouta",
+  "country": "WS",
+  "coord": {
+    "lon": -171.940628,
+    "lat": -13.81163
+  }
+},
+{
+  "id": 4035345,
+  "name": "Faleula",
+  "country": "WS",
+  "coord": {
+    "lon": -171.831253,
+    "lat": -13.79456
+  }
+},
+{
+  "id": 4035358,
+  "name": "Falefa",
+  "country": "WS",
+  "coord": {
+    "lon": -171.588043,
+    "lat": -13.88695
+  }
+},
+{
+  "id": 4035432,
+  "name": "Afenga",
+  "country": "WS",
+  "coord": {
+    "lon": -171.853073,
+    "lat": -13.79726
+  }
+},
+{
+  "id": 783770,
+  "name": "Zvecan",
+  "country": "XK",
+  "coord": {
+    "lon": 20.840281,
+    "lat": 42.907501
+  }
+},
+{
+  "id": 783802,
+  "name": "Zubin Potok",
+  "country": "XK",
+  "coord": {
+    "lon": 20.68972,
+    "lat": 42.91444
+  }
+},
+{
+  "id": 784372,
+  "name": "Vitina",
+  "country": "XK",
+  "coord": {
+    "lon": 21.35833,
+    "lat": 42.321388
+  }
+},
+{
+  "id": 785388,
+  "name": "Strpce",
+  "country": "XK",
+  "coord": {
+    "lon": 21.02722,
+    "lat": 42.239441
+  }
+},
+{
+  "id": 785642,
+  "name": "Srbica",
+  "country": "XK",
+  "coord": {
+    "lon": 20.78861,
+    "lat": 42.74667
+  }
+},
+{
+  "id": 786156,
+  "name": "Irzniq",
+  "country": "XK",
+  "coord": {
+    "lon": 20.347219,
+    "lat": 42.52
+  }
+},
+{
+  "id": 786734,
+  "name": "Prilep",
+  "country": "XK",
+  "coord": {
+    "lon": 20.31778,
+    "lat": 42.5075
+  }
+},
+{
+  "id": 787155,
+  "name": "Peqan",
+  "country": "XK",
+  "coord": {
+    "lon": 20.821939,
+    "lat": 42.38361
+  }
+},
+{
+  "id": 787268,
+  "name": "Pagarusa",
+  "country": "XK",
+  "coord": {
+    "lon": 20.74222,
+    "lat": 42.419998
+  }
+},
+{
+  "id": 787534,
+  "name": "Obiliq",
+  "country": "XK",
+  "coord": {
+    "lon": 21.07028,
+    "lat": 42.686939
+  }
+},
+{
+  "id": 787650,
+  "name": "Nishor",
+  "country": "XK",
+  "coord": {
+    "lon": 20.80167,
+    "lat": 42.423889
+  }
+},
+{
+  "id": 788239,
+  "name": "Malisevo",
+  "country": "XK",
+  "coord": {
+    "lon": 20.745831,
+    "lat": 42.48222
+  }
+},
+{
+  "id": 788536,
+  "name": "Lumbardhi",
+  "country": "XK",
+  "coord": {
+    "lon": 20.34667,
+    "lat": 42.546669
+  }
+},
+{
+  "id": 788543,
+  "name": "Lebushe",
+  "country": "XK",
+  "coord": {
+    "lon": 20.290831,
+    "lat": 42.563061
+  }
+},
+{
+  "id": 788652,
+  "name": "Lipljan",
+  "country": "XK",
+  "coord": {
+    "lon": 21.12583,
+    "lat": 42.521671
+  }
+},
+{
+  "id": 788726,
+  "name": "Leshan",
+  "country": "XK",
+  "coord": {
+    "lon": 20.781111,
+    "lat": 42.327782
+  }
+},
+{
+  "id": 789199,
+  "name": "Kosuriq",
+  "country": "XK",
+  "coord": {
+    "lon": 20.46472,
+    "lat": 42.570278
+  }
+},
+{
+  "id": 789227,
+  "name": "Kamenica",
+  "country": "XK",
+  "coord": {
+    "lon": 21.58028,
+    "lat": 42.57806
+  }
+},
+{
+  "id": 789455,
+  "name": "Klina",
+  "country": "XK",
+  "coord": {
+    "lon": 20.57778,
+    "lat": 42.62167
+  }
+},
+{
+  "id": 789721,
+  "name": "Kacanik",
+  "country": "XK",
+  "coord": {
+    "lon": 21.259439,
+    "lat": 42.231941
+  }
+},
+{
+  "id": 790002,
+  "name": "Isniq",
+  "country": "XK",
+  "coord": {
+    "lon": 20.30278,
+    "lat": 42.557499
+  }
+},
+{
+  "id": 790354,
+  "name": "Strellc i Eperm",
+  "country": "XK",
+  "coord": {
+    "lon": 20.293461,
+    "lat": 42.57835
+  }
+},
+{
+  "id": 790486,
+  "name": "Lluka e Eperme",
+  "country": "XK",
+  "coord": {
+    "lon": 20.307779,
+    "lat": 42.544998
+  }
+},
+{
+  "id": 790701,
+  "name": "Glogovac",
+  "country": "XK",
+  "coord": {
+    "lon": 20.89389,
+    "lat": 42.62833
+  }
+},
+{
+  "id": 790704,
+  "name": "Gllogjan",
+  "country": "XK",
+  "coord": {
+    "lon": 20.36278,
+    "lat": 42.507221
+  }
+},
+{
+  "id": 790977,
+  "name": "Dubova (Driloni)",
+  "country": "XK",
+  "coord": {
+    "lon": 20.36972,
+    "lat": 42.711941
+  }
+},
+{
+  "id": 791043,
+  "name": "Dranoc",
+  "country": "XK",
+  "coord": {
+    "lon": 20.292219,
+    "lat": 42.51556
+  }
+},
+{
+  "id": 791161,
+  "name": "Strellc i Ulet",
+  "country": "XK",
+  "coord": {
+    "lon": 20.316191,
+    "lat": 42.580631
+  }
+},
+{
+  "id": 791483,
+  "name": "Gjinoc",
+  "country": "XK",
+  "coord": {
+    "lon": 20.818609,
+    "lat": 42.318329
+  }
+},
+{
+  "id": 792185,
+  "name": "Budakovo",
+  "country": "XK",
+  "coord": {
+    "lon": 20.924999,
+    "lat": 42.355
+  }
+},
+{
+  "id": 793226,
+  "name": "Papraqan",
+  "country": "XK",
+  "coord": {
+    "lon": 20.33111,
+    "lat": 42.55278
+  }
+},
+{
+  "id": 830410,
+  "name": "Lloqan",
+  "country": "XK",
+  "coord": {
+    "lon": 20.28083,
+    "lat": 42.524441
+  }
+},
+{
+  "id": 30485,
+  "name": "Dahasuways",
+  "country": "YE",
+  "coord": {
+    "lon": 50.729439,
+    "lat": 15.72389
+  }
+},
+{
+  "id": 30490,
+  "name": "Ash Shihr",
+  "country": "YE",
+  "coord": {
+    "lon": 49.606392,
+    "lat": 14.75863
+  }
+},
+{
+  "id": 30543,
+  "name": "Al Ghaylah",
+  "country": "YE",
+  "coord": {
+    "lon": 45.583328,
+    "lat": 14.59583
+  }
+},
+{
+  "id": 30616,
+  "name": "Judaydah",
+  "country": "YE",
+  "coord": {
+    "lon": 45.299622,
+    "lat": 15.07512
+  }
+},
+{
+  "id": 30689,
+  "name": "Dawran",
+  "country": "YE",
+  "coord": {
+    "lon": 44.441959,
+    "lat": 13.77436
+  }
+},
+{
+  "id": 30696,
+  "name": "Najd al Jumai",
+  "country": "YE",
+  "coord": {
+    "lon": 44.324139,
+    "lat": 13.91581
+  }
+},
+{
+  "id": 30714,
+  "name": "Zalmat al Alya",
+  "country": "YE",
+  "coord": {
+    "lon": 44.09404,
+    "lat": 14.1023
+  }
+},
+{
+  "id": 30729,
+  "name": "Suq ar Rabu",
+  "country": "YE",
+  "coord": {
+    "lon": 44.01511,
+    "lat": 14.51155
+  }
+},
+{
+  "id": 30735,
+  "name": "Ash Shuqayrah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.786362,
+    "lat": 13.13452
+  }
+},
+{
+  "id": 30740,
+  "name": "Mashraah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.99588,
+    "lat": 13.53235
+  }
+},
+{
+  "id": 30748,
+  "name": "Ar Rawnah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.80286,
+    "lat": 13.75638
+  }
+},
+{
+  "id": 30762,
+  "name": "Ar Ramadi",
+  "country": "YE",
+  "coord": {
+    "lon": 43.784569,
+    "lat": 13.95641
+  }
+},
+{
+  "id": 30777,
+  "name": "Al Ahad",
+  "country": "YE",
+  "coord": {
+    "lon": 43.64167,
+    "lat": 14.25833
+  }
+},
+{
+  "id": 30788,
+  "name": "Ad Dil",
+  "country": "YE",
+  "coord": {
+    "lon": 43.818279,
+    "lat": 14.67199
+  }
+},
+{
+  "id": 30789,
+  "name": "Al Jabin",
+  "country": "YE",
+  "coord": {
+    "lon": 43.599041,
+    "lat": 14.70401
+  }
+},
+{
+  "id": 34703,
+  "name": "Suq Sirwah",
+  "country": "YE",
+  "coord": {
+    "lon": 45.01667,
+    "lat": 15.45417
+  }
+},
+{
+  "id": 34717,
+  "name": "Majzar",
+  "country": "YE",
+  "coord": {
+    "lon": 44.775002,
+    "lat": 15.85
+  }
+},
+{
+  "id": 34724,
+  "name": "Bidbadah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.700001,
+    "lat": 15.425
+  }
+},
+{
+  "id": 34821,
+  "name": "Matwah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.642132,
+    "lat": 15.0676
+  }
+},
+{
+  "id": 34827,
+  "name": "Suwayr",
+  "country": "YE",
+  "coord": {
+    "lon": 43.609859,
+    "lat": 16.181801
+  }
+},
+{
+  "id": 34846,
+  "name": "Wadarah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.483212,
+    "lat": 15.71073
+  }
+},
+{
+  "id": 34862,
+  "name": "Suq Shamar",
+  "country": "YE",
+  "coord": {
+    "lon": 43.368061,
+    "lat": 15.885
+  }
+},
+{
+  "id": 34886,
+  "name": "Mustaba",
+  "country": "YE",
+  "coord": {
+    "lon": 43.248951,
+    "lat": 16.228161
+  }
+},
+{
+  "id": 34888,
+  "name": "An Nazir",
+  "country": "YE",
+  "coord": {
+    "lon": 43.26226,
+    "lat": 16.909161
+  }
+},
+{
+  "id": 69372,
+  "name": "At Tawilah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.74778,
+    "lat": 15.49389
+  }
+},
+{
+  "id": 69426,
+  "name": "Zinjibar",
+  "country": "YE",
+  "coord": {
+    "lon": 45.38073,
+    "lat": 13.12871
+  }
+},
+{
+  "id": 69457,
+  "name": "Zarajah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.378681,
+    "lat": 14.86692
+  }
+},
+{
+  "id": 69482,
+  "name": "Az Zahir",
+  "country": "YE",
+  "coord": {
+    "lon": 45.48333,
+    "lat": 13.96667
+  }
+},
+{
+  "id": 69537,
+  "name": "Yufrus",
+  "country": "YE",
+  "coord": {
+    "lon": 43.947041,
+    "lat": 13.45529
+  }
+},
+{
+  "id": 69640,
+  "name": "Washhah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.41066,
+    "lat": 16.307739
+  }
+},
+{
+  "id": 69684,
+  "name": "Walan",
+  "country": "YE",
+  "coord": {
+    "lon": 44.276409,
+    "lat": 15.07021
+  }
+},
+{
+  "id": 69686,
+  "name": "Dhi Jalal",
+  "country": "YE",
+  "coord": {
+    "lon": 44.707539,
+    "lat": 13.62378
+  }
+},
+{
+  "id": 69769,
+  "name": "Usaylan",
+  "country": "YE",
+  "coord": {
+    "lon": 45.82832,
+    "lat": 15.03201
+  }
+},
+{
+  "id": 69944,
+  "name": "Ubal",
+  "country": "YE",
+  "coord": {
+    "lon": 43.544441,
+    "lat": 14.98808
+  }
+},
+{
+  "id": 70080,
+  "name": "Thamud",
+  "country": "YE",
+  "coord": {
+    "lon": 49.916672,
+    "lat": 17.299999
+  }
+},
+{
+  "id": 70272,
+  "name": "As Suwayda",
+  "country": "YE",
+  "coord": {
+    "lon": 45.2304,
+    "lat": 13.78694
+  }
+},
+{
+  "id": 70346,
+  "name": "Al Anan",
+  "country": "YE",
+  "coord": {
+    "lon": 44.312519,
+    "lat": 16.72188
+  }
+},
+{
+  "id": 70357,
+  "name": "Abs",
+  "country": "YE",
+  "coord": {
+    "lon": 43.197239,
+    "lat": 16.002951
+  }
+},
+{
+  "id": 70551,
+  "name": "Sif",
+  "country": "YE",
+  "coord": {
+    "lon": 48.330002,
+    "lat": 15.31389
+  }
+},
+{
+  "id": 70656,
+  "name": "Shihan as Sufla",
+  "country": "YE",
+  "coord": {
+    "lon": 52.48925,
+    "lat": 17.769991
+  }
+},
+{
+  "id": 70677,
+  "name": "Shibam",
+  "country": "YE",
+  "coord": {
+    "lon": 43.904449,
+    "lat": 15.50943
+  }
+},
+{
+  "id": 70759,
+  "name": "Ash Sharyah",
+  "country": "YE",
+  "coord": {
+    "lon": 45.022442,
+    "lat": 14.35659
+  }
+},
+{
+  "id": 70808,
+  "name": "Sharas",
+  "country": "YE",
+  "coord": {
+    "lon": 43.64925,
+    "lat": 15.71233
+  }
+},
+{
+  "id": 70910,
+  "name": "Shaharat al Ghis",
+  "country": "YE",
+  "coord": {
+    "lon": 43.702278,
+    "lat": 16.184111
+  }
+},
+{
+  "id": 71005,
+  "name": "Sayhut",
+  "country": "YE",
+  "coord": {
+    "lon": 51.24556,
+    "lat": 15.21056
+  }
+},
+{
+  "id": 71282,
+  "name": "Sah",
+  "country": "YE",
+  "coord": {
+    "lon": 48.850559,
+    "lat": 15.57722
+  }
+},
+{
+  "id": 71334,
+  "name": "Sadah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.763939,
+    "lat": 16.94021
+  }
+},
+{
+  "id": 71481,
+  "name": "Rihab",
+  "country": "YE",
+  "coord": {
+    "lon": 44.188141,
+    "lat": 14.22762
+  }
+},
+{
+  "id": 71491,
+  "name": "Rada",
+  "country": "YE",
+  "coord": {
+    "lon": 44.83709,
+    "lat": 14.4151
+  }
+},
+{
+  "id": 71549,
+  "name": "Ar Raydah",
+  "country": "YE",
+  "coord": {
+    "lon": 50.479172,
+    "lat": 15.035
+  }
+},
+{
+  "id": 71558,
+  "name": "Raydah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.040852,
+    "lat": 15.81421
+  }
+},
+{
+  "id": 71687,
+  "name": "Rudum",
+  "country": "YE",
+  "coord": {
+    "lon": 47.743141,
+    "lat": 14.0851
+  }
+},
+{
+  "id": 71799,
+  "name": "Qulansiyah",
+  "country": "YE",
+  "coord": {
+    "lon": 53.48333,
+    "lat": 12.68333
+  }
+},
+{
+  "id": 71834,
+  "name": "Qishn",
+  "country": "YE",
+  "coord": {
+    "lon": 51.681389,
+    "lat": 15.42278
+  }
+},
+{
+  "id": 71904,
+  "name": "Qatabah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.705799,
+    "lat": 13.85493
+  }
+},
+{
+  "id": 72181,
+  "name": "Nisab",
+  "country": "YE",
+  "coord": {
+    "lon": 46.5,
+    "lat": 14.51667
+  }
+},
+{
+  "id": 72430,
+  "name": "Al Musaymir",
+  "country": "YE",
+  "coord": {
+    "lon": 44.61528,
+    "lat": 13.44389
+  }
+},
+{
+  "id": 72519,
+  "name": "Mukayras",
+  "country": "YE",
+  "coord": {
+    "lon": 45.670738,
+    "lat": 13.94428
+  }
+},
+{
+  "id": 72557,
+  "name": "Mudiyah",
+  "country": "YE",
+  "coord": {
+    "lon": 46.082539,
+    "lat": 13.9284
+  }
+},
+{
+  "id": 72561,
+  "name": "Markaz Mudhaykirah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.9688,
+    "lat": 13.88953
+  }
+},
+{
+  "id": 72647,
+  "name": "Manwakh",
+  "country": "YE",
+  "coord": {
+    "lon": 48.109169,
+    "lat": 16.807779
+  }
+},
+{
+  "id": 72746,
+  "name": "Mayfaah",
+  "country": "YE",
+  "coord": {
+    "lon": 47.561199,
+    "lat": 14.27042
+  }
+},
+{
+  "id": 72752,
+  "name": "Maidi",
+  "country": "YE",
+  "coord": {
+    "lon": 42.812988,
+    "lat": 16.321011
+  }
+},
+{
+  "id": 72760,
+  "name": "Mawza",
+  "country": "YE",
+  "coord": {
+    "lon": 43.50993,
+    "lat": 13.26831
+  }
+},
+{
+  "id": 72781,
+  "name": "Mawiyah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.347679,
+    "lat": 13.58294
+  }
+},
+{
+  "id": 72855,
+  "name": "Al Jawl",
+  "country": "YE",
+  "coord": {
+    "lon": 48.280659,
+    "lat": 14.45625
+  }
+},
+{
+  "id": 73091,
+  "name": "Manakhah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.741562,
+    "lat": 15.07422
+  }
+},
+{
+  "id": 73100,
+  "name": "Milah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.786221,
+    "lat": 14.41617
+  }
+},
+{
+  "id": 73125,
+  "name": "Al Malahit",
+  "country": "YE",
+  "coord": {
+    "lon": 43.275822,
+    "lat": 16.76848
+  }
+},
+{
+  "id": 73325,
+  "name": "Al Mafud",
+  "country": "YE",
+  "coord": {
+    "lon": 47.252171,
+    "lat": 15.34264
+  }
+},
+{
+  "id": 73331,
+  "name": "Mafhaq",
+  "country": "YE",
+  "coord": {
+    "lon": 43.903042,
+    "lat": 15.10162
+  }
+},
+{
+  "id": 73365,
+  "name": "Al Madid",
+  "country": "YE",
+  "coord": {
+    "lon": 44.47337,
+    "lat": 15.64453
+  }
+},
+{
+  "id": 73409,
+  "name": "Mabar",
+  "country": "YE",
+  "coord": {
+    "lon": 44.293541,
+    "lat": 14.79395
+  }
+},
+{
+  "id": 73422,
+  "name": "Al Maalla",
+  "country": "YE",
+  "coord": {
+    "lon": 45.002441,
+    "lat": 12.78987
+  }
+},
+{
+  "id": 73504,
+  "name": "Lawdar",
+  "country": "YE",
+  "coord": {
+    "lon": 45.868591,
+    "lat": 13.88282
+  }
+},
+{
+  "id": 73638,
+  "name": "Kuhlan Afar",
+  "country": "YE",
+  "coord": {
+    "lon": 43.719021,
+    "lat": 15.73309
+  }
+},
+{
+  "id": 73650,
+  "name": "Kuaydinah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.3372,
+    "lat": 15.82104
+  }
+},
+{
+  "id": 73668,
+  "name": "Kitaf",
+  "country": "YE",
+  "coord": {
+    "lon": 44.109051,
+    "lat": 17.031651
+  }
+},
+{
+  "id": 73685,
+  "name": "Kilmia",
+  "country": "YE",
+  "coord": {
+    "lon": 52.233318,
+    "lat": 12.18576
+  }
+},
+{
+  "id": 73788,
+  "name": "Khawrah",
+  "country": "YE",
+  "coord": {
+    "lon": 46.15435,
+    "lat": 14.43201
+  }
+},
+{
+  "id": 73861,
+  "name": "Khamir",
+  "country": "YE",
+  "coord": {
+    "lon": 43.953621,
+    "lat": 15.98792
+  }
+},
+{
+  "id": 74116,
+  "name": "Juban",
+  "country": "YE",
+  "coord": {
+    "lon": 44.874599,
+    "lat": 14.01164
+  }
+},
+{
+  "id": 74167,
+  "name": "Jihanah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.482441,
+    "lat": 15.22628
+  }
+},
+{
+  "id": 74185,
+  "name": "Jiblah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.146679,
+    "lat": 13.92162
+  }
+},
+{
+  "id": 74219,
+  "name": "Jawf al Maqbabah",
+  "country": "YE",
+  "coord": {
+    "lon": 45.834881,
+    "lat": 13.83783
+  }
+},
+{
+  "id": 74368,
+  "name": "Jaar",
+  "country": "YE",
+  "coord": {
+    "lon": 45.30558,
+    "lat": 13.223
+  }
+},
+{
+  "id": 74490,
+  "name": "Huth",
+  "country": "YE",
+  "coord": {
+    "lon": 43.96854,
+    "lat": 16.23114
+  }
+},
+{
+  "id": 74499,
+  "name": "As Salasil",
+  "country": "YE",
+  "coord": {
+    "lon": 48.831532,
+    "lat": 16.479589
+  }
+},
+{
+  "id": 74785,
+  "name": "Al Abr",
+  "country": "YE",
+  "coord": {
+    "lon": 47.23333,
+    "lat": 16.133329
+  }
+},
+{
+  "id": 74906,
+  "name": "Hays",
+  "country": "YE",
+  "coord": {
+    "lon": 43.483101,
+    "lat": 13.9317
+  }
+},
+{
+  "id": 74938,
+  "name": "Hayfan",
+  "country": "YE",
+  "coord": {
+    "lon": 44.280109,
+    "lat": 13.31778
+  }
+},
+{
+  "id": 75000,
+  "name": "Hawf",
+  "country": "YE",
+  "coord": {
+    "lon": 53.033329,
+    "lat": 16.633329
+  }
+},
+{
+  "id": 75034,
+  "name": "Haswayn",
+  "country": "YE",
+  "coord": {
+    "lon": 52.102219,
+    "lat": 15.59194
+  }
+},
+{
+  "id": 75133,
+  "name": "Harib",
+  "country": "YE",
+  "coord": {
+    "lon": 45.503559,
+    "lat": 14.93156
+  }
+},
+{
+  "id": 75163,
+  "name": "Harad",
+  "country": "YE",
+  "coord": {
+    "lon": 43.05883,
+    "lat": 16.409651
+  }
+},
+{
+  "id": 75239,
+  "name": "Hammam Ali",
+  "country": "YE",
+  "coord": {
+    "lon": 44.147629,
+    "lat": 14.66371
+  }
+},
+{
+  "id": 75357,
+  "name": "Madinat Labus",
+  "country": "YE",
+  "coord": {
+    "lon": 45.25,
+    "lat": 13.86667
+  }
+},
+{
+  "id": 75427,
+  "name": "Tamrida",
+  "country": "YE",
+  "coord": {
+    "lon": 54.033329,
+    "lat": 12.65
+  }
+},
+{
+  "id": 75504,
+  "name": "Habil al Jabr",
+  "country": "YE",
+  "coord": {
+    "lon": 44.985779,
+    "lat": 13.60422
+  }
+},
+{
+  "id": 75508,
+  "name": "Al Habilayn",
+  "country": "YE",
+  "coord": {
+    "lon": 44.850761,
+    "lat": 13.52002
+  }
+},
+{
+  "id": 75518,
+  "name": "Habban",
+  "country": "YE",
+  "coord": {
+    "lon": 47.076488,
+    "lat": 14.35411
+  }
+},
+{
+  "id": 75539,
+  "name": "Hababah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.875629,
+    "lat": 15.54418
+  }
+},
+{
+  "id": 75618,
+  "name": "Ghayl Ba Wazir",
+  "country": "YE",
+  "coord": {
+    "lon": 49.366112,
+    "lat": 14.77611
+  }
+},
+{
+  "id": 76089,
+  "name": "Dhubab",
+  "country": "YE",
+  "coord": {
+    "lon": 43.41024,
+    "lat": 12.94305
+  }
+},
+{
+  "id": 76125,
+  "name": "Dhi Naim",
+  "country": "YE",
+  "coord": {
+    "lon": 45.448071,
+    "lat": 14.10574
+  }
+},
+{
+  "id": 76147,
+  "name": "Dhaybin",
+  "country": "YE",
+  "coord": {
+    "lon": 44.129169,
+    "lat": 15.97712
+  }
+},
+{
+  "id": 76362,
+  "name": "Dawran ad Daydah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.206638,
+    "lat": 14.73927
+  }
+},
+{
+  "id": 76482,
+  "name": "Dar an Nasr",
+  "country": "YE",
+  "coord": {
+    "lon": 44.016338,
+    "lat": 13.55821
+  }
+},
+{
+  "id": 76699,
+  "name": "Burum",
+  "country": "YE",
+  "coord": {
+    "lon": 48.979721,
+    "lat": 14.36361
+  }
+},
+{
+  "id": 76927,
+  "name": "Bayt Adhaqah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.702278,
+    "lat": 15.61576
+  }
+},
+{
+  "id": 76930,
+  "name": "As Suq al Jadid",
+  "country": "YE",
+  "coord": {
+    "lon": 44.062038,
+    "lat": 15.82496
+  }
+},
+{
+  "id": 77017,
+  "name": "Bayhan",
+  "country": "YE",
+  "coord": {
+    "lon": 45.718891,
+    "lat": 14.80067
+  }
+},
+{
+  "id": 77278,
+  "name": "Bani Hujjaj",
+  "country": "YE",
+  "coord": {
+    "lon": 43.316669,
+    "lat": 15.41667
+  }
+},
+{
+  "id": 77307,
+  "name": "Bani Bakr",
+  "country": "YE",
+  "coord": {
+    "lon": 45.26667,
+    "lat": 13.93333
+  }
+},
+{
+  "id": 77504,
+  "name": "Az Zuhrah",
+  "country": "YE",
+  "coord": {
+    "lon": 42.995819,
+    "lat": 15.72377
+  }
+},
+{
+  "id": 77515,
+  "name": "Az Zaydiyah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.008121,
+    "lat": 15.32851
+  }
+},
+{
+  "id": 77529,
+  "name": "Az Zahir",
+  "country": "YE",
+  "coord": {
+    "lon": 44.488178,
+    "lat": 16.317989
+  }
+},
+{
+  "id": 77594,
+  "name": "Al Hajab",
+  "country": "YE",
+  "coord": {
+    "lon": 45.529041,
+    "lat": 14.85192
+  }
+},
+{
+  "id": 77636,
+  "name": "Al Awabil",
+  "country": "YE",
+  "coord": {
+    "lon": 44.864311,
+    "lat": 13.83754
+  }
+},
+{
+  "id": 77646,
+  "name": "At Turbah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.124149,
+    "lat": 13.2127
+  }
+},
+{
+  "id": 77655,
+  "name": "Al Tuhayta",
+  "country": "YE",
+  "coord": {
+    "lon": 43.226372,
+    "lat": 14.18356
+  }
+},
+{
+  "id": 77662,
+  "name": "At Tawahi",
+  "country": "YE",
+  "coord": {
+    "lon": 44.980202,
+    "lat": 12.78471
+  }
+},
+{
+  "id": 77772,
+  "name": "As Sudah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.78083,
+    "lat": 15.95861
+  }
+},
+{
+  "id": 77791,
+  "name": "As Sayyani",
+  "country": "YE",
+  "coord": {
+    "lon": 44.17395,
+    "lat": 13.84266
+  }
+},
+{
+  "id": 77800,
+  "name": "As Sawmaah",
+  "country": "YE",
+  "coord": {
+    "lon": 45.801022,
+    "lat": 14.08505
+  }
+},
+{
+  "id": 77803,
+  "name": "Al Bilad",
+  "country": "YE",
+  "coord": {
+    "lon": 49.291672,
+    "lat": 16.13806
+  }
+},
+{
+  "id": 77809,
+  "name": "As Sawadiyah",
+  "country": "YE",
+  "coord": {
+    "lon": 45.221481,
+    "lat": 14.30113
+  }
+},
+{
+  "id": 77843,
+  "name": "As Salif",
+  "country": "YE",
+  "coord": {
+    "lon": 42.67067,
+    "lat": 15.30558
+  }
+},
+{
+  "id": 77862,
+  "name": "Said",
+  "country": "YE",
+  "coord": {
+    "lon": 46.872921,
+    "lat": 14.33011
+  }
+},
+{
+  "id": 77872,
+  "name": "As Safaqayn",
+  "country": "YE",
+  "coord": {
+    "lon": 43.421211,
+    "lat": 15.37897
+  }
+},
+{
+  "id": 77881,
+  "name": "As Saddah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.421391,
+    "lat": 14.1221
+  }
+},
+{
+  "id": 77940,
+  "name": "Ash Shaykh Uthman",
+  "country": "YE",
+  "coord": {
+    "lon": 44.993092,
+    "lat": 12.87678
+  }
+},
+{
+  "id": 77946,
+  "name": "Ash Shatt",
+  "country": "YE",
+  "coord": {
+    "lon": 44.035709,
+    "lat": 12.89357
+  }
+},
+{
+  "id": 77980,
+  "name": "Ash Shahil",
+  "country": "YE",
+  "coord": {
+    "lon": 43.404949,
+    "lat": 15.86656
+  }
+},
+{
+  "id": 77985,
+  "name": "Ash Shaghadirah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.520561,
+    "lat": 15.62
+  }
+},
+{
+  "id": 78019,
+  "name": "Asdas",
+  "country": "YE",
+  "coord": {
+    "lon": 45.081509,
+    "lat": 15.76601
+  }
+},
+{
+  "id": 78112,
+  "name": "Marbat",
+  "country": "YE",
+  "coord": {
+    "lon": 46.388111,
+    "lat": 14.20567
+  }
+},
+{
+  "id": 78137,
+  "name": "Ar Rawdah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.223991,
+    "lat": 15.43251
+  }
+},
+{
+  "id": 78141,
+  "name": "Ar Rawdah",
+  "country": "YE",
+  "coord": {
+    "lon": 47.276379,
+    "lat": 14.46725
+  }
+},
+{
+  "id": 78379,
+  "name": "An Nadirah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.47559,
+    "lat": 14.09628
+  }
+},
+{
+  "id": 78428,
+  "name": "Amran",
+  "country": "YE",
+  "coord": {
+    "lon": 43.943851,
+    "lat": 15.6594
+  }
+},
+{
+  "id": 78448,
+  "name": "Amd",
+  "country": "YE",
+  "coord": {
+    "lon": 47.98333,
+    "lat": 15.3
+  }
+},
+{
+  "id": 78471,
+  "name": "Al Wuday",
+  "country": "YE",
+  "coord": {
+    "lon": 46.01786,
+    "lat": 13.7721
+  }
+},
+{
+  "id": 78543,
+  "name": "Al Udayn",
+  "country": "YE",
+  "coord": {
+    "lon": 43.996731,
+    "lat": 13.96918
+  }
+},
+{
+  "id": 78566,
+  "name": "Al Qurh",
+  "country": "YE",
+  "coord": {
+    "lon": 51.48333,
+    "lat": 16.73333
+  }
+},
+{
+  "id": 78675,
+  "name": "Al Qanawis",
+  "country": "YE",
+  "coord": {
+    "lon": 43.134331,
+    "lat": 15.49277
+  }
+},
+{
+  "id": 78699,
+  "name": "Al Qaflah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.767921,
+    "lat": 16.31897
+  }
+},
+{
+  "id": 78708,
+  "name": "Qaryat al Qabil",
+  "country": "YE",
+  "coord": {
+    "lon": 44.127682,
+    "lat": 15.45033
+  }
+},
+{
+  "id": 78713,
+  "name": "Al Maudah",
+  "country": "YE",
+  "coord": {
+    "lon": 45.387321,
+    "lat": 14.21055
+  }
+},
+{
+  "id": 78742,
+  "name": "Al Munirah",
+  "country": "YE",
+  "coord": {
+    "lon": 42.929359,
+    "lat": 15.32024
+  }
+},
+{
+  "id": 78776,
+  "name": "Al Misrakh",
+  "country": "YE",
+  "coord": {
+    "lon": 44.020432,
+    "lat": 13.46059
+  }
+},
+{
+  "id": 78814,
+  "name": "Al Milah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.825562,
+    "lat": 13.42611
+  }
+},
+{
+  "id": 78823,
+  "name": "Al Mighlaf",
+  "country": "YE",
+  "coord": {
+    "lon": 43.18914,
+    "lat": 15.2871
+  }
+},
+{
+  "id": 78905,
+  "name": "Markaz al Marir",
+  "country": "YE",
+  "coord": {
+    "lon": 43.59547,
+    "lat": 13.98178
+  }
+},
+{
+  "id": 78909,
+  "name": "Al Marawiah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.153912,
+    "lat": 14.83069
+  }
+},
+{
+  "id": 78929,
+  "name": "Al Mansuriyah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.299221,
+    "lat": 14.6856
+  }
+},
+{
+  "id": 78931,
+  "name": "Al Mansurah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.981659,
+    "lat": 12.86019
+  }
+},
+{
+  "id": 78964,
+  "name": "Al Makhadir",
+  "country": "YE",
+  "coord": {
+    "lon": 44.19796,
+    "lat": 14.12224
+  }
+},
+{
+  "id": 78977,
+  "name": "Al Mahwit",
+  "country": "YE",
+  "coord": {
+    "lon": 43.544811,
+    "lat": 15.47007
+  }
+},
+{
+  "id": 78991,
+  "name": "Al Mahfid",
+  "country": "YE",
+  "coord": {
+    "lon": 46.91328,
+    "lat": 14.05847
+  }
+},
+{
+  "id": 79006,
+  "name": "Al Mahabishah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.435871,
+    "lat": 15.94758
+  }
+},
+{
+  "id": 79050,
+  "name": "Al Luhayyah",
+  "country": "YE",
+  "coord": {
+    "lon": 42.690929,
+    "lat": 15.70309
+  }
+},
+{
+  "id": 79088,
+  "name": "Kirsh",
+  "country": "YE",
+  "coord": {
+    "lon": 44.490459,
+    "lat": 13.36473
+  }
+},
+{
+  "id": 79131,
+  "name": "Al Khawkhah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.249298,
+    "lat": 13.8071
+  }
+},
+{
+  "id": 79219,
+  "name": "Al Jurbah",
+  "country": "YE",
+  "coord": {
+    "lon": 45.158939,
+    "lat": 13.7915
+  }
+},
+{
+  "id": 79284,
+  "name": "Al Jarrahi",
+  "country": "YE",
+  "coord": {
+    "lon": 43.388451,
+    "lat": 14.13254
+  }
+},
+{
+  "id": 79384,
+  "name": "Al Husayn",
+  "country": "YE",
+  "coord": {
+    "lon": 44.76886,
+    "lat": 13.79199
+  }
+},
+{
+  "id": 79393,
+  "name": "Huraydah",
+  "country": "YE",
+  "coord": {
+    "lon": 48.182781,
+    "lat": 15.59861
+  }
+},
+{
+  "id": 79455,
+  "name": "Al Hazm",
+  "country": "YE",
+  "coord": {
+    "lon": 44.77692,
+    "lat": 16.164061
+  }
+},
+{
+  "id": 79478,
+  "name": "Al Qatn",
+  "country": "YE",
+  "coord": {
+    "lon": 48.455559,
+    "lat": 15.84056
+  }
+},
+{
+  "id": 79531,
+  "name": "Al Harf",
+  "country": "YE",
+  "coord": {
+    "lon": 44.094212,
+    "lat": 16.363951
+  }
+},
+{
+  "id": 79609,
+  "name": "Hajar al Mushaikh",
+  "country": "YE",
+  "coord": {
+    "lon": 47.833328,
+    "lat": 16.133329
+  }
+},
+{
+  "id": 79700,
+  "name": "Al Ghayzah",
+  "country": "YE",
+  "coord": {
+    "lon": 52.176048,
+    "lat": 16.20787
+  }
+},
+{
+  "id": 79845,
+  "name": "Al Batinah",
+  "country": "YE",
+  "coord": {
+    "lon": 48.433331,
+    "lat": 15.48333
+  }
+},
+{
+  "id": 79967,
+  "name": "Al Aqir",
+  "country": "YE",
+  "coord": {
+    "lon": 45.91156,
+    "lat": 14.56816
+  }
+},
+{
+  "id": 80105,
+  "name": "Ahwar",
+  "country": "YE",
+  "coord": {
+    "lon": 46.713669,
+    "lat": 13.52019
+  }
+},
+{
+  "id": 80309,
+  "name": "Ad Durayhimi",
+  "country": "YE",
+  "coord": {
+    "lon": 43.05505,
+    "lat": 14.63702
+  }
+},
+{
+  "id": 80331,
+  "name": "Ad Dis ash Sharqiyah",
+  "country": "YE",
+  "coord": {
+    "lon": 49.947781,
+    "lat": 14.90806
+  }
+},
+{
+  "id": 80336,
+  "name": "Ad Dimnah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.181679,
+    "lat": 13.45398
+  }
+},
+{
+  "id": 80379,
+  "name": "Ad Dann",
+  "country": "YE",
+  "coord": {
+    "lon": 43.852749,
+    "lat": 14.3518
+  }
+},
+{
+  "id": 80383,
+  "name": "Az Zaliah",
+  "country": "YE",
+  "coord": {
+    "lon": 48.01667,
+    "lat": 15.01667
+  }
+},
+{
+  "id": 80384,
+  "name": "Dhalie",
+  "country": "YE",
+  "coord": {
+    "lon": 44.731369,
+    "lat": 13.69572
+  }
+},
+{
+  "id": 80393,
+  "name": "Dhahi",
+  "country": "YE",
+  "coord": {
+    "lon": 43.06974,
+    "lat": 15.21467
+  }
+},
+{
+  "id": 400734,
+  "name": "Markaz Bilad at Taam",
+  "country": "YE",
+  "coord": {
+    "lon": 43.536388,
+    "lat": 14.83361
+  }
+},
+{
+  "id": 401000,
+  "name": "Al Jumah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.96489,
+    "lat": 14.73779
+  }
+},
+{
+  "id": 401019,
+  "name": "Al Hadiyah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.57045,
+    "lat": 14.52638
+  }
+},
+{
+  "id": 401023,
+  "name": "Kusmah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.636761,
+    "lat": 14.58175
+  }
+},
+{
+  "id": 401653,
+  "name": "Riqab",
+  "country": "YE",
+  "coord": {
+    "lon": 43.464909,
+    "lat": 14.88596
+  }
+},
+{
+  "id": 401672,
+  "name": "As Sukhnah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.436199,
+    "lat": 14.79408
+  }
+},
+{
+  "id": 402074,
+  "name": "Ar Rujum",
+  "country": "YE",
+  "coord": {
+    "lon": 43.632259,
+    "lat": 15.45776
+  }
+},
+{
+  "id": 402470,
+  "name": "Al Khamis",
+  "country": "YE",
+  "coord": {
+    "lon": 43.511219,
+    "lat": 15.18533
+  }
+},
+{
+  "id": 402753,
+  "name": "Al Urr",
+  "country": "YE",
+  "coord": {
+    "lon": 43.888359,
+    "lat": 15.24648
+  }
+},
+{
+  "id": 403270,
+  "name": "Al Maghrabah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.666672,
+    "lat": 15.87722
+  }
+},
+{
+  "id": 403271,
+  "name": "As Sararah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.869968,
+    "lat": 15.79449
+  }
+},
+{
+  "id": 403272,
+  "name": "An Nasirah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.809021,
+    "lat": 15.77277
+  }
+},
+{
+  "id": 403316,
+  "name": "Mabyan",
+  "country": "YE",
+  "coord": {
+    "lon": 43.557011,
+    "lat": 15.73773
+  }
+},
+{
+  "id": 403754,
+  "name": "Matnah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.024719,
+    "lat": 15.25333
+  }
+},
+{
+  "id": 404914,
+  "name": "Al Hayfah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.237881,
+    "lat": 15.73494
+  }
+},
+{
+  "id": 404915,
+  "name": "Bayt Marran",
+  "country": "YE",
+  "coord": {
+    "lon": 44.205299,
+    "lat": 15.69312
+  }
+},
+{
+  "id": 406072,
+  "name": "Al Nashmah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.96833,
+    "lat": 13.39028
+  }
+},
+{
+  "id": 406635,
+  "name": "Al Hashwah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.276218,
+    "lat": 16.90641
+  }
+},
+{
+  "id": 406662,
+  "name": "Saqayn",
+  "country": "YE",
+  "coord": {
+    "lon": 43.52499,
+    "lat": 16.877001
+  }
+},
+{
+  "id": 406737,
+  "name": "Al Mahjal",
+  "country": "YE",
+  "coord": {
+    "lon": 44.847691,
+    "lat": 16.711691
+  }
+},
+{
+  "id": 406761,
+  "name": "Rajuzah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.414539,
+    "lat": 16.70056
+  }
+},
+{
+  "id": 406845,
+  "name": "Al Khirab",
+  "country": "YE",
+  "coord": {
+    "lon": 44.290482,
+    "lat": 16.554399
+  }
+},
+{
+  "id": 406884,
+  "name": "Al Humaydat",
+  "country": "YE",
+  "coord": {
+    "lon": 44.430279,
+    "lat": 16.485661
+  }
+},
+{
+  "id": 407014,
+  "name": "Al Madan",
+  "country": "YE",
+  "coord": {
+    "lon": 43.643829,
+    "lat": 16.224131
+  }
+},
+{
+  "id": 407024,
+  "name": "Al Ashshah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.854759,
+    "lat": 16.256519
+  }
+},
+{
+  "id": 407036,
+  "name": "Hasan Bini Sad",
+  "country": "YE",
+  "coord": {
+    "lon": 44.47728,
+    "lat": 16.27293
+  }
+},
+{
+  "id": 407042,
+  "name": "Al Matun",
+  "country": "YE",
+  "coord": {
+    "lon": 44.584759,
+    "lat": 16.230631
+  }
+},
+{
+  "id": 407048,
+  "name": "Al Maslub",
+  "country": "YE",
+  "coord": {
+    "lon": 44.626129,
+    "lat": 16.182711
+  }
+},
+{
+  "id": 407049,
+  "name": "Al Ghayl",
+  "country": "YE",
+  "coord": {
+    "lon": 44.68005,
+    "lat": 16.10774
+  }
+},
+{
+  "id": 407094,
+  "name": "Al Jamimah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.59647,
+    "lat": 16.01787
+  }
+},
+{
+  "id": 407096,
+  "name": "Habur",
+  "country": "YE",
+  "coord": {
+    "lon": 43.706989,
+    "lat": 16.05097
+  }
+},
+{
+  "id": 407129,
+  "name": "Ar Rawd",
+  "country": "YE",
+  "coord": {
+    "lon": 44.81012,
+    "lat": 16.061449
+  }
+},
+{
+  "id": 407690,
+  "name": "Ar Rubu",
+  "country": "YE",
+  "coord": {
+    "lon": 43.869011,
+    "lat": 13.78024
+  }
+},
+{
+  "id": 407716,
+  "name": "Maqbanah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.687302,
+    "lat": 13.66394
+  }
+},
+{
+  "id": 408124,
+  "name": "Dubah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.131081,
+    "lat": 14.49052
+  }
+},
+{
+  "id": 408342,
+  "name": "Ar Radai",
+  "country": "YE",
+  "coord": {
+    "lon": 44.39299,
+    "lat": 14.01708
+  }
+},
+{
+  "id": 408801,
+  "name": "Al Mayfaah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.54866,
+    "lat": 14.46392
+  }
+},
+{
+  "id": 408846,
+  "name": "Ar Radmah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.586571,
+    "lat": 14.21973
+  }
+},
+{
+  "id": 408866,
+  "name": "Hammam Damt",
+  "country": "YE",
+  "coord": {
+    "lon": 44.670059,
+    "lat": 14.09031
+  }
+},
+{
+  "id": 408883,
+  "name": "Zakhim",
+  "country": "YE",
+  "coord": {
+    "lon": 44.68504,
+    "lat": 14.29496
+  }
+},
+{
+  "id": 408970,
+  "name": "Maswarah",
+  "country": "YE",
+  "coord": {
+    "lon": 45.726231,
+    "lat": 14.34399
+  }
+},
+{
+  "id": 409051,
+  "name": "Tawr al Bahah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.29966,
+    "lat": 13.18179
+  }
+},
+{
+  "id": 410914,
+  "name": "Kushar",
+  "country": "YE",
+  "coord": {
+    "lon": 43.421021,
+    "lat": 16.15523
+  }
+},
+{
+  "id": 410915,
+  "name": "Aslam",
+  "country": "YE",
+  "coord": {
+    "lon": 43.32745,
+    "lat": 16.05961
+  }
+},
+{
+  "id": 411056,
+  "name": "Haydan",
+  "country": "YE",
+  "coord": {
+    "lon": 43.43372,
+    "lat": 16.77899
+  }
+},
+{
+  "id": 413170,
+  "name": "Al Miftah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.46381,
+    "lat": 15.97431
+  }
+},
+{
+  "id": 7341410,
+  "name": "Mudghil",
+  "country": "YE",
+  "coord": {
+    "lon": 45.040131,
+    "lat": 15.59858
+  }
+},
+{
+  "id": 7341563,
+  "name": "Al Harajah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.665352,
+    "lat": 15.48818
+  }
+},
+{
+  "id": 7344394,
+  "name": "Bani al Awwam",
+  "country": "YE",
+  "coord": {
+    "lon": 43.587269,
+    "lat": 15.58119
+  }
+},
+{
+  "id": 7344569,
+  "name": "Bani an Nahari",
+  "country": "YE",
+  "coord": {
+    "lon": 43.556332,
+    "lat": 15.63981
+  }
+},
+{
+  "id": 7345723,
+  "name": "Al Hijrah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.38718,
+    "lat": 17.29788
+  }
+},
+{
+  "id": 7345827,
+  "name": "Suq al Khamis",
+  "country": "YE",
+  "coord": {
+    "lon": 43.288109,
+    "lat": 17.181259
+  }
+},
+{
+  "id": 7346082,
+  "name": "Al Mashaf",
+  "country": "YE",
+  "coord": {
+    "lon": 43.197811,
+    "lat": 16.85836
+  }
+},
+{
+  "id": 7346660,
+  "name": "Al Kharab",
+  "country": "YE",
+  "coord": {
+    "lon": 43.338879,
+    "lat": 16.991289
+  }
+},
+{
+  "id": 7354697,
+  "name": "Al Ayn",
+  "country": "YE",
+  "coord": {
+    "lon": 44.092079,
+    "lat": 13.33005
+  }
+},
+{
+  "id": 7356864,
+  "name": "Qaryat ad Dais",
+  "country": "YE",
+  "coord": {
+    "lon": 44.274899,
+    "lat": 13.9877
+  }
+},
+{
+  "id": 7360069,
+  "name": "Hazm al Udayn",
+  "country": "YE",
+  "coord": {
+    "lon": 44.00526,
+    "lat": 14.02743
+  }
+},
+{
+  "id": 7363900,
+  "name": "An Najd",
+  "country": "YE",
+  "coord": {
+    "lon": 45.295959,
+    "lat": 14.42152
+  }
+},
+{
+  "id": 7364022,
+  "name": "Rahabah al Kawlah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.989182,
+    "lat": 14.89574
+  }
+},
+{
+  "id": 7364546,
+  "name": "Al Amud",
+  "country": "YE",
+  "coord": {
+    "lon": 45.20676,
+    "lat": 14.72103
+  }
+},
+{
+  "id": 7364784,
+  "name": "Al Aqabah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.786991,
+    "lat": 14.27179
+  }
+},
+{
+  "id": 7364913,
+  "name": "Al Qurayshiyah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.85358,
+    "lat": 14.5122
+  }
+},
+{
+  "id": 7367232,
+  "name": "Hawrah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.145802,
+    "lat": 13.35751
+  }
+},
+{
+  "id": 7683765,
+  "name": "Ash Shawati",
+  "country": "YE",
+  "coord": {
+    "lon": 43.812649,
+    "lat": 16.78314
+  }
+},
+{
+  "id": 7792745,
+  "name": "Al Hamdi",
+  "country": "YE",
+  "coord": {
+    "lon": 48.779652,
+    "lat": 15.94727
+  }
+},
+{
+  "id": 7792748,
+  "name": "At Tahalif",
+  "country": "YE",
+  "coord": {
+    "lon": 48.7864,
+    "lat": 15.93786
+  }
+},
+{
+  "id": 7792750,
+  "name": "Suhayl Shibam",
+  "country": "YE",
+  "coord": {
+    "lon": 48.638641,
+    "lat": 15.91448
+  }
+},
+{
+  "id": 7890531,
+  "name": "Al Khaniq",
+  "country": "YE",
+  "coord": {
+    "lon": 44.18158,
+    "lat": 15.50253
+  }
+},
+{
+  "id": 7928383,
+  "name": "Bir Hat",
+  "country": "YE",
+  "coord": {
+    "lon": 52.095661,
+    "lat": 17.32197
+  }
+},
+{
+  "id": 7928384,
+  "name": "Hadadah",
+  "country": "YE",
+  "coord": {
+    "lon": 44.274609,
+    "lat": 13.17535
+  }
+},
+{
+  "id": 7930439,
+  "name": "Rimat",
+  "country": "YE",
+  "coord": {
+    "lon": 50.577888,
+    "lat": 17.45532
+  }
+},
+{
+  "id": 7930440,
+  "name": "Rumah",
+  "country": "YE",
+  "coord": {
+    "lon": 50.577702,
+    "lat": 17.455481
+  }
+},
+{
+  "id": 7931038,
+  "name": "Al Shiruj",
+  "country": "YE",
+  "coord": {
+    "lon": 47.76926,
+    "lat": 14.68526
+  }
+},
+{
+  "id": 7931039,
+  "name": "Jawl al Majma",
+  "country": "YE",
+  "coord": {
+    "lon": 47.02763,
+    "lat": 14.93278
+  }
+},
+{
+  "id": 7931040,
+  "name": "Suq Sibah",
+  "country": "YE",
+  "coord": {
+    "lon": 45.3923,
+    "lat": 13.81436
+  }
+},
+{
+  "id": 7931041,
+  "name": "Al Hazm",
+  "country": "YE",
+  "coord": {
+    "lon": 45.609619,
+    "lat": 14.68919
+  }
+},
+{
+  "id": 7931042,
+  "name": "Al Aqta",
+  "country": "YE",
+  "coord": {
+    "lon": 45.351231,
+    "lat": 14.66217
+  }
+},
+{
+  "id": 8015577,
+  "name": "Baqim as Suq",
+  "country": "YE",
+  "coord": {
+    "lon": 43.477428,
+    "lat": 17.397129
+  }
+},
+{
+  "id": 921900,
+  "name": "Dzaoudzi",
+  "country": "YT",
+  "coord": {
+    "lon": 45.269939,
+    "lat": -12.7887
+  }
+},
+{
+  "id": 921917,
+  "name": "Dembeni",
+  "country": "YT",
+  "coord": {
+    "lon": 45.184361,
+    "lat": -12.8436
+  }
+},
+{
+  "id": 1090119,
+  "name": "Bandraboua",
+  "country": "YT",
+  "coord": {
+    "lon": 45.122311,
+    "lat": -12.7044
+  }
+},
+{
+  "id": 1090161,
+  "name": "MTsangamouji",
+  "country": "YT",
+  "coord": {
+    "lon": 45.083611,
+    "lat": -12.75944
+  }
+},
+{
+  "id": 1090311,
+  "name": "Ouangani",
+  "country": "YT",
+  "coord": {
+    "lon": 45.136108,
+    "lat": -12.84639
+  }
+},
+{
+  "id": 1090340,
+  "name": "Sada",
+  "country": "YT",
+  "coord": {
+    "lon": 45.102051,
+    "lat": -12.85055
+  }
+},
+{
+  "id": 1090467,
+  "name": "Boueni",
+  "country": "YT",
+  "coord": {
+    "lon": 45.076111,
+    "lat": -12.9025
+  }
+},
+{
+  "id": 1090476,
+  "name": "Kani Keli",
+  "country": "YT",
+  "coord": {
+    "lon": 45.103329,
+    "lat": -12.95361
+  }
+},
+{
+  "id": 939608,
+  "name": "Winburg",
+  "country": "ZA",
+  "coord": {
+    "lon": 27.009331,
+    "lat": -28.518049
+  }
+},
+{
+  "id": 939676,
+  "name": "Willowmore",
+  "country": "ZA",
+  "coord": {
+    "lon": 23.48954,
+    "lat": -33.292648
+  }
+},
+{
+  "id": 940186,
+  "name": "Whittlesea",
+  "country": "ZA",
+  "coord": {
+    "lon": 26.824369,
+    "lat": -32.17588
+  }
+},
+{
+  "id": 942701,
+  "name": "Vrede",
+  "country": "ZA",
+  "coord": {
+    "lon": 29.16585,
+    "lat": -27.42573
+  }
+},
+{
+  "id": 944540,
+  "name": "Ventersburg",
+  "country": "ZA",
+  "coord": {
+    "lon": 27.13814,
+    "lat": -28.085609
+  }
+},
+{
+  "id": 945813,
+  "name": "Utrecht",
+  "country": "ZA",
+  "coord": {
+    "lon": 30.321659,
+    "lat": -27.658621
+  }
+},
+{
+  "id": 949026,
+  "name": "Thulamahashi",
+  "country": "ZA",
+  "coord": {
+    "lon": 31.19939,
+    "lat": -24.72459
+  }
+},
+{
+  "id": 951441,
+  "name": "Sundumbili",
+  "country": "ZA",
+  "coord": {
+    "lon": 31.39752,
+    "lat": -29.133711
+  }
+},
+{
+  "id": 964090,
+  "name": "Prieska",
+  "country": "ZA",
+  "coord": {
+    "lon": 22.747419,
+    "lat": -29.664089
+  }
+},
+{
+  "id": 964408,
+  "name": "Port Saint Johns",
+  "country": "ZA",
+  "coord": {
+    "lon": 29.544769,
+    "lat": -31.62291
+  }
+},
+{
+  "id": 967580,
+  "name": "Orange Farm",
+  "country": "ZA",
+  "coord": {
+    "lon": 27.866671,
+    "lat": -26.48333
+  }
+},
+{
+  "id": 972673,
+  "name": "Muldersdriseloop",
+  "country": "ZA",
+  "coord": {
+    "lon": 27.83798,
+    "lat": -26.03673
+  }
+},
+{
+  "id": 974222,
+  "name": "Mooirivier",
+  "country": "ZA",
+  "coord": {
+    "lon": 29.9946,
+    "lat": -29.208241
+  }
+},
+{
+  "id": 974719,
+  "name": "Molteno",
+  "country": "ZA",
+  "coord": {
+    "lon": 26.362459,
+    "lat": -31.396761
+  }
+},
+{
+  "id": 975144,
+  "name": "Modderfontein",
+  "country": "ZA",
+  "coord": {
+    "lon": 28.16534,
+    "lat": -26.08909
+  }
+},
+{
+  "id": 978677,
+  "name": "Marquard",
+  "country": "ZA",
+  "coord": {
+    "lon": 27.430479,
+    "lat": -28.66449
+  }
+},
+{
+  "id": 979365,
+  "name": "Mankoeng",
+  "country": "ZA",
+  "coord": {
+    "lon": 29.816669,
+    "lat": -23.9
+  }
+},
+{
+  "id": 986134,
+  "name": "Kuruman",
+  "country": "ZA",
+  "coord": {
+    "lon": 23.432461,
+    "lat": -27.4524
+  }
+},
+{
+  "id": 987875,
+  "name": "Koppies",
+  "country": "ZA",
+  "coord": {
+    "lon": 27.574221,
+    "lat": -27.241791
+  }
+},
+{
+  "id": 994023,
+  "name": "Jan Kempdorp",
+  "country": "ZA",
+  "coord": {
+    "lon": 24.830521,
+    "lat": -27.922461
+  }
+},
+{
+  "id": 994939,
+  "name": "Ilinge",
+  "country": "ZA",
+  "coord": {
+    "lon": 27.042669,
+    "lat": -31.976761
+  }
+},
+{
+  "id": 995573,
+  "name": "Hoopstad",
+  "country": "ZA",
+  "coord": {
+    "lon": 25.908331,
+    "lat": -27.832741
+  }
+},
+{
+  "id": 1000006,
+  "name": "Greytown",
+  "country": "ZA",
+  "coord": {
+    "lon": 30.592791,
+    "lat": -29.064159
+  }
+},
+{
+  "id": 1003462,
+  "name": "GAKGAPANE",
+  "country": "ZA",
+  "coord": {
+    "lon": 30.216669,
+    "lat": -23.633329
+  }
+},
+{
+  "id": 1006420,
+  "name": "Ekuvukeni",
+  "country": "ZA",
+  "coord": {
+    "lon": 30.15513,
+    "lat": -28.46752
+  }
+},
+{
+  "id": 1008858,
+  "name": "Dordrecht",
+  "country": "ZA",
+  "coord": {
+    "lon": 27.04878,
+    "lat": -31.372
+  }
+},
+{
+  "id": 1010962,
+  "name": "Deneysville",
+  "country": "ZA",
+  "coord": {
+    "lon": 28.097071,
+    "lat": -26.8908
+  }
+},
+{
+  "id": 1011918,
+  "name": "Danielskuil",
+  "country": "ZA",
+  "coord": {
+    "lon": 23.539511,
+    "lat": -28.18873
+  }
+},
+{
+  "id": 1013076,
+  "name": "Colesberg",
+  "country": "ZA",
+  "coord": {
+    "lon": 25.097179,
+    "lat": -30.71999
+  }
+},
+{
+  "id": 1013266,
+  "name": "Clocolan",
+  "country": "ZA",
+  "coord": {
+    "lon": 27.565559,
+    "lat": -28.91367
+  }
+},
+{
+  "id": 1014034,
+  "name": "Carnarvon",
+  "country": "ZA",
+  "coord": {
+    "lon": 22.13303,
+    "lat": -30.968269
+  }
+},
+{
+  "id": 1014653,
+  "name": "Burgersdorp",
+  "country": "ZA",
+  "coord": {
+    "lon": 26.328621,
+    "lat": -30.99766
+  }
+},
+{
+  "id": 1015694,
+  "name": "Breyten",
+  "country": "ZA",
+  "coord": {
+    "lon": 29.986959,
+    "lat": -26.30176
+  }
+},
+{
+  "id": 1015776,
+  "name": "Bredasdorp",
+  "country": "ZA",
+  "coord": {
+    "lon": 20.04031,
+    "lat": -34.53215
+  }
+},
+{
+  "id": 1020066,
+  "name": "Berea",
+  "country": "ZA",
+  "coord": {
+    "lon": 30.99337,
+    "lat": -29.851851
+  }
+},
+{
+  "id": 1020340,
+  "name": "Belfast",
+  "country": "ZA",
+  "coord": {
+    "lon": 30.03504,
+    "lat": -25.689911
+  }
+},
+{
+  "id": 1023332,
+  "name": "Alice",
+  "country": "ZA",
+  "coord": {
+    "lon": 26.8344,
+    "lat": -32.787491
+  }
+},
+{
+  "id": 1023656,
+  "name": "Adelaide",
+  "country": "ZA",
+  "coord": {
+    "lon": 26.295641,
+    "lat": -32.70747
+  }
+},
+{
+  "id": 3362024,
+  "name": "Rosebank",
+  "country": "ZA",
+  "coord": {
+    "lon": 18.474171,
+    "lat": -33.955559
+  }
+},
+{
+  "id": 3369056,
+  "name": "Constantia",
+  "country": "ZA",
+  "coord": {
+    "lon": 18.418329,
+    "lat": -34.031391
+  }
+},
+{
+  "id": 3369098,
+  "name": "Claremont",
+  "country": "ZA",
+  "coord": {
+    "lon": 18.465281,
+    "lat": -33.98056
+  }
+},
+{
+  "id": 6942529,
+  "name": "Sunset Beach",
+  "country": "ZA",
+  "coord": {
+    "lon": 18.49231,
+    "lat": -33.853951
+  }
+},
+{
+  "id": 175555,
+  "name": "Nakonde",
+  "country": "ZM",
+  "coord": {
+    "lon": 32.744999,
+    "lat": -9.34213
+  }
+},
+{
+  "id": 175961,
+  "name": "Mpulungu",
+  "country": "ZM",
+  "coord": {
+    "lon": 31.11405,
+    "lat": -8.76234
+  }
+},
+{
+  "id": 175967,
+  "name": "Mporokoso",
+  "country": "ZM",
+  "coord": {
+    "lon": 30.12501,
+    "lat": -9.37272
+  }
+},
+{
+  "id": 176758,
+  "name": "Kaputa",
+  "country": "ZM",
+  "coord": {
+    "lon": 29.661921,
+    "lat": -8.46887
+  }
+},
+{
+  "id": 897456,
+  "name": "Sinazongwe",
+  "country": "ZM",
+  "coord": {
+    "lon": 27.46179,
+    "lat": -17.2614
+  }
+},
+{
+  "id": 898912,
+  "name": "Serenje",
+  "country": "ZM",
+  "coord": {
+    "lon": 30.23522,
+    "lat": -13.23251
+  }
+},
+{
+  "id": 900056,
+  "name": "Nyimba",
+  "country": "ZM",
+  "coord": {
+    "lon": 30.814899,
+    "lat": -14.55656
+  }
+},
+{
+  "id": 901766,
+  "name": "Namwala",
+  "country": "ZM",
+  "coord": {
+    "lon": 26.438391,
+    "lat": -15.75042
+  }
+},
+{
+  "id": 902344,
+  "name": "Nakambala",
+  "country": "ZM",
+  "coord": {
+    "lon": 27.77994,
+    "lat": -15.83244
+  }
+},
+{
+  "id": 902620,
+  "name": "Mwinilunga",
+  "country": "ZM",
+  "coord": {
+    "lon": 24.42926,
+    "lat": -11.73584
+  }
+},
+{
+  "id": 902721,
+  "name": "Mwense",
+  "country": "ZM",
+  "coord": {
+    "lon": 28.698,
+    "lat": -10.38446
+  }
+},
+{
+  "id": 904241,
+  "name": "Mungwi",
+  "country": "ZM",
+  "coord": {
+    "lon": 31.369419,
+    "lat": -10.1732
+  }
+},
+{
+  "id": 905382,
+  "name": "Mufumbwe",
+  "country": "ZM",
+  "coord": {
+    "lon": 24.799999,
+    "lat": -13.68333
+  }
+},
+{
+  "id": 905789,
+  "name": "Mpongwe",
+  "country": "ZM",
+  "coord": {
+    "lon": 28.155041,
+    "lat": -13.50914
+  }
+},
+{
+  "id": 906221,
+  "name": "Mkushi",
+  "country": "ZM",
+  "coord": {
+    "lon": 29.3939,
+    "lat": -13.62015
+  }
+},
+{
+  "id": 908718,
+  "name": "Maamba",
+  "country": "ZM",
+  "coord": {
+    "lon": 27.15,
+    "lat": -17.366671
+  }
+},
+{
+  "id": 908913,
+  "name": "Luwingu",
+  "country": "ZM",
+  "coord": {
+    "lon": 29.92712,
+    "lat": -10.2621
+  }
+},
+{
+  "id": 909299,
+  "name": "Lundazi",
+  "country": "ZM",
+  "coord": {
+    "lon": 33.1782,
+    "lat": -12.29292
+  }
+},
+{
+  "id": 909488,
+  "name": "Lukulu",
+  "country": "ZM",
+  "coord": {
+    "lon": 23.241961,
+    "lat": -14.37067
+  }
+},
+{
+  "id": 909887,
+  "name": "Luangwa",
+  "country": "ZM",
+  "coord": {
+    "lon": 30.41667,
+    "lat": -15.61667
+  }
+},
+{
+  "id": 910361,
+  "name": "Limulunga",
+  "country": "ZM",
+  "coord": {
+    "lon": 23.137581,
+    "lat": -15.09691
+  }
+},
+{
+  "id": 912628,
+  "name": "Kasempa",
+  "country": "ZM",
+  "coord": {
+    "lon": 25.833799,
+    "lat": -13.45836
+  }
+},
+{
+  "id": 913323,
+  "name": "Kaoma",
+  "country": "ZM",
+  "coord": {
+    "lon": 24.799999,
+    "lat": -14.78333
+  }
+},
+{
+  "id": 915285,
+  "name": "Kalengwa",
+  "country": "ZM",
+  "coord": {
+    "lon": 25.00271,
+    "lat": -13.46586
+  }
+},
+{
+  "id": 915471,
+  "name": "Kalabo",
+  "country": "ZM",
+  "coord": {
+    "lon": 22.681379,
+    "lat": -14.97004
+  }
+},
+{
+  "id": 916246,
+  "name": "Kabompo",
+  "country": "ZM",
+  "coord": {
+    "lon": 24.200809,
+    "lat": -13.59268
+  }
+},
+{
+  "id": 916668,
+  "name": "Isoka",
+  "country": "ZM",
+  "coord": {
+    "lon": 32.63353,
+    "lat": -10.16062
+  }
+},
+{
+  "id": 917011,
+  "name": "Gwembe",
+  "country": "ZM",
+  "coord": {
+    "lon": 27.606911,
+    "lat": -16.497549
+  }
+},
+{
+  "id": 917688,
+  "name": "Chongwe",
+  "country": "ZM",
+  "coord": {
+    "lon": 28.682039,
+    "lat": -15.32916
+  }
+},
+{
+  "id": 918905,
+  "name": "Chinsali",
+  "country": "ZM",
+  "coord": {
+    "lon": 32.081619,
+    "lat": -10.54142
+  }
+},
+{
+  "id": 920233,
+  "name": "Chibombo",
+  "country": "ZM",
+  "coord": {
+    "lon": 28.07057,
+    "lat": -14.65685
+  }
+},
+{
+  "id": 920820,
+  "name": "Chambishi",
+  "country": "ZM",
+  "coord": {
+    "lon": 28.053671,
+    "lat": -12.63247
+  }
+},
+{
+  "id": 920901,
+  "name": "Chama",
+  "country": "ZM",
+  "coord": {
+    "lon": 33.1521,
+    "lat": -11.21304
+  }
+},
+{
+  "id": 921028,
+  "name": "Chadiza",
+  "country": "ZM",
+  "coord": {
+    "lon": 32.439171,
+    "lat": -14.06779
+  }
+},
+{
+  "id": 881331,
+  "name": "Shangani",
+  "country": "ZW",
+  "coord": {
+    "lon": 29.366671,
+    "lat": -19.783331
+  }
+},
+{
+  "id": 881345,
+  "name": "Shamva",
+  "country": "ZW",
+  "coord": {
+    "lon": 31.575609,
+    "lat": -17.31159
+  }
+},
+{
+  "id": 882722,
+  "name": "Raffingora",
+  "country": "ZW",
+  "coord": {
+    "lon": 30.433331,
+    "lat": -17.033331
+  }
+},
+{
+  "id": 882859,
+  "name": "Plumtree",
+  "country": "ZW",
+  "coord": {
+    "lon": 27.816669,
+    "lat": -20.48333
+  }
+},
+{
+  "id": 882955,
+  "name": "Penhalonga",
+  "country": "ZW",
+  "coord": {
+    "lon": 32.697811,
+    "lat": -18.891121
+  }
+},
+{
+  "id": 883183,
+  "name": "Odzi",
+  "country": "ZW",
+  "coord": {
+    "lon": 32.405571,
+    "lat": -18.96167
+  }
+},
+{
+  "id": 883258,
+  "name": "Nyazura",
+  "country": "ZW",
+  "coord": {
+    "lon": 32.167961,
+    "lat": -18.70587
+  }
+},
+{
+  "id": 883481,
+  "name": "Nyanga",
+  "country": "ZW",
+  "coord": {
+    "lon": 32.75,
+    "lat": -18.216669
+  }
+},
+{
+  "id": 884798,
+  "name": "Mvurwi",
+  "country": "ZW",
+  "coord": {
+    "lon": 30.85,
+    "lat": -17.033331
+  }
+},
+{
+  "id": 884814,
+  "name": "Mvuma",
+  "country": "ZW",
+  "coord": {
+    "lon": 30.52828,
+    "lat": -19.27924
+  }
+},
+{
+  "id": 884927,
+  "name": "Mutoko",
+  "country": "ZW",
+  "coord": {
+    "lon": 32.226768,
+    "lat": -17.39699
+  }
+},
+{
+  "id": 885159,
+  "name": "Murehwa",
+  "country": "ZW",
+  "coord": {
+    "lon": 31.784,
+    "lat": -17.643221
+  }
+},
+{
+  "id": 885800,
+  "name": "Mount Darwin",
+  "country": "ZW",
+  "coord": {
+    "lon": 31.583811,
+    "lat": -16.772511
+  }
+},
+{
+  "id": 886146,
+  "name": "Mhangura",
+  "country": "ZW",
+  "coord": {
+    "lon": 30.16828,
+    "lat": -16.89386
+  }
+},
+{
+  "id": 886384,
+  "name": "Mazoe",
+  "country": "ZW",
+  "coord": {
+    "lon": 30.973881,
+    "lat": -17.50404
+  }
+},
+{
+  "id": 886864,
+  "name": "Mashava",
+  "country": "ZW",
+  "coord": {
+    "lon": 30.48225,
+    "lat": -20.03665
+  }
+},
+{
+  "id": 888089,
+  "name": "Macheke",
+  "country": "ZW",
+  "coord": {
+    "lon": 31.849331,
+    "lat": -18.139009
+  }
+},
+{
+  "id": 888225,
+  "name": "Lupane",
+  "country": "ZW",
+  "coord": {
+    "lon": 27.806959,
+    "lat": -18.93149
+  }
+},
+{
+  "id": 888667,
+  "name": "Lalapanzi",
+  "country": "ZW",
+  "coord": {
+    "lon": 30.177679,
+    "lat": -19.332251
+  }
+},
+{
+  "id": 889390,
+  "name": "Kamativi Mine",
+  "country": "ZW",
+  "coord": {
+    "lon": 27.05728,
+    "lat": -18.31563
+  }
+},
+{
+  "id": 889723,
+  "name": "Inyathi",
+  "country": "ZW",
+  "coord": {
+    "lon": 28.84687,
+    "lat": -19.675631
+  }
+},
+{
+  "id": 889795,
+  "name": "Insiza",
+  "country": "ZW",
+  "coord": {
+    "lon": 29.200001,
+    "lat": -19.783331
+  }
+},
+{
+  "id": 890516,
+  "name": "Gwanda",
+  "country": "ZW",
+  "coord": {
+    "lon": 29,
+    "lat": -20.933331
+  }
+},
+{
+  "id": 891515,
+  "name": "Filabusi",
+  "country": "ZW",
+  "coord": {
+    "lon": 29.285021,
+    "lat": -20.533331
+  }
+},
+{
+  "id": 891699,
+  "name": "Esigodini",
+  "country": "ZW",
+  "coord": {
+    "lon": 28.922609,
+    "lat": -20.289789
+  }
+},
+{
+  "id": 892156,
+  "name": "Dorowa Mining Lease",
+  "country": "ZW",
+  "coord": {
+    "lon": 31.75,
+    "lat": -19.066669
+  }
+},
+{
+  "id": 892440,
+  "name": "Dete",
+  "country": "ZW",
+  "coord": {
+    "lon": 26.866671,
+    "lat": -18.616671
+  }
+},
+{
+  "id": 893172,
+  "name": "Chivhu",
+  "country": "ZW",
+  "coord": {
+    "lon": 30.892179,
+    "lat": -19.02112
+  }
+},
+{
+  "id": 893397,
+  "name": "Chirundu",
+  "country": "ZW",
+  "coord": {
+    "lon": 28.85,
+    "lat": -16.033331
+  }
+},
+{
+  "id": 893813,
+  "name": "Chimanimani",
+  "country": "ZW",
+  "coord": {
+    "lon": 32.866669,
+    "lat": -19.799999
+  }
+},
+{
+  "id": 894413,
+  "name": "Chakari",
+  "country": "ZW",
+  "coord": {
+    "lon": 29.89246,
+    "lat": -18.062941
+  }
+},
+{
+  "id": 894460,
+  "name": "Centenary",
+  "country": "ZW",
+  "coord": {
+    "lon": 31.11462,
+    "lat": -16.722891
+  }
+},
+{
+  "id": 895057,
+  "name": "Binga",
+  "country": "ZW",
+  "coord": {
+    "lon": 27.341391,
+    "lat": -17.620279
+  }
+},
+{
+  "id": 895308,
+  "name": "Beatrice",
+  "country": "ZW",
+  "coord": {
+    "lon": 30.8473,
+    "lat": -18.252831
+  }
+},
+{
+  "id": 895417,
+  "name": "Banket",
+  "country": "ZW",
+  "coord": {
+    "lon": 30.4,
+    "lat": -17.383329
+  }
+},
+{
+  "id": 6640252,
+  "name": "Sophia Antipolis",
+  "country": "FR",
+  "coord": {
+    "lon": 7.04721,
+    "lat": 43.622349
+  }
+},
+{
+  "id": 591951,
+  "name": "Yarvekyulya",
+  "country": "EE",
+  "coord": {
+    "lon": 24.79278,
+    "lat": 59.376671
+  }
+},
+{
+  "id": 3204552,
+  "name": "Banj",
+  "country": "HR",
+  "coord": {
+    "lon": 15.29444,
+    "lat": 44.00111
+  }
+},
+{
+  "id": 6446163,
+  "name": "Marcoussis",
+  "country": "FR",
+  "coord": {
+    "lon": 2.22972,
+    "lat": 48.64167
+  }
+},
+{
+  "id": 6540322,
+  "name": "Carnago",
+  "country": "IT",
+  "coord": {
+    "lon": 8.83424,
+    "lat": 45.722069
+  }
+},
+{
+  "id": 7758810,
+  "name": "BF Homes",
+  "country": "PH",
+  "coord": {
+    "lon": 120.997688,
+    "lat": 14.45337
+  }
+},
+{
+  "id": 1267937,
+  "name": "Kaparwāi",
+  "country": "IN",
+  "coord": {
+    "lon": 83.666672,
+    "lat": 26.299999
+  }
+},
+{
+  "id": 541792,
+  "name": "Krasnyye Chelny",
+  "country": "RU",
+  "coord": {
+    "lon": 52.349998,
+    "lat": 55.700001
+  }
+},
+{
+  "id": 2614602,
+  "name": "Rødkærsbro",
+  "country": "DK",
+  "coord": {
+    "lon": 9.50514,
+    "lat": 56.3531
+  }
+},
+{
+  "id": 2915087,
+  "name": "Großschafhausen",
+  "country": "DE",
+  "coord": {
+    "lon": 9.97267,
+    "lat": 48.19075
+  }
+},
+{
+  "id": 6618988,
+  "name": "Britanski trg",
+  "country": "HR",
+  "coord": {
+    "lon": 15.96497,
+    "lat": 45.81284
+  }
+},
+{
+  "id": 681082,
+  "name": "Colonia Fabricii",
+  "country": "RO",
+  "coord": {
+    "lon": 26.299999,
+    "lat": 45.416672
+  }
+},
+{
+  "id": 7091093,
+  "name": "Alicia",
+  "country": "PH",
+  "coord": {
+    "lon": 121.020798,
+    "lat": 14.665
+  }
+},
+{
+  "id": 744498,
+  "name": "Karaçalı",
+  "country": "TR",
+  "coord": {
+    "lon": 30.318609,
+    "lat": 41.108109
+  }
+},
+{
+  "id": 2938326,
+  "name": "Dellwig",
+  "country": "DE",
+  "coord": {
+    "lon": 6.93333,
+    "lat": 51.48333
+  }
+},
+{
+  "id": 3574766,
+  "name": "Coco",
+  "country": "TT",
+  "coord": {
+    "lon": -61.583328,
+    "lat": 10.68333
+  }
+},
+{
+  "id": 2614105,
+  "name": "Sejstrup",
+  "country": "DK",
+  "coord": {
+    "lon": 8.7418,
+    "lat": 55.435322
+  }
+},
+{
+  "id": 6949461,
+  "name": "Indre By",
+  "country": "DK",
+  "coord": {
+    "lon": 12.5683,
+    "lat": 55.676102
+  }
+},
+{
+  "id": 2820205,
+  "name": "Ulstrup",
+  "country": "DE",
+  "coord": {
+    "lon": 9.55,
+    "lat": 54.816669
+  }
+},
+{
+  "id": 1255987,
+  "name": "Sital",
+  "country": "IN",
+  "coord": {
+    "lon": 73.599998,
+    "lat": 27.966669
+  }
+},
+{
+  "id": 2497460,
+  "name": "Bir Mourad Raïs",
+  "country": "DZ",
+  "coord": {
+    "lon": 3.03916,
+    "lat": 36.7458
+  }
+},
+{
+  "id": 109771,
+  "name": "Al Ghaţghaţ",
+  "country": "SA",
+  "coord": {
+    "lon": 46.249908,
+    "lat": 24.47649
+  }
+},
+{
+  "id": 2751536,
+  "name": "Gemeente Lochem",
+  "country": "NL",
+  "coord": {
+    "lon": 6.41667,
+    "lat": 52.150002
+  }
+},
+{
+  "id": 7116850,
+  "name": "Potsdam",
+  "country": "DE",
+  "coord": {
+    "lon": 13.05794,
+    "lat": 52.396549
+  }
+},
+{
+  "id": 3515419,
+  "name": "Tlaltenco",
+  "country": "MX",
+  "coord": {
+    "lon": -99.01667,
+    "lat": 19.283331
+  }
+},
+{
+  "id": 6358153,
+  "name": "Soraluze / Placencia de las Armas",
+  "country": "ES",
+  "coord": {
+    "lon": -2.41397,
+    "lat": 43.17807
+  }
+},
+{
+  "id": 6754916,
+  "name": "Rawa Barat",
+  "country": "ID",
+  "coord": {
+    "lon": 106.812103,
+    "lat": -6.2377
+  }
+},
+{
+  "id": 8063445,
+  "name": "Glenmarais",
+  "country": "ZA",
+  "coord": {
+    "lon": 28.270309,
+    "lat": -26.057859
+  }
+},
+{
+  "id": 6691018,
+  "name": "Maryland",
+  "country": "IE",
+  "coord": {
+    "lon": -6.28954,
+    "lat": 53.337769
+  }
+},
+{
+  "id": 2888776,
+  "name": "Klein Heidorn",
+  "country": "DE",
+  "coord": {
+    "lon": 9.43333,
+    "lat": 52.433331
+  }
+},
+{
+  "id": 1252736,
+  "name": "Yerandwane",
+  "country": "IN",
+  "coord": {
+    "lon": 73.833328,
+    "lat": 18.5
+  }
+},
+{
+  "id": 3068399,
+  "name": "Petříkov",
+  "country": "CZ",
+  "coord": {
+    "lon": 14.75461,
+    "lat": 48.84697
+  }
+},
+{
+  "id": 1882118,
+  "name": "Tanglin Halt",
+  "country": "SG",
+  "coord": {
+    "lon": 103.797501,
+    "lat": 1.30139
+  }
+},
+{
+  "id": 6536483,
+  "name": "Castronno",
+  "country": "IT",
+  "coord": {
+    "lon": 8.81283,
+    "lat": 45.74567
+  }
+},
+{
+  "id": 6545158,
+  "name": "Trevi",
+  "country": "IT",
+  "coord": {
+    "lon": 12.49176,
+    "lat": 41.90464
+  }
+},
+{
+  "id": 2827436,
+  "name": "Stennewitz",
+  "country": "DE",
+  "coord": {
+    "lon": 13.95,
+    "lat": 51.866669
+  }
+},
+{
+  "id": 1856239,
+  "name": "Nagahamamachi",
+  "country": "JP",
+  "coord": {
+    "lon": 131.616669,
+    "lat": 33.23333
+  }
+},
+{
+  "id": 1855933,
+  "name": "Nakajima",
+  "country": "JP",
+  "coord": {
+    "lon": 137.216675,
+    "lat": 36.716671
+  }
+},
+{
+  "id": 1851099,
+  "name": "Takamatsu",
+  "country": "JP",
+  "coord": {
+    "lon": 136.716675,
+    "lat": 36.76667
+  }
+},
+{
+  "id": 2112209,
+  "name": "Kita-sannomaru",
+  "country": "JP",
+  "coord": {
+    "lon": 140.483337,
+    "lat": 36.366669
+  }
+},
+{
+  "id": 1856685,
+  "name": "Mizoguchi",
+  "country": "JP",
+  "coord": {
+    "lon": 133.433334,
+    "lat": 35.349998
+  }
+},
+{
+  "id": 1848919,
+  "name": "Wakinohamachō",
+  "country": "JP",
+  "coord": {
+    "lon": 135.216675,
+    "lat": 34.700001
+  }
+},
+{
+  "id": 1857706,
+  "name": "Mameda-shimmachi",
+  "country": "JP",
+  "coord": {
+    "lon": 136.633331,
+    "lat": 36.566669
+  }
+},
+{
+  "id": 1849708,
+  "name": "Tsukasamachi",
+  "country": "JP",
+  "coord": {
+    "lon": 136.766663,
+    "lat": 35.416672
+  }
+},
+{
+  "id": 1848739,
+  "name": "Yakuin-Horibata",
+  "country": "JP",
+  "coord": {
+    "lon": 130.399994,
+    "lat": 33.583328
+  }
+},
+{
+  "id": 6541769,
+  "name": "Milo",
+  "country": "IT",
+  "coord": {
+    "lon": 15.11589,
+    "lat": 37.723259
+  }
+},
+{
+  "id": 2534249,
+  "name": "Sidi Ma’rouf",
+  "country": "MA",
+  "coord": {
+    "lon": -7.65384,
+    "lat": 33.514019
+  }
+},
+{
+  "id": 3927548,
+  "name": "Tierra Amarilla",
+  "country": "PE",
+  "coord": {
+    "lon": -76.433327,
+    "lat": -12.13333
+  }
+},
+{
+  "id": 6542338,
+  "name": "Teverola",
+  "country": "IT",
+  "coord": {
+    "lon": 14.20763,
+    "lat": 40.995609
+  }
+},
+{
+  "id": 2854950,
+  "name": "Pennigbüttel",
+  "country": "DE",
+  "coord": {
+    "lon": 8.81667,
+    "lat": 53.25
+  }
+},
+{
+  "id": 1632312,
+  "name": "Parit",
+  "country": "ID",
+  "coord": {
+    "lon": 104.633331,
+    "lat": -3.16667
+  }
+},
+{
+  "id": 1730555,
+  "name": "Aupagan",
+  "country": "PH",
+  "coord": {
+    "lon": 125.555,
+    "lat": 8.89056
+  }
+},
+{
+  "id": 2644749,
+  "name": "Leadgate",
+  "country": "GB",
+  "coord": {
+    "lon": -1.8,
+    "lat": 54.866669
+  }
+},
+{
+  "id": 448600,
+  "name": "Al Khālidīyah",
+  "country": "SA",
+  "coord": {
+    "lon": 46.759441,
+    "lat": 24.622219
+  }
+},
+{
+  "id": 3428067,
+  "name": "San Vicente",
+  "country": "AR",
+  "coord": {
+    "lon": -58.42276,
+    "lat": -35.025002
+  }
+},
+{
+  "id": 3179952,
+  "name": "Case Arfel",
+  "country": "IT",
+  "coord": {
+    "lon": 7.78333,
+    "lat": 44.25
+  }
+},
+{
+  "id": 6443216,
+  "name": "Fontaine-sous-Préaux",
+  "country": "FR",
+  "coord": {
+    "lon": 1.16806,
+    "lat": 49.48444
+  }
+},
+{
+  "id": 3017998,
+  "name": "Fontaine-sous-Préaux",
+  "country": "FR",
+  "coord": {
+    "lon": 1.16728,
+    "lat": 49.484051
+  }
+},
+{
+  "id": 3187413,
+  "name": "Volosko",
+  "country": "HR",
+  "coord": {
+    "lon": 14.3175,
+    "lat": 45.348888
+  }
+},
+{
+  "id": 2614935,
+  "name": "Ravnkilde",
+  "country": "DK",
+  "coord": {
+    "lon": 9.75264,
+    "lat": 56.756088
+  }
+},
+{
+  "id": 2611539,
+  "name": "Tolne",
+  "country": "DK",
+  "coord": {
+    "lon": 10.31169,
+    "lat": 57.48135
+  }
+},
+{
+  "id": 2612157,
+  "name": "Studsdal",
+  "country": "DK",
+  "coord": {
+    "lon": 9.59834,
+    "lat": 55.53117
+  }
+},
+{
+  "id": 2620249,
+  "name": "Hjelmager",
+  "country": "DK",
+  "coord": {
+    "lon": 10.31756,
+    "lat": 56.276562
+  }
+},
+{
+  "id": 2617834,
+  "name": "Lejbjerg",
+  "country": "DK",
+  "coord": {
+    "lon": 9.96667,
+    "lat": 57.01667
+  }
+},
+{
+  "id": 605314,
+  "name": "Karesuando",
+  "country": "SE",
+  "coord": {
+    "lon": 22.47047,
+    "lat": 68.43959
+  }
+},
+{
+  "id": 1688216,
+  "name": "Santa Cruz",
+  "country": "PH",
+  "coord": {
+    "lon": 120.98333,
+    "lat": 14.6
+  }
+},
+{
+  "id": 6545083,
+  "name": "Sol",
+  "country": "ES",
+  "coord": {
+    "lon": -3.70327,
+    "lat": 40.416641
+  }
+},
+{
+  "id": 8010463,
+  "name": "Freixo de Espada À Cinta",
+  "country": "PT",
+  "coord": {
+    "lon": -6.82463,
+    "lat": 41.12344
+  }
+},
+{
+  "id": 8014178,
+  "name": "Freixo de Espada À Cinta",
+  "country": "PT",
+  "coord": {
+    "lon": -6.82992,
+    "lat": 41.083981
+  }
+},
+{
+  "id": 2739222,
+  "name": "Freixo de Espada à Cinta",
+  "country": "PT",
+  "coord": {
+    "lon": -6.80648,
+    "lat": 41.090328
+  }
+},
+{
+  "id": 3998025,
+  "name": "Los Camotes",
+  "country": "MX",
+  "coord": {
+    "lon": -108.833328,
+    "lat": 27.26667
+  }
+},
+{
+  "id": 6433286,
+  "name": "Pisieu",
+  "country": "FR",
+  "coord": {
+    "lon": 5.06028,
+    "lat": 45.387218
+  }
+},
+{
+  "id": 3005646,
+  "name": "La Verrerie",
+  "country": "FR",
+  "coord": {
+    "lon": 5.08726,
+    "lat": 45.41375
+  }
+},
+{
+  "id": 2646356,
+  "name": "Hurst Green",
+  "country": "GB",
+  "coord": {
+    "lon": -2.48333,
+    "lat": 53.833328
+  }
+},
+{
+  "id": 3365999,
+  "name": "Kenridge",
+  "country": "ZA",
+  "coord": {
+    "lon": 18.63633,
+    "lat": -33.85918
+  }
+},
+{
+  "id": 3361026,
+  "name": "Stellenberg",
+  "country": "ZA",
+  "coord": {
+    "lon": 18.65992,
+    "lat": -33.866089
+  }
+},
+{
+  "id": 7304451,
+  "name": "Bagarmossen",
+  "country": "SE",
+  "coord": {
+    "lon": 18.131821,
+    "lat": 59.277199
+  }
+},
+{
+  "id": 3043700,
+  "name": "Trombitásmalom",
+  "country": "HU",
+  "coord": {
+    "lon": 16.949181,
+    "lat": 47.27306
+  }
+},
+{
+  "id": 6451495,
+  "name": "Gonfaron",
+  "country": "FR",
+  "coord": {
+    "lon": 6.28917,
+    "lat": 43.32056
+  }
+},
+{
+  "id": 4464080,
+  "name": "Drake",
+  "country": "US",
+  "coord": {
+    "lon": -77.817482,
+    "lat": 36.038212
+  }
+},
+{
+  "id": 2511125,
+  "name": "Santa María de Gracia",
+  "country": "ES",
+  "coord": {
+    "lon": -16.26667,
+    "lat": 28.466669
+  }
+},
+{
+  "id": 6542131,
+  "name": "Livigno",
+  "country": "IT",
+  "coord": {
+    "lon": 10.13375,
+    "lat": 46.53471
+  }
+},
+{
+  "id": 5415005,
+  "name": "Bronquist",
+  "country": "US",
+  "coord": {
+    "lon": -104.891647,
+    "lat": 38.20195
+  }
+},
+{
+  "id": 5415546,
+  "name": "Burnt Mill",
+  "country": "US",
+  "coord": {
+    "lon": -104.796371,
+    "lat": 38.05167
+  }
+},
+{
+  "id": 3832717,
+  "name": "Villa Independencia",
+  "country": "AR",
+  "coord": {
+    "lon": -64.513222,
+    "lat": -31.45594
+  }
+},
+{
+  "id": 1549542,
+  "name": "Zhudun",
+  "country": "CN",
+  "coord": {
+    "lon": 118.58889,
+    "lat": 34.561111
+  }
+},
+{
+  "id": 2688188,
+  "name": "Norsborg",
+  "country": "SE",
+  "coord": {
+    "lon": 17.81394,
+    "lat": 59.24493
+  }
+},
+{
+  "id": 3911642,
+  "name": "La Villa",
+  "country": "BO",
+  "coord": {
+    "lon": -65.800003,
+    "lat": -17.51667
+  }
+},
+{
+  "id": 3337383,
+  "name": "Værløse",
+  "country": "DK",
+  "coord": {
+    "lon": 12.375,
+    "lat": 55.724998
+  }
+},
+{
+  "id": 559577,
+  "name": "Gorodishchi",
+  "country": "RU",
+  "coord": {
+    "lon": 38.733608,
+    "lat": 55.110229
+  }
+},
+{
+  "id": 1882707,
+  "name": "Chinese Gardens",
+  "country": "SG",
+  "coord": {
+    "lon": 103.797783,
+    "lat": 1.31139
+  }
+},
+{
+  "id": 2617982,
+  "name": "Langå",
+  "country": "DK",
+  "coord": {
+    "lon": 10.72176,
+    "lat": 55.194229
+  }
+},
+{
+  "id": 2616773,
+  "name": "Mørke",
+  "country": "DK",
+  "coord": {
+    "lon": 10.38187,
+    "lat": 56.33453
+  }
+},
+{
+  "id": 2646588,
+  "name": "Horning",
+  "country": "GB",
+  "coord": {
+    "lon": 1.46491,
+    "lat": 52.70715
+  }
+},
+{
+  "id": 2610155,
+  "name": "Virum",
+  "country": "DK",
+  "coord": {
+    "lon": 12.45103,
+    "lat": 55.79488
+  }
+},
+{
+  "id": 2615754,
+  "name": "Ølby Lyng",
+  "country": "DK",
+  "coord": {
+    "lon": 12.18416,
+    "lat": 55.49015
+  }
+},
+{
+  "id": 2617179,
+  "name": "Lystrup",
+  "country": "DK",
+  "coord": {
+    "lon": 12.24028,
+    "lat": 55.36055
+  }
+},
+{
+  "id": 2641005,
+  "name": "Old Monkland",
+  "country": "GB",
+  "coord": {
+    "lon": -4.03781,
+    "lat": 55.850319
+  }
+},
+{
+  "id": 2612025,
+  "name": "Svenstrup",
+  "country": "DK",
+  "coord": {
+    "lon": 10.56038,
+    "lat": 56.407902
+  }
+},
+{
+  "id": 2610912,
+  "name": "Ulstrup",
+  "country": "DK",
+  "coord": {
+    "lon": 11.67649,
+    "lat": 55.32753
+  }
+},
+{
+  "id": 2620229,
+  "name": "Hjerm",
+  "country": "DK",
+  "coord": {
+    "lon": 8.63453,
+    "lat": 56.438438
+  }
+},
+{
+  "id": 2623240,
+  "name": "Bur",
+  "country": "DK",
+  "coord": {
+    "lon": 8.42665,
+    "lat": 56.36496
+  }
+},
+{
+  "id": 2610543,
+  "name": "Vemb",
+  "country": "DK",
+  "coord": {
+    "lon": 8.33749,
+    "lat": 56.3423
+  }
+},
+{
+  "id": 2620577,
+  "name": "Hee",
+  "country": "DK",
+  "coord": {
+    "lon": 8.2844,
+    "lat": 56.144371
+  }
+},
+{
+  "id": 2617822,
+  "name": "Lem",
+  "country": "DK",
+  "coord": {
+    "lon": 8.78626,
+    "lat": 56.591839
+  }
+},
+{
+  "id": 2611652,
+  "name": "Tistrup Stationsby",
+  "country": "DK",
+  "coord": {
+    "lon": 8.6043,
+    "lat": 55.717178
+  }
+},
+{
+  "id": 2614045,
+  "name": "Sig",
+  "country": "DK",
+  "coord": {
+    "lon": 8.57531,
+    "lat": 55.664619
+  }
+},
+{
+  "id": 2621307,
+  "name": "Gørding",
+  "country": "DK",
+  "coord": {
+    "lon": 8.7974,
+    "lat": 55.474651
+  }
+},
+{
+  "id": 2612273,
+  "name": "Strandby",
+  "country": "DK",
+  "coord": {
+    "lon": 8.43333,
+    "lat": 55.48333
+  }
+},
+{
+  "id": 2621488,
+  "name": "Gesing",
+  "country": "DK",
+  "coord": {
+    "lon": 8.44901,
+    "lat": 55.514439
+  }
+},
+{
+  "id": 2624850,
+  "name": "Alken",
+  "country": "DK",
+  "coord": {
+    "lon": 9.84693,
+    "lat": 56.052589
+  }
+},
+{
+  "id": 6453496,
+  "name": "Ry",
+  "country": "FR",
+  "coord": {
+    "lon": 1.3445,
+    "lat": 49.471199
+  }
+},
+{
+  "id": 2982098,
+  "name": "Ry",
+  "country": "FR",
+  "coord": {
+    "lon": 1.34245,
+    "lat": 49.471352
+  }
+},
+{
+  "id": 2623692,
+  "name": "Bording Stationsby",
+  "country": "DK",
+  "coord": {
+    "lon": 9.2765,
+    "lat": 56.144138
+  }
+},
+{
+  "id": 2612156,
+  "name": "Studsgård",
+  "country": "DK",
+  "coord": {
+    "lon": 8.9079,
+    "lat": 56.090172
+  }
+},
+{
+  "id": 2611221,
+  "name": "Troldhede",
+  "country": "DK",
+  "coord": {
+    "lon": 8.74471,
+    "lat": 55.991539
+  }
+},
+{
+  "id": 2623640,
+  "name": "Borris",
+  "country": "DK",
+  "coord": {
+    "lon": 8.64445,
+    "lat": 55.959881
+  }
+},
+{
+  "id": 2611731,
+  "name": "Thyregod",
+  "country": "DK",
+  "coord": {
+    "lon": 9.26217,
+    "lat": 55.909039
+  }
+},
+{
+  "id": 2618729,
+  "name": "Kliplev",
+  "country": "DK",
+  "coord": {
+    "lon": 9.40849,
+    "lat": 54.935848
+  }
+},
+{
+  "id": 2619664,
+  "name": "Humlum",
+  "country": "DK",
+  "coord": {
+    "lon": 8.55035,
+    "lat": 56.540539
+  }
+},
+{
+  "id": 2615880,
+  "name": "Oddesund Nord",
+  "country": "DK",
+  "coord": {
+    "lon": 8.54728,
+    "lat": 56.582378
+  }
+},
+{
+  "id": 2610971,
+  "name": "Uglev",
+  "country": "DK",
+  "coord": {
+    "lon": 8.54428,
+    "lat": 56.611462
+  }
+},
+{
+  "id": 2619553,
+  "name": "Hvidbjerg",
+  "country": "DK",
+  "coord": {
+    "lon": 9.74153,
+    "lat": 55.642731
+  }
+},
+{
+  "id": 2617211,
+  "name": "Lyngs",
+  "country": "DK",
+  "coord": {
+    "lon": 8.45206,
+    "lat": 56.665741
+  }
+},
+{
+  "id": 2622395,
+  "name": "Ettrup",
+  "country": "DK",
+  "coord": {
+    "lon": 8.40172,
+    "lat": 56.766201
+  }
+},
+{
+  "id": 2619863,
+  "name": "Hørdum",
+  "country": "DK",
+  "coord": {
+    "lon": 8.49002,
+    "lat": 56.848751
+  }
+},
+{
+  "id": 2613327,
+  "name": "Snedsted",
+  "country": "DK",
+  "coord": {
+    "lon": 8.52436,
+    "lat": 56.892448
+  }
+},
+{
+  "id": 2613968,
+  "name": "Sjørring",
+  "country": "DK",
+  "coord": {
+    "lon": 8.5893,
+    "lat": 56.9529
+  }
+},
+{
+  "id": 2621236,
+  "name": "Gredstedbro",
+  "country": "DK",
+  "coord": {
+    "lon": 8.73914,
+    "lat": 55.398281
+  }
+},
+{
+  "id": 2622765,
+  "name": "Egebæk",
+  "country": "DK",
+  "coord": {
+    "lon": 8.72721,
+    "lat": 55.282299
+  }
+},
+{
+  "id": 2614875,
+  "name": "Rejsby",
+  "country": "DK",
+  "coord": {
+    "lon": 8.71643,
+    "lat": 55.23476
+  }
+},
+{
+  "id": 2623326,
+  "name": "Brøns",
+  "country": "DK",
+  "coord": {
+    "lon": 8.72857,
+    "lat": 55.194981
+  }
+},
+{
+  "id": 2622962,
+  "name": "Døstrup",
+  "country": "DK",
+  "coord": {
+    "lon": 8.80857,
+    "lat": 55.118061
+  }
+},
+{
+  "id": 2623505,
+  "name": "Bredebro",
+  "country": "DK",
+  "coord": {
+    "lon": 8.82932,
+    "lat": 55.054829
+  }
+},
+{
+  "id": 2610150,
+  "name": "Visby",
+  "country": "DK",
+  "coord": {
+    "lon": 8.7804,
+    "lat": 55.010151
+  }
+},
+{
+  "id": 2618989,
+  "name": "Kavslunde",
+  "country": "DK",
+  "coord": {
+    "lon": 9.8096,
+    "lat": 55.48378
+  }
+},
+{
+  "id": 2616736,
+  "name": "Mosegård",
+  "country": "DK",
+  "coord": {
+    "lon": 9.90593,
+    "lat": 55.43716
+  }
+},
+{
+  "id": 2621522,
+  "name": "Gelsted",
+  "country": "DK",
+  "coord": {
+    "lon": 9.97314,
+    "lat": 55.398781
+  }
+},
+{
+  "id": 3255123,
+  "name": "Bara",
+  "country": "HR",
+  "coord": {
+    "lon": 18.921391,
+    "lat": 44.987221
+  }
+},
+{
+  "id": 6457120,
+  "name": "La Garde-Freinet",
+  "country": "FR",
+  "coord": {
+    "lon": 6.46917,
+    "lat": 43.31694
+  }
+},
+{
+  "id": 469671,
+  "name": "Yakhino",
+  "country": "RU",
+  "coord": {
+    "lon": 31.89249,
+    "lat": 56.460629
+  }
+},
+{
+  "id": 6451008,
+  "name": "Arâches-la-Frasse",
+  "country": "FR",
+  "coord": {
+    "lon": 6.63145,
+    "lat": 46.04327
+  }
+},
+{
+  "id": 6621555,
+  "name": "Flaine",
+  "country": "FR",
+  "coord": {
+    "lon": 6.68956,
+    "lat": 46.006561
+  }
+},
+{
+  "id": 6449121,
+  "name": "Mesquer",
+  "country": "FR",
+  "coord": {
+    "lon": -2.46,
+    "lat": 47.399441
+  }
+},
+{
+  "id": 2857763,
+  "name": "Öfingen",
+  "country": "DE",
+  "coord": {
+    "lon": 8.63663,
+    "lat": 47.990879
+  }
+},
+{
+  "id": 1853908,
+  "name": "Osaka",
+  "country": "JP",
+  "coord": {
+    "lon": 137.266663,
+    "lat": 35.950001
+  }
+},
+{
+  "id": 3908895,
+  "name": "Palca",
+  "country": "BO",
+  "coord": {
+    "lon": -64.900002,
+    "lat": -17.700001
+  }
+},
+{
+  "id": 959931,
+  "name": "Rooihuiskraal",
+  "country": "ZA",
+  "coord": {
+    "lon": 28.150761,
+    "lat": -25.894279
+  }
+},
+{
+  "id": 1764027,
+  "name": "Kampung Sungai Glugur",
+  "country": "MY",
+  "coord": {
+    "lon": 100.31353,
+    "lat": 5.36966
+  }
+},
+{
+  "id": 1763774,
+  "name": "Kampong Sungai Tanah Liat",
+  "country": "MY",
+  "coord": {
+    "lon": 100.683327,
+    "lat": 4.63333
+  }
+},
+{
+  "id": 1735105,
+  "name": "Kampung Sungai Nibung Besar",
+  "country": "MY",
+  "coord": {
+    "lon": 100.300194,
+    "lat": 5.33529
+  }
+},
+{
+  "id": 2623514,
+  "name": "Bred",
+  "country": "DK",
+  "coord": {
+    "lon": 10.10227,
+    "lat": 55.374989
+  }
+},
+{
+  "id": 2613919,
+  "name": "Skalbjerg",
+  "country": "DK",
+  "coord": {
+    "lon": 10.15256,
+    "lat": 55.367352
+  }
+},
+{
+  "id": 1015633,
+  "name": "Brink’s Vlakfontein",
+  "country": "ZA",
+  "coord": {
+    "lon": 27.799999,
+    "lat": -26.183331
+  }
+},
+{
+  "id": 3073557,
+  "name": "Klučov",
+  "country": "CZ",
+  "coord": {
+    "lon": 15.93508,
+    "lat": 49.166988
+  }
+},
+{
+  "id": 2623412,
+  "name": "Brændekilde",
+  "country": "DK",
+  "coord": {
+    "lon": 10.26712,
+    "lat": 55.347851
+  }
+},
+{
+  "id": 3573794,
+  "name": "Saint Clair",
+  "country": "TT",
+  "coord": {
+    "lon": -61.521679,
+    "lat": 10.67039
+  }
+},
+{
+  "id": 3310920,
+  "name": "Cooney",
+  "country": "IE",
+  "coord": {
+    "lon": -8.545,
+    "lat": 54.201939
+  }
+},
+{
+  "id": 2808686,
+  "name": "Wilhelmshöhe",
+  "country": "DE",
+  "coord": {
+    "lon": 8.58333,
+    "lat": 48.849998
+  }
+},
+{
+  "id": 3493000,
+  "name": "Santa Ana Arriba",
+  "country": "DO",
+  "coord": {
+    "lon": -70.349998,
+    "lat": 19.299999
+  }
+},
+{
+  "id": 3493612,
+  "name": "Sabana Angosta",
+  "country": "DO",
+  "coord": {
+    "lon": -70.401917,
+    "lat": 19.305401
+  }
+},
+{
+  "id": 1880701,
+  "name": "Chye Kay",
+  "country": "SG",
+  "coord": {
+    "lon": 103.824173,
+    "lat": 1.42611
+  }
+},
+{
+  "id": 6536421,
+  "name": "Paesana",
+  "country": "IT",
+  "coord": {
+    "lon": 7.27342,
+    "lat": 44.687229
+  }
+},
+{
+  "id": 794319,
+  "name": "Kannu",
+  "country": "EE",
+  "coord": {
+    "lon": 27.13139,
+    "lat": 57.90667
+  }
+},
+{
+  "id": 4568511,
+  "name": "Valle Verde",
+  "country": "PR",
+  "coord": {
+    "lon": -66.046829,
+    "lat": 18.25745
+  }
+},
+{
+  "id": 3110467,
+  "name": "Sallobente-Ermuaran",
+  "country": "ES",
+  "coord": {
+    "lon": -2.38534,
+    "lat": 43.197201
+  }
+},
+{
+  "id": 3427435,
+  "name": "Villa Galicia",
+  "country": "AR",
+  "coord": {
+    "lon": -58.379829,
+    "lat": -34.762249
+  }
+},
+{
+  "id": 7391131,
+  "name": "San Martin De Porres",
+  "country": "PH",
+  "coord": {
+    "lon": 121.043999,
+    "lat": 14.4961
+  }
+},
+{
+  "id": 8015556,
+  "name": "Vieux Lyon",
+  "country": "FR",
+  "coord": {
+    "lon": 4.82613,
+    "lat": 45.759109
+  }
+},
+{
+  "id": 3009453,
+  "name": "La Fillotte",
+  "country": "FR",
+  "coord": {
+    "lon": 5.01667,
+    "lat": 47.333328
+  }
+},
+{
+  "id": 6540574,
+  "name": "Solbiate Arno",
+  "country": "IT",
+  "coord": {
+    "lon": 8.81433,
+    "lat": 45.72197
+  }
+},
+{
+  "id": 6542517,
+  "name": "Solbiate",
+  "country": "IT",
+  "coord": {
+    "lon": 8.93314,
+    "lat": 45.78968
+  }
+},
+{
+  "id": 6429924,
+  "name": "Orve",
+  "country": "FR",
+  "coord": {
+    "lon": 6.55389,
+    "lat": 47.325829
+  }
+},
+{
+  "id": 2989168,
+  "name": "Orve",
+  "country": "FR",
+  "coord": {
+    "lon": 6.55343,
+    "lat": 47.325619
+  }
+},
+{
+  "id": 3574466,
+  "name": "Green Hill",
+  "country": "TT",
+  "coord": {
+    "lon": -61.566669,
+    "lat": 10.73333
+  }
+},
+{
+  "id": 4018711,
+  "name": "Altamirano",
+  "country": "MX",
+  "coord": {
+    "lon": -101.949997,
+    "lat": 20.73333
+  }
+},
+{
+  "id": 1694781,
+  "name": "Paranaque City",
+  "country": "PH",
+  "coord": {
+    "lon": 121.017487,
+    "lat": 14.48156
+  }
+},
+{
+  "id": 8133769,
+  "name": "Dimos Hydra / Ydra (Dimos Ydras)",
+  "country": "GR",
+  "coord": {
+    "lon": 23.433479,
+    "lat": 37.332211
+  }
+},
+{
+  "id": 6448071,
+  "name": "Esquibien",
+  "country": "FR",
+  "coord": {
+    "lon": -4.56278,
+    "lat": 48.025002
+  }
+},
+{
+  "id": 6573747,
+  "name": "Dongjinwon",
+  "country": "KR",
+  "coord": {
+    "lon": 127.145828,
+    "lat": 37.282501
+  }
+},
+{
+  "id": 5916974,
+  "name": "Caribou Ferry",
+  "country": "CA",
+  "coord": {
+    "lon": -62.681938,
+    "lat": 45.73344
+  }
+},
+{
+  "id": 1270138,
+  "name": "Hempur",
+  "country": "IN",
+  "coord": {
+    "lon": 80.583328,
+    "lat": 27.633329
+  }
+},
+{
+  "id": 485496,
+  "name": "Svoboda",
+  "country": "RU",
+  "coord": {
+    "lon": 38.666672,
+    "lat": 53.433331
+  }
+},
+{
+  "id": 1852679,
+  "name": "Seta",
+  "country": "JP",
+  "coord": {
+    "lon": 135.916672,
+    "lat": 34.966671
+  }
+},
+{
+  "id": 1847979,
+  "name": "Zeze-Awazumachi",
+  "country": "JP",
+  "coord": {
+    "lon": 135.899994,
+    "lat": 34.98333
+  }
+},
+{
+  "id": 2112034,
+  "name": "Maebara",
+  "country": "JP",
+  "coord": {
+    "lon": 140.100006,
+    "lat": 35.099998
+  }
+},
+{
+  "id": 6419719,
+  "name": "Chuo",
+  "country": "JP",
+  "coord": {
+    "lon": 140.126663,
+    "lat": 35.60778
+  }
+},
+{
+  "id": 1853072,
+  "name": "Sakurabashidōri",
+  "country": "JP",
+  "coord": {
+    "lon": 137.216675,
+    "lat": 36.700001
+  }
+},
+{
+  "id": 2114128,
+  "name": "Motodate",
+  "country": "JP",
+  "coord": {
+    "lon": 140.290283,
+    "lat": 38.35944
+  }
+},
+{
+  "id": 1898186,
+  "name": "Yakataishi",
+  "country": "JP",
+  "coord": {
+    "lon": 129.925003,
+    "lat": 33.521671
+  }
+},
+{
+  "id": 2129048,
+  "name": "Nakanosawa",
+  "country": "JP",
+  "coord": {
+    "lon": 141.550003,
+    "lat": 42.966671
+  }
+},
+{
+  "id": 1848575,
+  "name": "Yanada",
+  "country": "JP",
+  "coord": {
+    "lon": 139.483337,
+    "lat": 36.299999
+  }
+},
+{
+  "id": 2127436,
+  "name": "Yokohama",
+  "country": "JP",
+  "coord": {
+    "lon": 141.25,
+    "lat": 41.083328
+  }
+},
+{
+  "id": 3468504,
+  "name": "Cachoeira",
+  "country": "BR",
+  "coord": {
+    "lon": -49.26667,
+    "lat": -25.33333
+  }
+},
+{
+  "id": 595115,
+  "name": "Rumpiškė",
+  "country": "LT",
+  "coord": {
+    "lon": 21.15,
+    "lat": 55.700001
+  }
+},
+{
+  "id": 2849775,
+  "name": "Rebberg",
+  "country": "DE",
+  "coord": {
+    "lon": 7.8778,
+    "lat": 48.036999
+  }
+},
+{
+  "id": 2523125,
+  "name": "Siano",
+  "country": "IT",
+  "coord": {
+    "lon": 16.6,
+    "lat": 38.916672
+  }
+},
+{
+  "id": 2962486,
+  "name": "Mountjoy",
+  "country": "IE",
+  "coord": {
+    "lon": -6.25,
+    "lat": 53.349998
+  }
+},
+{
+  "id": 2816052,
+  "name": "Vornhagen",
+  "country": "DE",
+  "coord": {
+    "lon": 9.25,
+    "lat": 52.349998
+  }
+},
+{
+  "id": 3169413,
+  "name": "Riese Pio X",
+  "country": "IT",
+  "coord": {
+    "lon": 11.91667,
+    "lat": 45.73333
+  }
+},
+{
+  "id": 2798798,
+  "name": "Elverdinge",
+  "country": "BE",
+  "coord": {
+    "lon": 2.8171,
+    "lat": 50.884762
+  }
+},
+{
+  "id": 2963297,
+  "name": "Killurin",
+  "country": "IE",
+  "coord": {
+    "lon": -6.575,
+    "lat": 52.384998
+  }
+},
+{
+  "id": 1625995,
+  "name": "Sungaidua",
+  "country": "ID",
+  "coord": {
+    "lon": 116.01667,
+    "lat": -3.3
+  }
+},
+{
+  "id": 8133868,
+  "name": "Dimos Aristotelis",
+  "country": "GR",
+  "coord": {
+    "lon": 23.7236,
+    "lat": 40.483089
+  }
+},
+{
+  "id": 1348591,
+  "name": "Meria",
+  "country": "IN",
+  "coord": {
+    "lon": 88.327782,
+    "lat": 22.976669
+  }
+},
+{
+  "id": 6457113,
+  "name": "Le Beausset",
+  "country": "FR",
+  "coord": {
+    "lon": 5.80278,
+    "lat": 43.19833
+  }
+},
+{
+  "id": 3272007,
+  "name": "Plitka Draga",
+  "country": "HR",
+  "coord": {
+    "lon": 15.03694,
+    "lat": 44.55444
+  }
+},
+{
+  "id": 6439447,
+  "name": "Clenleu",
+  "country": "FR",
+  "coord": {
+    "lon": 1.871,
+    "lat": 50.5233
+  }
+},
+{
+  "id": 3024670,
+  "name": "Clenleu",
+  "country": "FR",
+  "coord": {
+    "lon": 1.87892,
+    "lat": 50.524231
+  }
+},
+{
+  "id": 6536637,
+  "name": "Caerano di San Marco",
+  "country": "IT",
+  "coord": {
+    "lon": 12.0028,
+    "lat": 45.785198
+  }
+},
+{
+  "id": 6543164,
+  "name": "Rogno",
+  "country": "IT",
+  "coord": {
+    "lon": 10.13216,
+    "lat": 45.85659
+  }
+},
+{
+  "id": 2802243,
+  "name": "Berendrecht",
+  "country": "BE",
+  "coord": {
+    "lon": 4.31419,
+    "lat": 51.342522
+  }
+},
+{
+  "id": 7731911,
+  "name": "Hovila",
+  "country": "FI",
+  "coord": {
+    "lon": 29.120159,
+    "lat": 63.555431
+  }
+},
+{
+  "id": 878676,
+  "name": "Zimbabwe",
+  "country": "ZW",
+  "coord": {
+    "lon": 30.91667,
+    "lat": -20.26667
+  }
+},
+{
+  "id": 3656356,
+  "name": "Hacienda Rumipamba",
+  "country": "EC",
+  "coord": {
+    "lon": -78.5,
+    "lat": -0.18333
+  }
+},
+{
+  "id": 7538533,
+  "name": "Pavão-Pavaozinho",
+  "country": "BR",
+  "coord": {
+    "lon": -43.196621,
+    "lat": -22.980141
+  }
+},
+{
+  "id": 7521912,
+  "name": "Consolação",
+  "country": "BR",
+  "coord": {
+    "lon": -46.657909,
+    "lat": -23.548491
+  }
+},
+{
+  "id": 4001811,
+  "name": "La Julia",
+  "country": "MX",
+  "coord": {
+    "lon": -117.066673,
+    "lat": 32.48333
+  }
+},
+{
+  "id": 4013403,
+  "name": "Colonia Herrera",
+  "country": "MX",
+  "coord": {
+    "lon": -117.066673,
+    "lat": 32.51667
+  }
+},
+{
+  "id": 2635808,
+  "name": "Tilty",
+  "country": "GB",
+  "coord": {
+    "lon": 0.31878,
+    "lat": 51.914101
+  }
+},
+{
+  "id": 7870801,
+  "name": "Harbourfront",
+  "country": "CA",
+  "coord": {
+    "lon": -79.383003,
+    "lat": 43.638779
+  }
+},
+{
+  "id": 2155552,
+  "name": "Nelsons Hill",
+  "country": "AU",
+  "coord": {
+    "lon": 145.25,
+    "lat": -37.799999
+  }
+},
+{
+  "id": 1501230,
+  "name": "Kur’ya",
+  "country": "RU",
+  "coord": {
+    "lon": 82.316673,
+    "lat": 51.599998
+  }
+},
+{
+  "id": 4017354,
+  "name": "Bascobampo",
+  "country": "MX",
+  "coord": {
+    "lon": -109.650002,
+    "lat": 26.98333
+  }
+},
+{
+  "id": 1787768,
+  "name": "Yamenkou",
+  "country": "CN",
+  "coord": {
+    "lon": 116.200279,
+    "lat": 39.882778
+  }
+},
+{
+  "id": 1266741,
+  "name": "Khetwādi",
+  "country": "IN",
+  "coord": {
+    "lon": 72.822372,
+    "lat": 18.959909
+  }
+},
+{
+  "id": 7091184,
+  "name": "Valenzuela",
+  "country": "PH",
+  "coord": {
+    "lon": 121.025398,
+    "lat": 14.5701
+  }
+},
+{
+  "id": 6543133,
+  "name": "Busnago",
+  "country": "IT",
+  "coord": {
+    "lon": 9.46375,
+    "lat": 45.616482
+  }
+},
+{
+  "id": 6542529,
+  "name": "Assago",
+  "country": "IT",
+  "coord": {
+    "lon": 9.12565,
+    "lat": 45.408871
+  }
+},
+{
+  "id": 6541777,
+  "name": "San Teodoro",
+  "country": "IT",
+  "coord": {
+    "lon": 9.67344,
+    "lat": 40.77037
+  }
+},
+{
+  "id": 3167663,
+  "name": "Sestière di Santa Croce",
+  "country": "IT",
+  "coord": {
+    "lon": 12.31842,
+    "lat": 45.439659
+  }
+},
+{
+  "id": 6537128,
+  "name": "Pantigliate",
+  "country": "IT",
+  "coord": {
+    "lon": 9.35355,
+    "lat": 45.436771
+  }
+},
+{
+  "id": 6536539,
+  "name": "Curno",
+  "country": "IT",
+  "coord": {
+    "lon": 9.60705,
+    "lat": 45.68898
+  }
+},
+{
+  "id": 6543740,
+  "name": "Caponago",
+  "country": "IT",
+  "coord": {
+    "lon": 9.37585,
+    "lat": 45.566479
+  }
+},
+{
+  "id": 6539477,
+  "name": "Carugate",
+  "country": "IT",
+  "coord": {
+    "lon": 9.34375,
+    "lat": 45.54977
+  }
+},
+{
+  "id": 6536291,
+  "name": "Marcon",
+  "country": "IT",
+  "coord": {
+    "lon": 12.29832,
+    "lat": 45.5606
+  }
+},
+{
+  "id": 6536527,
+  "name": "Baranzate",
+  "country": "IT",
+  "coord": {
+    "lon": 9.11724,
+    "lat": 45.527168
+  }
+},
+{
+  "id": 2950158,
+  "name": "Berlin",
+  "country": "DE",
+  "coord": {
+    "lon": 10.45,
+    "lat": 54.033329
+  }
+},
+{
+  "id": 1614875,
+  "name": "Ban Nong Yao",
+  "country": "TH",
+  "coord": {
+    "lon": 100.466667,
+    "lat": 14.88333
+  }
+},
+{
+  "id": 8056564,
+  "name": "Al Amān",
+  "country": "AE",
+  "coord": {
+    "lon": 54.423531,
+    "lat": 24.432261
+  }
+},
+{
+  "id": 6800035,
+  "name": "Panpo’bon-dong",
+  "country": "KR",
+  "coord": {
+    "lon": 126.987297,
+    "lat": 37.506329
+  }
+},
+{
+  "id": 7294501,
+  "name": "Colwall",
+  "country": "GB",
+  "coord": {
+    "lon": -2.37469,
+    "lat": 52.076328
+  }
+},
+{
+  "id": 2652518,
+  "name": "Colwall",
+  "country": "GB",
+  "coord": {
+    "lon": -2.38182,
+    "lat": 52.078709
+  }
+},
+{
+  "id": 7001297,
+  "name": "Gangxia",
+  "country": "CN",
+  "coord": {
+    "lon": 114.061363,
+    "lat": 22.540331
+  }
+},
+{
+  "id": 1899371,
+  "name": "Qingyu",
+  "country": "CN",
+  "coord": {
+    "lon": 107.178787,
+    "lat": 32.21571
+  }
+},
+{
+  "id": 1254447,
+  "name": "Timurnī",
+  "country": "IN",
+  "coord": {
+    "lon": 77.216667,
+    "lat": 22.366671
+  }
+},
+{
+  "id": 6539673,
+  "name": "Livo",
+  "country": "IT",
+  "coord": {
+    "lon": 9.30414,
+    "lat": 46.168491
+  }
+},
+{
+  "id": 3372490,
+  "name": "Valverde",
+  "country": "PT",
+  "coord": {
+    "lon": -25.133329,
+    "lat": 36.950001
+  }
+},
+{
+  "id": 7532936,
+  "name": "Wisznia Mała",
+  "country": "PL",
+  "coord": {
+    "lon": 17.030199,
+    "lat": 51.225399
+  }
+},
+{
+  "id": 7874460,
+  "name": "Krzyżanowice",
+  "country": "PL",
+  "coord": {
+    "lon": 17.050739,
+    "lat": 51.175251
+  }
+},
+{
+  "id": 587977,
+  "name": "Väänikvere",
+  "country": "EE",
+  "coord": {
+    "lon": 26.398331,
+    "lat": 58.513611
+  }
+},
+{
+  "id": 3507304,
+  "name": "El Hoyito",
+  "country": "DO",
+  "coord": {
+    "lon": -69.966011,
+    "lat": 19.416969
+  }
+},
+{
+  "id": 2814226,
+  "name": "Wanne-Eickel",
+  "country": "DE",
+  "coord": {
+    "lon": 7.16667,
+    "lat": 51.533329
+  }
+},
+{
+  "id": 2932026,
+  "name": "Eickelerbruch",
+  "country": "DE",
+  "coord": {
+    "lon": 7.16667,
+    "lat": 51.51667
+  }
+},
+{
+  "id": 3197263,
+  "name": "Krivaja",
+  "country": "HR",
+  "coord": {
+    "lon": 16.799999,
+    "lat": 45.716671
+  }
+},
+{
+  "id": 2641631,
+  "name": "New Hunstanton",
+  "country": "GB",
+  "coord": {
+    "lon": 0.49211,
+    "lat": 52.936531
+  }
+},
+{
+  "id": 2768815,
+  "name": "Pimpfing",
+  "country": "AT",
+  "coord": {
+    "lon": 13.55352,
+    "lat": 48.34267
+  }
+},
+{
+  "id": 705797,
+  "name": "Kirovskoye",
+  "country": "UA",
+  "coord": {
+    "lon": 38.363239,
+    "lat": 48.148251
+  }
+},
+{
+  "id": 6749251,
+  "name": "Dongbuzi",
+  "country": "TW",
+  "coord": {
+    "lon": 121.306458,
+    "lat": 25.00996
+  }
+},
+{
+  "id": 1673200,
+  "name": "Guomin",
+  "country": "TW",
+  "coord": {
+    "lon": 121.616669,
+    "lat": 24
+  }
+},
+{
+  "id": 1672222,
+  "name": "Huiyaozi",
+  "country": "TW",
+  "coord": {
+    "lon": 121.12825,
+    "lat": 22.76885
+  }
+},
+{
+  "id": 693577,
+  "name": "Svyatohirs’k",
+  "country": "UA",
+  "coord": {
+    "lon": 37.567081,
+    "lat": 49.0382
+  }
+},
+{
+  "id": 705798,
+  "name": "Kirovs’ke",
+  "country": "UA",
+  "coord": {
+    "lon": 33.077702,
+    "lat": 45.54504
+  }
+},
+{
+  "id": 7280714,
+  "name": "Colonia Roma",
+  "country": "MX",
+  "coord": {
+    "lon": -99.163048,
+    "lat": 19.41819
+  }
+},
+{
+  "id": 1006919,
+  "name": "Ebenhaezer",
+  "country": "ZA",
+  "coord": {
+    "lon": 28.283331,
+    "lat": -28.383329
+  }
+},
+{
+  "id": 2755862,
+  "name": "Fort",
+  "country": "NL",
+  "coord": {
+    "lon": 6.38611,
+    "lat": 52.651669
+  }
+},
+{
+  "id": 3463909,
+  "name": "Estaca",
+  "country": "BR",
+  "coord": {
+    "lon": -54.533329,
+    "lat": -20.299999
+  }
+},
+{
+  "id": 2950908,
+  "name": "Benzhausen",
+  "country": "DE",
+  "coord": {
+    "lon": 7.81667,
+    "lat": 48.049999
+  }
+},
+{
+  "id": 2757698,
+  "name": "Dedemsvaart",
+  "country": "NL",
+  "coord": {
+    "lon": 6.45833,
+    "lat": 52.599998
+  }
+},
+{
+  "id": 5972930,
+  "name": "Hazlet",
+  "country": "CA",
+  "coord": {
+    "lon": -108.60141,
+    "lat": 50.400082
+  }
+},
+{
+  "id": 2900248,
+  "name": "Holsterhausen",
+  "country": "DE",
+  "coord": {
+    "lon": 7.18333,
+    "lat": 51.533329
+  }
+},
+{
+  "id": 2932029,
+  "name": "Eickel",
+  "country": "DE",
+  "coord": {
+    "lon": 7.18333,
+    "lat": 51.51667
+  }
+},
+{
+  "id": 2784102,
+  "name": "Wanne",
+  "country": "BE",
+  "coord": {
+    "lon": 5.92083,
+    "lat": 50.355
+  }
+},
+{
+  "id": 2643273,
+  "name": "Lytham",
+  "country": "GB",
+  "coord": {
+    "lon": -2.96293,
+    "lat": 53.73695
+  }
+},
+{
+  "id": 5908999,
+  "name": "Bristol",
+  "country": "CA",
+  "coord": {
+    "lon": -76.466103,
+    "lat": 45.533409
+  }
+},
+{
+  "id": 1880242,
+  "name": "Somapah Serangoon",
+  "country": "SG",
+  "coord": {
+    "lon": 103.883331,
+    "lat": 1.36667
+  }
+},
+{
+  "id": 7910261,
+  "name": "Woodthorpe",
+  "country": "GB",
+  "coord": {
+    "lon": -1.12867,
+    "lat": 52.988991
+  }
+},
+{
+  "id": 6449590,
+  "name": "Autreville-sur-la-Renne",
+  "country": "FR",
+  "coord": {
+    "lon": 4.97917,
+    "lat": 48.117222
+  }
+},
+{
+  "id": 2978219,
+  "name": "Saint-Martin-sur-la-Renne",
+  "country": "FR",
+  "coord": {
+    "lon": 4.95387,
+    "lat": 48.145119
+  }
+},
+{
+  "id": 1507220,
+  "name": "Dovol’noye",
+  "country": "RU",
+  "coord": {
+    "lon": 79.667267,
+    "lat": 54.496498
+  }
+},
+{
+  "id": 1438738,
+  "name": "Ḩamāmak",
+  "country": "AF",
+  "coord": {
+    "lon": 61.87384,
+    "lat": 31.705509
+  }
+},
+{
+  "id": 7622194,
+  "name": "Perkampungan Kertih Lima",
+  "country": "MY",
+  "coord": {
+    "lon": 103.321899,
+    "lat": 4.5777
+  }
+},
+{
+  "id": 6539511,
+  "name": "Pieve Tesino",
+  "country": "IT",
+  "coord": {
+    "lon": 11.61029,
+    "lat": 46.068211
+  }
+},
+{
+  "id": 3174159,
+  "name": "Malga Quarazza",
+  "country": "IT",
+  "coord": {
+    "lon": 11.6,
+    "lat": 46.116669
+  }
+},
+{
+  "id": 593315,
+  "name": "Velžys",
+  "country": "LT",
+  "coord": {
+    "lon": 24.433331,
+    "lat": 55.700001
+  }
+},
+{
+  "id": 3239104,
+  "name": "Občina Naklo",
+  "country": "SI",
+  "coord": {
+    "lon": 14.28667,
+    "lat": 46.29361
+  }
+},
+{
+  "id": 3190253,
+  "name": "Spodnja Besnica",
+  "country": "SI",
+  "coord": {
+    "lon": 14.31667,
+    "lat": 46.26667
+  }
+},
+{
+  "id": 3502497,
+  "name": "La Guamita",
+  "country": "DO",
+  "coord": {
+    "lon": -70.684601,
+    "lat": 18.92034
+  }
+},
+{
+  "id": 2692644,
+  "name": "Marieberg",
+  "country": "SE",
+  "coord": {
+    "lon": 18.01667,
+    "lat": 59.333328
+  }
+},
+{
+  "id": 2187821,
+  "name": "Manakau",
+  "country": "NZ",
+  "coord": {
+    "lon": 175.216675,
+    "lat": -40.716671
+  }
+},
+{
+  "id": 7910024,
+  "name": "Binalong Bay",
+  "country": "AU",
+  "coord": {
+    "lon": 148.311646,
+    "lat": -41.251141
+  }
+},
+{
+  "id": 4011482,
+  "name": "Ejido Pantanito",
+  "country": "MX",
+  "coord": {
+    "lon": -111.050003,
+    "lat": 30.6
+  }
+},
+{
+  "id": 3946931,
+  "name": "Aznapuquio",
+  "country": "PE",
+  "coord": {
+    "lon": -77.066673,
+    "lat": -11.98333
+  }
+},
+{
+  "id": 3934385,
+  "name": "Naranjal",
+  "country": "PE",
+  "coord": {
+    "lon": -77.062218,
+    "lat": -11.97278
+  }
+},
+{
+  "id": 6538777,
+  "name": "Casalbore",
+  "country": "IT",
+  "coord": {
+    "lon": 15.00674,
+    "lat": 41.233921
+  }
+},
+{
+  "id": 8131502,
+  "name": "Satara Division",
+  "country": "IN",
+  "coord": {
+    "lon": 73.859283,
+    "lat": 18.51787
+  }
+},
+{
+  "id": 8222846,
+  "name": "Solnechnaya",
+  "country": "RU",
+  "coord": {
+    "lon": 131.732803,
+    "lat": 49.237499
+  }
+},
+{
+  "id": 3467431,
+  "name": "Cantareira",
+  "country": "BR",
+  "coord": {
+    "lon": -46.633331,
+    "lat": -23.466669
+  }
+},
+{
+  "id": 3456225,
+  "name": "Freguesia do O",
+  "country": "BR",
+  "coord": {
+    "lon": -46.699829,
+    "lat": -23.49877
+  }
+},
+{
+  "id": 2659921,
+  "name": "Les Pâquis",
+  "country": "CH",
+  "coord": {
+    "lon": 6.14676,
+    "lat": 46.210491
+  }
+},
+{
+  "id": 590457,
+  "name": "Määltse",
+  "country": "EE",
+  "coord": {
+    "lon": 22.76,
+    "lat": 58.852779
+  }
+},
+{
+  "id": 589004,
+  "name": "Ristivälja",
+  "country": "EE",
+  "coord": {
+    "lon": 22.771391,
+    "lat": 58.850559
+  }
+},
+{
+  "id": 3678413,
+  "name": "La Merced",
+  "country": "CO",
+  "coord": {
+    "lon": -74.069221,
+    "lat": 4.6213
+  }
+},
+{
+  "id": 6996360,
+  "name": "Biria Mādhogarh",
+  "country": "IN",
+  "coord": {
+    "lon": 79.191002,
+    "lat": 26.260201
+  }
+},
+{
+  "id": 1676959,
+  "name": "Erqiao",
+  "country": "TW",
+  "coord": {
+    "lon": 120.366669,
+    "lat": 22.549999
+  }
+},
+{
+  "id": 7300019,
+  "name": "Looe",
+  "country": "GB",
+  "coord": {
+    "lon": -4.46111,
+    "lat": 50.352951
+  }
+},
+{
+  "id": 3490446,
+  "name": "Four Paths",
+  "country": "JM",
+  "coord": {
+    "lon": -77.291687,
+    "lat": 17.96953
+  }
+},
+{
+  "id": 2822234,
+  "name": "Tiergarten",
+  "country": "DE",
+  "coord": {
+    "lon": 13.36667,
+    "lat": 52.51667
+  }
+},
+{
+  "id": 6268219,
+  "name": "Kobrino",
+  "country": "RU",
+  "coord": {
+    "lon": 30.11417,
+    "lat": 59.424721
+  }
+},
+{
+  "id": 3088150,
+  "name": "Prądnik Czerwony",
+  "country": "PL",
+  "coord": {
+    "lon": 19.97604,
+    "lat": 50.092468
+  }
+},
+{
+  "id": 3085041,
+  "name": "Śródmieście",
+  "country": "PL",
+  "coord": {
+    "lon": 19.939581,
+    "lat": 50.061779
+  }
+},
+{
+  "id": 7625467,
+  "name": "Tūsāsān",
+  "country": "IR",
+  "coord": {
+    "lon": 50.661572,
+    "lat": 36.919189
+  }
+},
+{
+  "id": 3231216,
+  "name": "Kerbonne",
+  "country": "FR",
+  "coord": {
+    "lon": -4.5012,
+    "lat": 48.383282
+  }
+},
+{
+  "id": 3231196,
+  "name": "Kéroriou",
+  "country": "FR",
+  "coord": {
+    "lon": -4.48333,
+    "lat": 48.383331
+  }
+},
+{
+  "id": 2755996,
+  "name": "Etten-Leur",
+  "country": "NL",
+  "coord": {
+    "lon": 4.63726,
+    "lat": 51.57056
+  }
+},
+{
+  "id": 8223990,
+  "name": "Kolonaki",
+  "country": "GR",
+  "coord": {
+    "lon": 23.74103,
+    "lat": 37.978661
+  }
+},
+{
+  "id": 6542798,
+  "name": "Cavaso del Tomba",
+  "country": "IT",
+  "coord": {
+    "lon": 11.8984,
+    "lat": 45.860699
+  }
+},
+{
+  "id": 6540389,
+  "name": "Asolo",
+  "country": "IT",
+  "coord": {
+    "lon": 11.9117,
+    "lat": 45.792301
+  }
+},
+{
+  "id": 6536482,
+  "name": "Castelseprio",
+  "country": "IT",
+  "coord": {
+    "lon": 8.86264,
+    "lat": 45.715969
+  }
+},
+{
+  "id": 6542068,
+  "name": "Oppido Lucano",
+  "country": "IT",
+  "coord": {
+    "lon": 15.98667,
+    "lat": 40.761822
+  }
+},
+{
+  "id": 6537618,
+  "name": "Filiano",
+  "country": "IT",
+  "coord": {
+    "lon": 15.70616,
+    "lat": 40.810719
+  }
+},
+{
+  "id": 3176508,
+  "name": "Frusci",
+  "country": "IT",
+  "coord": {
+    "lon": 15.73333,
+    "lat": 40.783329
+  }
+},
+{
+  "id": 663094,
+  "name": "Vatra Veche",
+  "country": "RO",
+  "coord": {
+    "lon": 27.966669,
+    "lat": 45.26667
+  }
+},
+{
+  "id": 1665988,
+  "name": "Zhigaozhuang",
+  "country": "TW",
+  "coord": {
+    "lon": 120.61602,
+    "lat": 24.154539
+  }
+},
+{
+  "id": 71532,
+  "name": "Muḩāfaz̧at Raymah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.666672,
+    "lat": 14.63333
+  }
+},
+{
+  "id": 6940638,
+  "name": "As Salafiyah",
+  "country": "YE",
+  "coord": {
+    "lon": 43.821602,
+    "lat": 14.6866
+  }
+},
+{
+  "id": 79657,
+  "name": "Al Ḩabīt",
+  "country": "YE",
+  "coord": {
+    "lon": 43.799999,
+    "lat": 14.75
+  }
+},
+{
+  "id": 2864071,
+  "name": "Neustadt",
+  "country": "DE",
+  "coord": {
+    "lon": 12.56667,
+    "lat": 52.400002
+  }
+},
+{
+  "id": 1704628,
+  "name": "Mabiga",
+  "country": "PH",
+  "coord": {
+    "lon": 120.585098,
+    "lat": 15.1917
+  }
+},
+{
+  "id": 3076348,
+  "name": "Dubí",
+  "country": "CZ",
+  "coord": {
+    "lon": 15.41857,
+    "lat": 49.533878
+  }
+},
+{
+  "id": 6811761,
+  "name": "Wŏnsŏngil-tong",
+  "country": "KR",
+  "coord": {
+    "lon": 127.161346,
+    "lat": 36.809792
+  }
+},
+{
+  "id": 696416,
+  "name": "Potok",
+  "country": "UA",
+  "coord": {
+    "lon": 25.03334,
+    "lat": 49.512241
+  }
+},
+{
+  "id": 6845986,
+  "name": "Mironovka",
+  "country": "RU",
+  "coord": {
+    "lon": 44.214001,
+    "lat": 54.499802
+  }
+},
+{
+  "id": 670942,
+  "name": "Petroman",
+  "country": "RO",
+  "coord": {
+    "lon": 21.116671,
+    "lat": 45.533329
+  }
+},
+{
+  "id": 2620274,
+  "name": "Hjallese",
+  "country": "DK",
+  "coord": {
+    "lon": 10.38499,
+    "lat": 55.348289
+  }
+},
+{
+  "id": 2624596,
+  "name": "Årslev",
+  "country": "DK",
+  "coord": {
+    "lon": 9.3485,
+    "lat": 55.026772
+  }
+},
+{
+  "id": 2615199,
+  "name": "Pederstrup",
+  "country": "DK",
+  "coord": {
+    "lon": 10.48753,
+    "lat": 55.285309
+  }
+},
+{
+  "id": 2617486,
+  "name": "Lombjerg",
+  "country": "DK",
+  "coord": {
+    "lon": 10.48705,
+    "lat": 55.229301
+  }
+},
+{
+  "id": 2622198,
+  "name": "Findinge",
+  "country": "DK",
+  "coord": {
+    "lon": 10.4216,
+    "lat": 55.21748
+  }
+},
+{
+  "id": 2618070,
+  "name": "Kværndrup",
+  "country": "DK",
+  "coord": {
+    "lon": 10.52549,
+    "lat": 55.177521
+  }
+},
+{
+  "id": 2612594,
+  "name": "Stenstrup",
+  "country": "DK",
+  "coord": {
+    "lon": 10.50474,
+    "lat": 55.133518
+  }
+},
+{
+  "id": 2623621,
+  "name": "Borup",
+  "country": "DK",
+  "coord": {
+    "lon": 9.50689,
+    "lat": 56.922081
+  }
+},
+{
+  "id": 2750888,
+  "name": "Middeldijk",
+  "country": "NL",
+  "coord": {
+    "lon": 4.51667,
+    "lat": 51.849998
+  }
+},
+{
+  "id": 2610888,
+  "name": "Understed",
+  "country": "DK",
+  "coord": {
+    "lon": 10.51667,
+    "lat": 57.383331
+  }
+},
+{
+  "id": 2613685,
+  "name": "Skodsborg",
+  "country": "DK",
+  "coord": {
+    "lon": 12.57324,
+    "lat": 55.822498
+  }
+},
+{
+  "id": 2613357,
+  "name": "Smidstrup",
+  "country": "DK",
+  "coord": {
+    "lon": 12.55787,
+    "lat": 55.865688
+  }
+},
+{
+  "id": 6460975,
+  "name": "Rastnik",
+  "country": "BG",
+  "coord": {
+    "lon": 25.283331,
+    "lat": 41.400002
+  }
+},
+{
+  "id": 727762,
+  "name": "Rastnik",
+  "country": "BG",
+  "coord": {
+    "lon": 25.283331,
+    "lat": 41.400002
+  }
+},
+{
+  "id": 596826,
+  "name": "Murava",
+  "country": "LT",
+  "coord": {
+    "lon": 23.966669,
+    "lat": 54.916672
+  }
+}
+]
