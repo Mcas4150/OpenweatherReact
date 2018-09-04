@@ -1,16 +1,17 @@
 import React, { Component } from "react";
 import cityList from "./city.list.json";
+import { Button, Input, Card } from "@material-ui/core";
 
 export default class Weather extends Component {
   constructor() {
     super();
     this.state = {
-      error: "Sorry, that is not a valid city",
+      error: false,
+      errorMessage: "Sorry, that is not a valid city",
       isLoaded: false,
       name: "",
       country: "",
-      temp: "",
-      location: ""
+      temp: ""
     };
     this.onSearch = this.onSearch.bind(this);
     this.onClickRandom = this.onClickRandom.bind(this);
@@ -37,7 +38,10 @@ export default class Weather extends Component {
         error => {
           this.setState({
             isLoaded: true,
-            error
+            error: true,
+            temp: " ",
+            country: " ",
+            name: " "
           });
         }
       );
@@ -66,33 +70,37 @@ export default class Weather extends Component {
   }
 
   render() {
-    let { name, temp, country } = this.state;
+    let { name, temp, country, error, errorMessage } = this.state;
 
     return (
-      <div>
-        <form onSubmit={this.onSearch}>
-          <input
-            type="search"
-            className="custom-search-class"
-            placeholder="City"
-            ref="city"
-          />
-          <input
-            type="search"
-            className="custom-search-class"
-            placeholder="Country"
-            ref="country"
-          />
+      <div className="container">
+        <Card className="col-lg-4">
+          <form onSubmit={this.onSearch}>
+            <input
+              type="search"
+              className="custom-search-class"
+              placeholder="City"
+              ref="city"
+            />
+            <br />
+            <input
+              type="search"
+              className="custom-search-class"
+              placeholder="Country"
+              ref="country"
+            />
+            <br />
+            <input type="submit" className="button" value="Get Weather" />
+          </form>
 
-          <input type="submit" className="button" value="Get Weather" />
-        </form>
+          <Button onClick={this.onClickRandom}>Random</Button>
+          <div>{error ? errorMessage : ""}</div>
+          <h3>
+            {name}, {country}
+          </h3>
 
-        <button onClick={this.onClickRandom}>Random</button>
-        <h3>
-          {name}, {country}
-        </h3>
-
-        <div>{temp}</div>
+          <div>{temp}</div>
+        </Card>
       </div>
     );
   }
