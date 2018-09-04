@@ -138,56 +138,6 @@ export default class Weather extends Component {
             </Card>
           </div>
         </div>
-
-        {/* <div className="weather-search">
-          <div className="row">
-            <Card className="col-lg-12">
-              <form onSubmit={this.onSearch}>
-                <Button onClick={this.onClickRandom}>Random</Button>
-                <input
-                  type="search"
-                  className="custom-search-class"
-                  placeholder="City"
-                  ref="city"
-                />
-                <input
-                  type="search"
-                  className="custom-search-class"
-                  placeholder="Country"
-                  ref="country"
-                />
-                <input type="submit" className="button" value="Get Weather" />
-              </form>
-            </Card>
-          </div>
-        </div>
-        <div className="weather-data">
-          <div className="row">
-            <div className="col-xs-12">
-              {" "}
-              <h3>
-                {name}, {country}
-              </h3>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-xs-12">
-              {" "}
-              <Card className="card col-xs-12">
-                <div>{error ? errorMessage : ""}</div>
-
-                <div>
-                  <b>Temperature</b>: {temp}
-                  °F
-                </div>
-                <div>
-                  <b>Humidity</b>: {humidity}%
-                </div>
-                <div>{description}</div>
-              </Card>
-            </div>
-          </div>
-        </div> */}
       </div>
     );
   }
