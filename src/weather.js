@@ -14,15 +14,14 @@ export default class Weather extends Component {
     };
     this.onSearch = this.onSearch.bind(this);
     this.onClickRandom = this.onClickRandom.bind(this);
+    this.getWeather = this.getWeather.bind(this);
   }
 
-  componentDidMount() {
+  getWeather(key, location) {
     const OPEN_WEATHER_MAP_URL = "http://api.openweathermap.org/data/2.5/";
     const DEFAULT_UNIT = "imperial";
     let apiKey = "a3ec3c40eccd28d909b1bb6ecfe621c0";
-    const key = "weather?";
-    let cityId = cityList[Math.floor(Math.random() * 100)].id;
-    let requestUrl = `${OPEN_WEATHER_MAP_URL}${key}id=${cityId}&appid=${apiKey}&units=${DEFAULT_UNIT}`;
+    let requestUrl = `${OPEN_WEATHER_MAP_URL}${key}${location}&appid=${apiKey}&units=${DEFAULT_UNIT}`;
 
     fetch(requestUrl)
       .then(res => res.json())
@@ -42,68 +41,28 @@ export default class Weather extends Component {
           });
         }
       );
+  }
+
+  componentDidMount() {
+    const key = "weather?id=";
+    let cityId = cityList[Math.floor(Math.random() * cityList.length)].id;
+    this.getWeather(key, cityId);
   }
 
   onClickRandom(e) {
     e.preventDefault();
-    const OPEN_WEATHER_MAP_URL = "http://api.openweathermap.org/data/2.5/";
-    const DEFAULT_UNIT = "imperial";
-    let apiKey = "a3ec3c40eccd28d909b1bb6ecfe621c0";
-    const key = "weather?";
+    const key = "weather?id=";
     let cityId = cityList[Math.floor(Math.random() * cityList.length)].id;
-    let requestUrl = `${OPEN_WEATHER_MAP_URL}${key}id=${cityId}&appid=${apiKey}&units=${DEFAULT_UNIT}`;
-
-    fetch(requestUrl)
-      .then(res => res.json())
-      .then(
-        data => {
-          this.setState({
-            isLoaded: true,
-            temp: data.main.temp,
-            country: data.sys.country,
-            name: data.name
-          });
-        },
-        error => {
-          this.setState({
-            isLoaded: true,
-            error
-          });
-        }
-      );
+    this.getWeather(key, cityId);
   }
 
   onSearch(e) {
     e.preventDefault();
+    const key = "weather?q=";
     let city = this.refs.city.value;
     let country = this.refs.country.value;
-    let encodedCity = encodeURIComponent(city);
-    let encodedCountry = encodeURIComponent(country);
-
-    const OPEN_WEATHER_MAP_URL = "http://api.openweathermap.org/data/2.5/";
-    const DEFAULT_UNIT = "imperial";
-    let apiKey = "a3ec3c40eccd28d909b1bb6ecfe621c0";
-    const key = "weather?q=";
-    let requestUrl = `${OPEN_WEATHER_MAP_URL}${key}${city},${country}&appid=${apiKey}&units=${DEFAULT_UNIT}`;
-
-    fetch(requestUrl)
-      .then(res => res.json())
-      .then(
-        data => {
-          this.setState({
-            isLoaded: true,
-            temp: data.main.temp,
-            country: data.sys.country,
-            name: data.name
-          });
-        },
-        error => {
-          this.setState({
-            isLoaded: true,
-            error
-          });
-        }
-      );
+    let location = city + "," + country;
+    this.getWeather(key, location);
   }
 
   render() {
