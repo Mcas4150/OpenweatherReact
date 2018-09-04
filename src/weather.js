@@ -23,7 +23,6 @@ export default class Weather extends Component {
     const key = "weather?";
     let cityId = cityList[Math.floor(Math.random() * 100)].id;
     let requestUrl = `${OPEN_WEATHER_MAP_URL}${key}id=${cityId}&appid=${apiKey}&units=${DEFAULT_UNIT}`;
-    // let requestUrl = "https://hn.algolia.com/api/v1/search?query=";
 
     fetch(requestUrl)
       .then(res => res.json())
@@ -53,7 +52,6 @@ export default class Weather extends Component {
     const key = "weather?";
     let cityId = cityList[Math.floor(Math.random() * cityList.length)].id;
     let requestUrl = `${OPEN_WEATHER_MAP_URL}${key}id=${cityId}&appid=${apiKey}&units=${DEFAULT_UNIT}`;
-    // let requestUrl = "https://hn.algolia.com/api/v1/search?query=";
 
     fetch(requestUrl)
       .then(res => res.json())
@@ -82,19 +80,11 @@ export default class Weather extends Component {
     let encodedCity = encodeURIComponent(city);
     let encodedCountry = encodeURIComponent(country);
 
-    // if (city.length > 0) {
-    //   this.refs.city.value = "";
-    //   this.refs.country.value = "";
-    //   window.location.hash =
-    //     "#/?location=" + encodedCity + "," + encodedCountry;
-    // }
-
     const OPEN_WEATHER_MAP_URL = "http://api.openweathermap.org/data/2.5/";
     const DEFAULT_UNIT = "imperial";
     let apiKey = "a3ec3c40eccd28d909b1bb6ecfe621c0";
     const key = "weather?q=";
     let requestUrl = `${OPEN_WEATHER_MAP_URL}${key}${city},${country}&appid=${apiKey}&units=${DEFAULT_UNIT}`;
-    // let requestUrl = "https://hn.algolia.com/api/v1/search?query=";
 
     fetch(requestUrl)
       .then(res => res.json())
