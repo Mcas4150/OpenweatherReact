@@ -1,6 +1,7 @@
 import React, { Component } from "react";
-import cityList from "./city.list.json";
+import cityList from "./json/city.list.json";
 import { Button, Input, Card } from "@material-ui/core";
+import "./style/weather.css";
 
 export default class Weather extends Component {
   constructor() {
@@ -74,7 +75,7 @@ export default class Weather extends Component {
 
     return (
       <div className="container">
-        <Card className="col-lg-4">
+        <Card className="card col-lg-4">
           <form onSubmit={this.onSearch}>
             <input
               type="search"
@@ -99,7 +100,10 @@ export default class Weather extends Component {
             {name}, {country}
           </h3>
 
-          <div>{temp}</div>
+          <div>
+            <b>Temperature</b>: {temp}
+            °F
+          </div>
         </Card>
       </div>
     );
