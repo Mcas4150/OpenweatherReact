@@ -30,3 +30,8 @@ input {
 .row {
   justify-content: center;
 }
+
+.error {
+  color: red;
+  font-weight: bold;
+}

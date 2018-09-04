@@ -29,27 +29,26 @@ export default class Weather extends Component {
 
     fetch(requestUrl)
       .then(res => res.json())
-      .then(
-        data => {
-          this.setState({
-            isLoaded: true,
-            temp: data.main.temp,
-            humidity: data.main.humidity,
-            description: data.weather[0].main,
-            country: data.sys.country,
-            name: data.name
-          });
-        },
-        error => {
-          this.setState({
-            isLoaded: true,
-            error: true,
-            temp: " ",
-            country: " ",
-            name: " "
-          });
-        }
-      );
+      .then(data => {
+        this.setState({
+          isLoaded: true,
+          temp: data.main.temp,
+          humidity: data.main.humidity,
+          description: data.weather[0].main,
+          country: data.sys.country,
+          name: data.name,
+          error: false
+        });
+      })
+      .catch(error => {
+        this.setState({
+          isLoaded: true,
+          error: true,
+          temp: " ",
+          country: " ",
+          name: " "
+        });
+      });
   }
 
   // Fetch random city weather on page load
@@ -93,6 +92,7 @@ export default class Weather extends Component {
         <div className="weather-search">
           <div className="row">
             <Card className="card col-xs-10 col-lg-8">
+              <h2 className="title">OpenWeatherMap</h2>
               <form onSubmit={this.onSearch}>
                 <input
                   type="search"
@@ -109,6 +109,8 @@ export default class Weather extends Component {
                 <input type="submit" className="button" value="Get Weather" />
                 <br />
                 <Button onClick={this.onClickRandom}>Random</Button>
+                <br />
+                <div className="error">{error ? errorMessage : ""}</div>
               </form>
               <h3>
                 {name}, {country}
