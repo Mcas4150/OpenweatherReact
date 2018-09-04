@@ -93,6 +93,8 @@ export default class Weather extends Component {
           <div className="row">
             <Card className="card col-xs-10 col-lg-8">
               <h2 className="title">OpenWeatherMap</h2>
+
+              <hr />
               <form onSubmit={this.onSearch}>
                 <input
                   type="search"
@@ -112,6 +114,7 @@ export default class Weather extends Component {
                 <br />
                 <div className="error">{error ? errorMessage : ""}</div>
               </form>
+              <hr />
               <h3>
                 {name}, {country}
               </h3>
@@ -123,6 +126,13 @@ export default class Weather extends Component {
                 <b>Humidity</b>: {humidity}%
               </div>
               <div>{description}</div>
+              <hr />
+              <p>
+                Created by{" "}
+                <a href="http://www.mikecassidy.info" target="_blank">
+                  Mike Cassidy
+                </a>
+              </p>
             </Card>
           </div>
         </div>

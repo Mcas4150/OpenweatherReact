@@ -35,3 +35,7 @@ input {
   color: red;
   font-weight: bold;
 }
+
+.title {
+  padding-top: 10px;
+}
