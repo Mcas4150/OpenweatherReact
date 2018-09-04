@@ -4,9 +4,13 @@ A Weather app utilizing the OpenWeatherMap API. Built using ReactJs
 
 ## To Run Locally
 
+first install packages
+
 ```
 npm install
 ```
+
+then run on localhost
 
 ```
 npm start
