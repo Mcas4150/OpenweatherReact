@@ -12,6 +12,8 @@ export default class Weather extends Component {
       isLoaded: false,
       name: "",
       country: "",
+      description: "",
+      humidity: "",
       temp: ""
     };
     this.onSearch = this.onSearch.bind(this);
@@ -32,6 +34,8 @@ export default class Weather extends Component {
           this.setState({
             isLoaded: true,
             temp: data.main.temp,
+            humidity: data.main.humidity,
+            description: data.weather[0].description,
             country: data.sys.country,
             name: data.name
           });
@@ -48,12 +52,14 @@ export default class Weather extends Component {
       );
   }
 
+  // Fetch random city weather on page load
   componentDidMount() {
     const key = "weather?id=";
     let cityId = cityList[Math.floor(Math.random() * cityList.length)].id;
     this.getWeather(key, cityId);
   }
 
+  // Fetch random city weather on random button click
   onClickRandom(e) {
     e.preventDefault();
     const key = "weather?id=";
@@ -61,6 +67,7 @@ export default class Weather extends Component {
     this.getWeather(key, cityId);
   }
 
+  // Fetch city & country weather on search button click
   onSearch(e) {
     e.preventDefault();
     const key = "weather?q=";
@@ -71,7 +78,15 @@ export default class Weather extends Component {
   }
 
   render() {
-    let { name, temp, country, error, errorMessage } = this.state;
+    let {
+      name,
+      temp,
+      country,
+      humidity,
+      description,
+      error,
+      errorMessage
+    } = this.state;
 
     return (
       <div className="container">
@@ -104,6 +119,10 @@ export default class Weather extends Component {
             <b>Temperature</b>: {temp}
             °F
           </div>
+          <div>
+            <b>Humidity</b>: {humidity}%
+          </div>
+          <div>{description}</div>
         </Card>
       </div>
     );
