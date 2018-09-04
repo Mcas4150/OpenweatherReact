@@ -35,7 +35,7 @@ export default class Weather extends Component {
             isLoaded: true,
             temp: data.main.temp,
             humidity: data.main.humidity,
-            description: data.weather[0].description,
+            description: data.weather[0].main,
             country: data.sys.country,
             name: data.name
           });
@@ -90,40 +90,90 @@ export default class Weather extends Component {
 
     return (
       <div className="container">
-        <Card className="card col-lg-4">
-          <form onSubmit={this.onSearch}>
-            <input
-              type="search"
-              className="custom-search-class"
-              placeholder="City"
-              ref="city"
-            />
-            <br />
-            <input
-              type="search"
-              className="custom-search-class"
-              placeholder="Country"
-              ref="country"
-            />
-            <br />
-            <input type="submit" className="button" value="Get Weather" />
-          </form>
-
-          <Button onClick={this.onClickRandom}>Random</Button>
-          <div>{error ? errorMessage : ""}</div>
-          <h3>
-            {name}, {country}
-          </h3>
-
-          <div>
-            <b>Temperature</b>: {temp}
-            °F
+        <div className="weather-search">
+          <div className="row">
+            <Card className="card col-xs-10 col-lg-8">
+              <form onSubmit={this.onSearch}>
+                <input
+                  type="search"
+                  className="custom-search-class"
+                  placeholder="City"
+                  ref="city"
+                />
+                <input
+                  type="search"
+                  className="custom-search-class"
+                  placeholder="Country"
+                  ref="country"
+                />
+                <input type="submit" className="button" value="Get Weather" />
+                <br />
+                <Button onClick={this.onClickRandom}>Random</Button>
+              </form>
+              <h3>
+                {name}, {country}
+              </h3>
+              <div>
+                <b>Temperature</b>: {temp}
+                °F
+              </div>
+              <div>
+                <b>Humidity</b>: {humidity}%
+              </div>
+              <div>{description}</div>
+            </Card>
           </div>
-          <div>
-            <b>Humidity</b>: {humidity}%
+        </div>
+
+        {/* <div className="weather-search">
+          <div className="row">
+            <Card className="col-lg-12">
+              <form onSubmit={this.onSearch}>
+                <Button onClick={this.onClickRandom}>Random</Button>
+                <input
+                  type="search"
+                  className="custom-search-class"
+                  placeholder="City"
+                  ref="city"
+                />
+                <input
+                  type="search"
+                  className="custom-search-class"
+                  placeholder="Country"
+                  ref="country"
+                />
+                <input type="submit" className="button" value="Get Weather" />
+              </form>
+            </Card>
           </div>
-          <div>{description}</div>
-        </Card>
+        </div>
+        <div className="weather-data">
+          <div className="row">
+            <div className="col-xs-12">
+              {" "}
+              <h3>
+                {name}, {country}
+              </h3>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-xs-12">
+              {" "}
+              <Card className="card col-xs-12">
+                <div>{error ? errorMessage : ""}</div>
+
+                <div>
+                  <b>Temperature</b>: {temp}
+                  °F
+                </div>
+                <div>
+                  <b>Humidity</b>: {humidity}%
+                </div>
+                <div>{description}</div>
+              </Card>
+            </div>
+          </div>
+        </div> */}
       </div>
     );
   }
