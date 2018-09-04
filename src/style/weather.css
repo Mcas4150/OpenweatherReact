@@ -39,3 +39,21 @@ input {
 .title {
   padding-top: 10px;
 }
+
+form {
+  padding-top: 5px;
+}
+
+.random:hover {
+  animation: shake 0.15s 0.01s infinite alternate;
+}
+
+@keyframes shake {
+  from {
+    transform: rotate(5deg);
+  }
+  to {
+    transform-origin: center center;
+    transform: rotate(-5deg);
+  }
+}

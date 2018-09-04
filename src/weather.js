@@ -110,7 +110,9 @@ export default class Weather extends Component {
                 />
                 <input type="submit" className="button" value="Get Weather" />
                 <br />
-                <Button onClick={this.onClickRandom}>Random</Button>
+                <Button className="random" onClick={this.onClickRandom}>
+                  Random
+                </Button>
                 <br />
                 <div className="error">{error ? errorMessage : ""}</div>
               </form>
