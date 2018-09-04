@@ -136,7 +136,7 @@ export default class Weather extends Component {
                 <div className="error">{error ? errorMessage : ""}</div>
               </form>
               <hr />
-              <h3>{name ? `${name} , ${country}` : "No City Nearby"}</h3>
+              <h3>{name ? `${name}, ${country}` : "No City Nearby"}</h3>
               <div>
                 <b>Longitude</b>: {longitude}
               </div>
