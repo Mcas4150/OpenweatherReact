@@ -14,10 +14,13 @@ export default class Weather extends Component {
       country: "",
       description: "",
       humidity: "",
-      temp: ""
+      temp: "",
+      longitude: "",
+      latitude: ""
     };
     this.onSearch = this.onSearch.bind(this);
-    this.onClickRandom = this.onClickRandom.bind(this);
+    this.onClickRandomCity = this.onClickRandomCity.bind(this);
+    this.onClickRandomCoords = this.onClickRandomCoords.bind(this);
     this.getWeather = this.getWeather.bind(this);
   }
 
@@ -36,6 +39,8 @@ export default class Weather extends Component {
           humidity: data.main.humidity,
           description: data.weather[0].main,
           country: data.sys.country,
+          latitude: data.coord.lat,
+          longitude: data.coord.lon,
           name: data.name,
           error: false
         });
@@ -58,8 +63,17 @@ export default class Weather extends Component {
     this.getWeather(key, cityId);
   }
 
-  // Fetch random city weather on random button click
-  onClickRandom(e) {
+  // Fetch random coordinates weather on random button click
+  onClickRandomCoords(e) {
+    e.preventDefault();
+    const key = "weather?";
+    let long = (Math.random() * 360 - 180).toFixed(2);
+    let lat = (Math.random() * 360 - 180).toFixed(2);
+    let location = `lat=${lat}&lon=${long}`;
+    this.getWeather(key, location);
+  }
+
+  onClickRandomCity(e) {
     e.preventDefault();
     const key = "weather?id=";
     let cityId = cityList[Math.floor(Math.random() * cityList.length)].id;
@@ -83,6 +97,8 @@ export default class Weather extends Component {
       country,
       humidity,
       description,
+      longitude,
+      latitude,
       error,
       errorMessage
     } = this.state;
@@ -110,16 +126,23 @@ export default class Weather extends Component {
                 />
                 <input type="submit" className="button" value="Get Weather" />
                 <br />
-                <Button className="random" onClick={this.onClickRandom}>
-                  Random
+                <Button className="random" onClick={this.onClickRandomCity}>
+                  Random City
+                </Button>
+                <Button className="random" onClick={this.onClickRandomCoords}>
+                  Random Coordinates
                 </Button>
                 <br />
                 <div className="error">{error ? errorMessage : ""}</div>
               </form>
               <hr />
-              <h3>
-                {name}, {country}
-              </h3>
+              <h3>{name ? `${name} , ${country}` : "No City Nearby"}</h3>
+              <div>
+                <b>Longitude</b>: {longitude}
+              </div>
+              <div>
+                <b>Latitude</b>: {latitude}
+              </div>
               <div>
                 <b>Temperature</b>: {temp}
                 °F
@@ -127,6 +150,7 @@ export default class Weather extends Component {
               <div>
                 <b>Humidity</b>: {humidity}%
               </div>
+
               <div>{description}</div>
               <hr />
               <p>
