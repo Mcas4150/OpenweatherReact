@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import cityList from "./json/city.list.json";
 import { Button, Input, Card } from "@material-ui/core";
+
 import "./style/weather.css";
 
 export default class Weather extends Component {
@@ -25,7 +26,7 @@ export default class Weather extends Component {
   }
 
   getWeather(key, location) {
-    const OPEN_WEATHER_MAP_URL = "http://api.openweathermap.org/data/2.5/";
+    const OPEN_WEATHER_MAP_URL = "https://api.openweathermap.org/data/2.5/";
     const DEFAULT_UNIT = "imperial";
     // normally hidden from github in .env config file, but left public for demo use
     let apiKey = "a3ec3c40eccd28d909b1bb6ecfe621c0";
@@ -138,6 +139,7 @@ export default class Weather extends Component {
               </form>
               <hr />
               <h3>{name ? `${name}, ${country}` : "No City Nearby"}</h3>
+
               <div>
                 <b>Longitude</b>: {longitude}
               </div>
