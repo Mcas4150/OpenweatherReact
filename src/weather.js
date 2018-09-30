@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import cityList from "./json/city.list.json";
-import { Button, Input, Card } from "@material-ui/core";
+import { Button, Card } from "@material-ui/core";
+import simpleMap from "./simpleMap";
 
 import "./style/weather.css";
 
@@ -110,7 +111,7 @@ export default class Weather extends Component {
         <div className="weather-search">
           <div className="row">
             <Card className="card col-xs-10 col-lg-8">
-              <h2 className="title">OpenWeatherMap</h2>
+              <h2 className="title">WeatherMap</h2>
 
               <hr />
               <form onSubmit={this.onSearch}>
@@ -126,7 +127,11 @@ export default class Weather extends Component {
                   placeholder="Country"
                   ref="country"
                 />
-                <input type="submit" className="button" value="Get Weather" />
+                <input
+                  type="submit"
+                  className="button weather-button"
+                  value="Get Weather"
+                />
                 <br />
                 <Button className="random" onClick={this.onClickRandomCity}>
                   Random City
@@ -158,7 +163,11 @@ export default class Weather extends Component {
               <hr />
               <p>
                 Created by{" "}
-                <a href="http://www.mikecassidy.info" target="_blank">
+                <a
+                  href="http://www.mikecassidy.info"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   Mike Cassidy
                 </a>
               </p>

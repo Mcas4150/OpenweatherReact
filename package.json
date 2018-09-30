@@ -5,11 +5,13 @@
   "dependencies": {
     "@material-ui/core": "^3.0.2",
     "axios": "^0.18.0",
+    "google-map-react": "^1.0.6",
     "json-loader": "^0.5.7",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-google-maps": "^9.4.5",
-    "react-scripts": "1.1.5"
+    "react-scripts": "1.1.5",
+    "recompose": "^0.30.0"
   },
   "scripts": {
     "start": "react-scripts start",

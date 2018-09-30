@@ -28,6 +28,15 @@ input {
   justify-content: center;
 }
 
+.weather-button {
+  background-color: skyblue;
+  color: white;
+}
+
+.weather-button:hover {
+  background-color: darkcyan;
+}
+
 .row {
   justify-content: center;
 }
