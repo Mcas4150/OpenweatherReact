@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import cityList from "./json/city.list.json";
 import { Button, Card } from "@material-ui/core";
-import simpleMap from "./simpleMap";
+// import simpleMap from "./simpleMap";
 
 import "./style/weather.css";
 
